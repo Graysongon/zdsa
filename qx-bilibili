@@ -1,5 +1,4 @@
-;hostname = api.bilibili.com, app.bilibili.com, api.live.bilibili.com, api.vc.bilibili.com, grpc.biliapi.net, api.biliapi.net, -broadcast.chat.bilibili.com, -*cdn*.biliapi.net, -*tracker*.biliapi.net, 124.239.240.*, 101.89.57.66, 218.94.210.66, 240e:b1:9801:206:11:0:0:*
-hostname = 114*0.*,61.172.1*.*,43.141.11.*,114.80.99.86,180.153.255.*,114.80.99.*,*.mysteel.*,61.172.194.196,180.153.*.*,*xima*,*xmcdn*,*.ximalaya.com,*.xmcdn.com,180.153.255.*,180.153.140.*,180.153.250.*,114.80.99.*,114.80.139.237,114.80.161.29,1.62.62.64,51*.com,1.194.255.171, 23.236.99.89, 36.99.200.135, 42.81.4.198, 42.81.26.128, 42.81.120.58, 43.132.80.77, 43.132.83.175, 43.132.84.11, 43.152.24.12, 43.152.24.18, 43.152.25.127, 43.152.29.38, 43.175.16.34, 43.175.22.25, 43.175.44.15, 49.7.69.197, 49.51.224.95, 101.33.11.32, 101.33.11.106, 101.33.20.34, 101.33.29.110, 103.105.60.99, 114.80.99.90, 114.80.99.70, 114.80.99.71, 114.80.99.89, 114.80.99.91, 114.80.99.88, 114.80.99.87, 140.249.84.135, 140.249.85.189, 150.109.90.80, 150.109.91.35, 150.138.47.94, 150.138.136.145, 203.205.136.87, 203.205.136.100, 203.205.136.102, 203.205.136.159, 203.205.137.27, 203.205.137.87, 203.205.137.241, 203.205.250.111, 203.205.250.113, 211.152.137.25,ulogs.umeng.com,passport.ximalaya.com
+hostname = 114*0.*,61.172.1*.*,43.141.11.*,114.80.99.86,180.153.255.*,114.80.99.*,*.mysteel.*,61.172.194.196,180.153.*.*,*xima*,*xmcdn*,*.ximalaya.com,*.xmcdn.com,180.153.255.*,180.153.140.*,180.153.250.*,114.80.99.*,114.80.139.237,114.80.161.29,1.62.62.64,51*.com,1.194.255.171, 23.236.99.89, 36.99.200.135, 42.81.4.198, 42.81.26.128, 42.81.120.58, 43.132.80.77, 43.132.83.175, 43.132.84.11, 43.152.24.12, 43.152.24.18, 43.152.25.127, 43.152.29.38, 43.175.16.34, 43.175.22.25, 43.175.44.15, 49.7.69.197, 49.51.224.95, 101.33.11.32, 101.33.11.106, 101.33.20.34, 101.33.29.110, 103.105.60.99, 114.80.99.90, 114.80.99.70, 114.80.99.71, 114.80.99.89, 114.80.99.91, 114.80.99.88, 114.80.99.87, 140.249.84.135, 140.249.85.189, 150.109.90.80, 150.109.91.35, 150.138.47.94, 150.138.136.145, 203.205.136.87, 203.205.136.100, 203.205.136.102, 203.205.136.159, 203.205.137.27, 203.205.137.87, 203.205.137.241, 203.205.250.111, 203.205.250.113, 211.152.137.25,ulogs.umeng.com,passport.ximalaya.com,i0.hdslb.com,app.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com, api.bilibili.com, manga.bilibili.com, api.biliapi.net, -broadcast.chat.bilibili.com, -*cdn*.biliapi.net, -*tracker*.biliapi.net, d.bilibili.com，api.bilibili.com, app.bilibili.com, api.live.bilibili.com, api.vc.bilibili.com, grpc.biliapi.net, api.biliapi.net, -broadcast.chat.bilibili.com, -*cdn*.biliapi.net, -*tracker*.biliapi.net, 124.239.240.*, 101.89.57.66, 218.94.210.66, 240e:b1:9801:206:11:0:0:*
 
 
 # 哔哩哔哩解锁大会员
@@ -136,3 +135,62 @@ hostname = 114*0.*,61.172.1*.*,43.141.11.*,114.80.99.86,180.153.255.*,114.80.99.
 
 # 说明：打开粉色B站-我的-个性装扮，选择喜欢的装扮进入装扮详情页，如果通知获取装扮信息成功，则可以使用本脚本。更换装扮需要退后台重进两次
 ^https:\/\/api\.bilibili\.com\/x\/garb\/v2\/mall\/suit\/detail url script-response-body https://raw.githubusercontent.com/kokoryh/Script/master/js/bili-suit-detail.js
+#哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分     grpc.biliapi.net
+^https:\/\/ap(p|i)\.bilibili\.com\/(pgc\/view\/(v\d\/)?app|x(\/v\d)?\/view\/video)\/(season|online)\?access_key url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_Auto_Regions.js
+#可选, 适用于搜索指定地区的番剧
+^https:\/\/app\.bilibili\.com\/x\/v\d\/search(\/type)?\?.+?%20(%E6%B8%AF|%E5%8F%B0|%E4%B8%AD)& url script-request-header https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_Auto_Regions.js
+
+# ～ BiliBili_哔哩哔哩_屏蔽IP请求
+^https?:\/\/app\.bilibili\.com\/x\/resource\/ip url reject
+# ～ BiliBili_哔哩哔哩_屏蔽DefaultWord
+^https?:\/\/app\.bilibili\.com\/bilibili\.app\.interface\.v1\.Search\/Default url reject
+# ～ BiliBili_哔哩哔哩_屏蔽首页右上活动
+^https?:\/\/app\.bilibili\.com\/x\/resource\/top\/activity url reject-dict
+# ～ BiliBili_哔哩哔哩_启动时开启直连模式
+^https?:\/\/app\.bilibili\.com\/x\/resource\/domain url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_startup_direct.js
+# ～ BiliBili_哔哩哔哩_繁体CC字幕转中文简体
+^https?:\/\/i.\.hdslb\.com\/bfs\/subtitle\/.+\.json$ url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_cc.js
+# ～ BiliBili_哔哩哔哩_观影页面去广告
+^https?:\/\/api\.(bilibili|biliapi)\.(com|net)\/pgc\/page\/cinema\/tab\? url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_json.js
+# ～ BiliBili_哔哩哔哩_应用开屏去广告
+^https://app.bilibili.com/x/v2/splash/show url reject-dict
+# ～ BiliBili_哔哩哔哩_应用开屏广告预加载
+^https:\/\/app\.bilibili\.com\/x\/v2\/splash\/list url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_json.js
+# ～ BiliBili_哔哩哔哩_去除统一设置的皮肤
+^https?:\/\/app\.bilibili\.com\/x\/resource\/show\/skin\? url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_json.js
+# ～ BiliBili_哔哩哔哩_1080P高码率+4K画质(番剧和影视除外)
+^https?:\/\/app\.bilibili\.com\/x\/v2\/account\/myinfo\? url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_json.js
+# ～ BiliBili_哔哩哔哩_热搜发现
+^https://app.bilibili.com/x/v2/search/square url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_json.js
+# ～ BiliBili_哔哩哔哩_Defaultword
+^https://app.bilibili.com/x/v2/search/defaultwords url reject-dict
+# ～ BiliBili_哔哩哔哩_Material_Ad
+^https?:\/\/api\.bilibili\.com\/x\/vip\/ads\/material\/report url reject-dict
+# ～ BiliBili_哔哩哔哩_小卡片广告
+^https://api.bilibili.com/pgc/season/player/cards url reject-dict
+# ～ BiliBili_哔哩哔哩_解除SIM卡地区限制
+;(^https?:\/\/app\.biliintl.com\/intl\/.+)(&sim_code=\d+)(.+) url 302 $1$3
+# ～ BiliBili_哔哩哔哩_去除搜索中的大家都在搜
+^https?:\/\/api\.vc\.bilibili\.com\/search_svr\/v\d\/Search\/recommend_words url reject
+# ～ BiliBili_哔哩哔哩_去除动态中的话题
+^https?:\/\/api\.vc\.bilibili\.com\/topic_svr\/v1\/topic_svr url reject-dict
+# ～ BiliBili_哔哩哔哩_可能的一些推广
+^https?:\/\/api\.bilibili\.com\/pgc\/season\/app\/related\/recommend\? url reject-dict
+# ～ BiliBili_哔哩哔哩_漫画去广告
+^https?:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/(Flash|ListFlash) url reject-dict
+# ～ BiliBili_哔哩哔哩_推荐去广告
+^https?:\/\/app\.bilibili\.com\/x\/v2\/feed\/index url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_json.js
+# ～ BiliBili_哔哩哔哩_追番去广告
+^https?:\/\/api\.(bilibili|biliapi)\.(com|net)\/pgc\/page\/bangumi url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_json.js
+# ～ BiliBili_哔哩哔哩_直播去广告
+^https?:\/\/api\.live\.bilibili\.com\/xlive\/app-room\/v1\/index\/getInfoByRoom url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_json.js
+# ～ BiliBili_哔哩哔哩_动态去广告
+^https?:\/\/api\.vc\.bilibili\.com\/dynamic_svr\/v1\/dynamic_svr\/dynamic_(history|new)\? url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_json.js
+# ～ BiliBili_哔哩哔哩_标籤页处理
+^https?:\/\/app\.bilibili\.com\/x\/resource\/show\/tab url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_json.js
+# ～ BiliBili_哔哩哔哩_我的页面处理
+^https?:\/\/app\.bilibili\.com\/x\/v2\/account\/mine url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_json.js
+# ～ BiliBili_哔哩哔哩_Proto去广告
+^https:\/\/app\.bilibili\.com\/bilibili\.app\.(view\.v1\.View\/View|dynamic\.v2\.Dynamic\/DynAll)$ url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili-proto.js
+# ～ BiliBili_哔哩哔哩_动态广告
+;^https://app\.bilibili\.com/bilibili\.app\.dynamic\.v2\.Dynamic/DynAll$ url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_dynamic.js
