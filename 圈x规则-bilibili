@@ -2,14 +2,14 @@ hostname = 114*0.*,61.172.1*.*,43.141.11.*,114.80.99.86,180.153.255.*,114.80.99.
 
 
 # 哔哩哔哩解锁大会员
-^http[s]?:\/\/((app|api)\.(\w{2,15})?\.(com|cn)).*player\.(v3|v2|v1).Play(URL|View).*$ url script-request-header https://raw.githubusercontent.com/gjwj666/qx/main/bilibilick.js
-;^http[s]?:\/\/.+bilibili.+((pgc\/player\/api\/playurl)|(x\/v2\/account\/myinfo\?)|(x\/v2\/account/mine\?)).*$ url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/bilibilibd.js
+#^http[s]?:\/\/((app|api)\.(\w{2,15})?\.(com|cn)).*player\.(v3|v2|v1).Play(URL|View).*$ url script-request-header https://raw.githubusercontent.com/gjwj666/qx/main/bilibilick.js
+^http[s]?:\/\/.+bilibili.+((pgc\/player\/api\/playurl)|(x\/v2\/account\/myinfo\?)|(x\/v2\/account/mine\?)).*$ url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/bilibilibd.js
 
 # > 哔哩哔哩会员限定版
 ^https?:\/\/ap(i|p)\.bilibili\.com\/bilibili\.\w{3,9}\..+\/(View|Play(URL|View(Unite)?|Conf|erOnline)|MainList|ViewProgress)$ url script-request-header https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/BiliBili/BiLiBiLiBVIPCrack.js
 # > 哔哩哔哩魔改
 ^https?:\/\/ap(i|p)\.bilibili\.com\/x\/(vip|v2|resource)\/(space|account|web|price|top_panel_info|show)(\/|\?)(mine|myinfo|access|vip_center|panel|_bridge|skin\?).* url script-response-body https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/BiliBili/bili_info.js
-^https?:\/\/ap(i|p)\.bilibili\.com\/x\/(vip|v2|resource)\/(account|web|price|top_panel_info)(\/|\?)(mine|myinfo|vip_center|panel|_bridge\?).* url script-response-body https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/BiliBili/bili_info.js
+#^https?:\/\/ap(i|p)\.bilibili\.com\/x\/(vip|v2|resource)\/(account|web|price|top_panel_info)(\/|\?)(mine|myinfo|vip_center|panel|_bridge\?).* url script-response-body https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/BiliBili/bili_info.js
 
 # ～ BiliBili_哔哩哔哩_视频播放下方商品推广@ddgksf2013
 ^https?:\/\/api\.bili(api|bili)\.(net|com)\/pgc\/season\/app\/related\/recommend\? url script-response-body https://raw.githubusercontent.com/xuandrew/Quantumult-X/master/Script/bilibili_json.js
@@ -24,7 +24,6 @@ hostname = 114*0.*,61.172.1*.*,43.141.11.*,114.80.99.86,180.153.255.*,114.80.99.
 ^https?:\/\/api\.bilibili\.com\/pgc\/activity\/deliver\/material\/receive url reject-dict
 
 # BiliBili_哔哩哔哩_屏蔽IP请求@ddgksf2013
-;^https?:\/\/app\.bilibili\.com\/x\/resource\/ip url reject
 ^https:\/\/api\.bilibili\.com\/x\/web-interface\/zone\?jsonp url reject-dict
 ^https:\/\/app\.bilibili\.com\/x\/resource\/ip url reject-dict
 
@@ -33,13 +32,6 @@ hostname = 114*0.*,61.172.1*.*,43.141.11.*,114.80.99.86,180.153.255.*,114.80.99.
 
 # BiliBili_哔哩哔哩_屏蔽首页右上活动[卸载重装]@ddgksf2013 & 标签页处理
 ^https?:\/\/app\.bilibili\.com\/x\/resource\/top\/activity url script-response-body https://raw.githubusercontent.com/xuandrew/Quantumult-X/master/Script/bilibili_json.js
-
-
-# BiliBili_哔哩哔哩_启动时开启直连模式[自行启用]@ddgksf2013
-
-
-# BiliBili_哔哩哔哩_繁体CC字幕转中文简体[自行启用]@ddgksf2013
-
 
 # BiliBili_哔哩哔哩_观影页面去广告@ddgksf2013 & 追番去广告
 ^https?:\/\/api\.(bilibili|biliapi)\.(com|net)\/pgc\/page\/cinema\/tab\? url script-response-body https://raw.githubusercontent.com/xuandrew/Quantumult-X/master/Script/bilibili_json.js
@@ -114,7 +106,6 @@ hostname = 114*0.*,61.172.1*.*,43.141.11.*,114.80.99.86,180.153.255.*,114.80.99.
 
 # 搜索去广告
 ^https?:\/\/(grpc\.biliapi\.net|app\.bilibili\.com)\/bilibili\.polymer\.app\.search\.v1\.Search\/SearchAll$ url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/bilibili_proto_beta.js
-# 青少年提示框
 
 # 播放页去广告
 ^https?:\/\/(app\.bilibili\.com|grpc\.biliapi\.net)\/bilibili\.community\.service\.dm\.v1\.DM\/(DmView|DmSegMobile) url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/bilibili_proto_beta.js
@@ -135,6 +126,7 @@ hostname = 114*0.*,61.172.1*.*,43.141.11.*,114.80.99.86,180.153.255.*,114.80.99.
 
 # 说明：打开粉色B站-我的-个性装扮，选择喜欢的装扮进入装扮详情页，如果通知获取装扮信息成功，则可以使用本脚本。更换装扮需要退后台重进两次
 ^https:\/\/api\.bilibili\.com\/x\/garb\/v2\/mall\/suit\/detail url script-response-body https://raw.githubusercontent.com/kokoryh/Script/master/js/bili-suit-detail.js
+
 #哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分     grpc.biliapi.net
 ^https:\/\/ap(p|i)\.bilibili\.com\/(pgc\/view\/(v\d\/)?app|x(\/v\d)?\/view\/video)\/(season|online)\?access_key url script-response-body https://raw.githubusercontent.com/98kevinxiao/javascript/main/Bilibili_Auto_Regions.js
 #可选, 适用于搜索指定地区的番剧
