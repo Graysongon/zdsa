@@ -36,10 +36,10 @@ hostname = 114*0.*,61.172.1*.*,43.141.11.*,114.80.99.86,180.153.255.*,114.80.99.
 
 
 # BiliBili_哔哩哔哩_启动时开启直连模式[自行启用]@ddgksf2013
-^https?:\/\/app\.bilibili\.com\/x\/resource\/domain url script-response-body https://codeberg.org/ddgksf2013/Cuttlefish/raw/branch/master/Script/bilibili_startup_direct.js
+
 
 # BiliBili_哔哩哔哩_繁体CC字幕转中文简体[自行启用]@ddgksf2013
-^https?:\/\/i.\.hdslb\.com\/bfs\/subtitle\/.+\.json$ url script-response-body https://codeberg.org/ddgksf2013/Cuttlefish/raw/branch/master/Script/bilibili_cc.js
+
 
 # BiliBili_哔哩哔哩_观影页面去广告@ddgksf2013 & 追番去广告
 ^https?:\/\/api\.(bilibili|biliapi)\.(com|net)\/pgc\/page\/cinema\/tab\? url script-response-body https://raw.githubusercontent.com/xuandrew/Quantumult-X/master/Script/bilibili_json.js
