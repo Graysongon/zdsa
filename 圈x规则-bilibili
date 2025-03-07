@@ -12,7 +12,7 @@ hostname = 114*0.*,61.172.1*.*,43.141.11.*,114.80.99.86,180.153.255.*,114.80.99.
 ;^https:\/\/api\.bilibili\.com\/pgc\/view\/app\/season url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/bilibili_season_qx.js
 ;^https:\/\/api\.bilibili\.com\/pgc\/player\/api\/playurl url script-response-body https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Script/bilibili_playurl_qx.js
 # 哔哩哔哩解锁大会员
-^http[s]?:\/\/((app|api)\.(\w{2,15})?\.(com|cn)).*player\.(v3|v2|v1).Play(URL|View).*$ url script-request-header https://raw.githubusercontent.com/gjwj666/qx/main/bilibilick.js
+#^http[s]?:\/\/((app|api)\.(\w{2,15})?\.(com|cn)).*player\.(v3|v2|v1).Play(URL|View).*$ url script-request-header https://raw.githubusercontent.com/gjwj666/qx/main/bilibilick.js
 #^http[s]?:\/\/.+bilibili.+((pgc\/player\/api\/playurl)|(x\/v2\/account\/myinfo\?)|(x\/v2\/account/mine\?)).*$ url script-response-body https://raw.githubusercontent.com/gjwj666/qx/main/bilibilibd.js
 
 # > 哔哩哔哩会员限定版
