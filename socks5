@@ -1,4 +1,3 @@
-```
 socks5=43.100.108.221:3060, username=123, password=123, fast-open=false, udp-relay=false, tag=🇭🇰 香港
 socks5=43.100.109.203:3060, username=123, password=123, fast-open=false, udp-relay=false, tag=🇭🇰 香港
 socks5=43.100.109.196:3060, username=123, password=123, fast-open=false, udp-relay=false, tag=🇭🇰 香港
@@ -89,4 +88,3 @@ socks5=8.218.222.20:11209, username=111, password=111, fast-open=false, udp-rela
 socks5=8.213.206.13:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇹🇭 泰国_曼谷
 socks5=8.212.170.151:11300, username=1, password=1, fast-open=false, udp-relay=false, tag=🇵🇭 菲律宾_马尼拉大都会_马尼拉
 socks5=8.212.181.246:11434, username=1, password=1, fast-open=false, udp-relay=false, tag=🇵🇭 菲律宾_马尼拉大都会_马尼拉
-```
