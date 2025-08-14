@@ -381,3 +381,6 @@ socks5=47.243.81.60:11335, username=1, password=1, fast-open=false, udp-relay=fa
 socks5=47.243.90.13:11300, username=123, password=123, fast-open=false, udp-relay=false, tag=🇭🇰 香港
 socks5=47.243.90.185:11300, username=123, password=123, fast-open=false, udp-relay=false, tag=🇭🇰 香港
 socks5=47.243.78.212:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇭🇰 香港
+socks5=8.218.226.246:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇭🇰 香港
+socks5=47.76.189.30:1967, username=111, password=111, fast-open=false, udp-relay=false, tag=🇹🇼 台湾_台北市
+socks5=47.76.189.30:1177, username=111, password=111, fast-open=false, udp-relay=false, tag=🇹🇼 台湾_台北市
