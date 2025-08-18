@@ -1,4 +1,4 @@
-socks5=38.47.96.6:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
+.socks5=38.47.96.6:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
 socks5=38.47.96.5:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
 socks5=38.47.97.2:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
 socks5=38.47.99.2:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
