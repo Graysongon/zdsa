@@ -1,6 +1,17 @@
 socks5=8.219.211.182:1080, username=12345678, password=12345678, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
 socks5=8.219.251.139:1080, username=12345678, password=12345678, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
 socks5=8.222.176.65:10000, username=admin, password=123456, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=1.52.36.68:20002, username=user1, password=pass1, fast-open=false, udp-relay=false, tag=🇻🇳 越南
+socks5=1.52.36.83:20002, username=user1, password=pass1, fast-open=false, udp-relay=false, tag=🇻🇳 越南
+socks5=1.52.36.74:20002, username=user1, password=pass1, fast-open=false, udp-relay=false, tag=🇻🇳 越南
+socks5=1.52.36.75:20002, username=user1, password=pass1, fast-open=false, udp-relay=false, tag=🇻🇳 越南
+socks5=1.52.36.67:20002, username=user1, password=pass1, fast-open=false, udp-relay=false, tag=🇻🇳 越南
+socks5=1.52.36.78:20002, username=user1, password=pass1, fast-open=false, udp-relay=false, tag=🇻🇳 越南
+socks5=1.52.36.85:20002, username=user1, password=pass1, fast-open=false, udp-relay=false, tag=🇻🇳 越南
+socks5=1.52.37.217:20002, username=user1, password=pass1, fast-open=false, udp-relay=false, tag=🇻🇳 越南
+socks5=58.186.255.1:8888, fast-open=false, udp-relay=false, tag=🇻🇳 越南
+socks5=1.52.37.238:20002, username=user1, password=pass1, fast-open=false, udp-relay=false, tag=🇻🇳 越南
+socks5=1.52.37.213:20002, username=user1, password=pass1, fast-open=false, udp-relay=false, tag=🇻🇳 越南
 socks5=219.151.152.234:1080, username=a, password=a, fast-open=false, udp-relay=false, tag=🇨🇳 中国
 socks5=219.151.152.238:1080, username=a, password=a, fast-open=false, udp-relay=false, tag=🇨🇳 中国
 socks5=219.151.152.238:8888, username=a, password=a, fast-open=false, udp-relay=false, tag=🇨🇳 中国
