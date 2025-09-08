@@ -15,6 +15,14 @@ socks5=54.79.143.114:1080, username=123, password=123, fast-open=false, udp-rela
 socks5=146.190.241.145:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇨🇦 加拿大
 socks5=159.203.42.44:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇨🇦 加拿大
 socks5=134.122.41.130:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇨🇦 加拿大
+socks5=146.190.241.145:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇨🇦 加拿大
+socks5=159.203.42.44:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇨🇦 加拿大
+socks5=134.122.41.130:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇨🇦 加拿大
+socks5=159.203.15.240:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇨🇦 加拿大 
+socks5=138.197.167.14:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇨🇦 加拿大 
+socks5=68.183.197.11:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇨🇦 加拿大 
+socks5=138.197.160.74:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇨🇦 加拿大 
+socks5=142.93.155.104:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇨🇦 加拿大 
 
 socks5=184.73.147.204:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇺🇸 美国
 socks5=3.129.94.252:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
