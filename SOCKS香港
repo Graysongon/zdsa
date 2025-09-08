@@ -157,4 +157,12 @@ socks5=47.243.196.89:3060, username=123, password=123, fast-open=false, udp-rela
 socks5=47.243.42.183:11300, username=123, password=123, fast-open=false, udp-relay=false, tag=🇭🇰 香港
 socks5=47.243.75.208:3060, username=123, password=123, fast-open=false, udp-relay=false, tag=🇭🇰 香港
 socks5=47.243.82.77:10000, username=123, password=123, fast-open=false, udp-relay=false, tag=🇭🇰 香港
-
+socks5=205.198.65.109:8888, username=111111, password=111111, fast-open=false, udp-relay=false, tag=🇭🇰 香港
+socks5=205.198.65.218:8888, username=111111, password=111111, fast-open=false, udp-relay=false, tag=🇭🇰 香港
+socks5=205.198.65.210:8888, username=111111, password=111111, fast-open=false, udp-relay=false, tag=🇭🇰 香港
+socks5=47.239.8.109:5555, username=123, password=123, fast-open=false, udp-relay=false, tag=🇭🇰 香港
+socks5=47.83.192.171:5555, username=111, password=111, fast-open=false, udp-relay=false, tag=🇭🇰 香港
+socks5=47.238.149.80:1080, username=123456, password=123456, fast-open=false, udp-relay=false, tag=🇭🇰 香港
+socks5=8.217.90.60:8888, username=321321, password=321321, fast-open=false, udp-relay=false, tag=🇭🇰 香港
+socks5=8.217.90.134:1080, username=123456, password=123456, fast-open=false, udp-relay=false, tag=🇭🇰 香港
+socks5=8.218.227.143:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇭🇰 香港
