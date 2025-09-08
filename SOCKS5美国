@@ -1,10 +1,25 @@
 socks5=3.27.68.50:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇦🇺 澳大利亚
+socks5=103.75.119.242:1080, username=test123, password=test123, fast-open=false, udp-relay=false, tag=🇦🇺 澳大利亚
 socks5=3.129.94.252:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
 socks5=3.133.226.222:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
-socks5=5.129.210.120:1080, username=user1, password=pass1, fast-open=false, udp-relay=false, tag=🇳🇱 荷兰
 socks5=3.95.197.156:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇺🇸 美国
 socks5=3.88.9.247:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇺🇸 美国
 socks5=3.93.76.4:8888, username=123, password=123, fast-open=false, udp-relay=false, tag=🇺🇸 美国
-socks5=5.34.183.219:1081, username=123123, password=123123, fast-open=false, udp-relay=false, tag=🇺🇦 乌克兰
-socks5=15.188.53.249:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇫🇷 法国
-socks5=15.188.63.66:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇫🇷 法国
+socks5=38.47.105.36:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=38.47.105.92:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=38.47.105.32:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=38.47.105.189:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=38.47.105.172:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=45.77.99.43:8888, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=149.28.32.43:8888, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=38.60.91.213:1080, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=198.23.189.151:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=194.195.213.12:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=47.88.34.136:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=47.251.179.219:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=47.90.170.136:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=47.85.180.203:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=47.251.176.248:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=47.254.17.241:11300, username=123, password=123, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=47.89.178.16:11300, username=123, password=123, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+socks5=47.89.176.35:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇺🇸 美国
