@@ -69,6 +69,7 @@ socks5=142.93.33.73:1080, username=123, password=123, fast-open=false, udp-relay
 socks5=165.232.97.173:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇬🇧 英国 
 socks5=159.65.53.9:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇬🇧 英国 
 socks5=178.128.34.160:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇬🇧 英国 
+socks5=8.208.45.171:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇬🇧 英国
 
 socks5=193.188.21.202:1080, username=proxy, password=proxy, fast-open=false, udp-relay=false, tag=🇸🇪 瑞典
 
