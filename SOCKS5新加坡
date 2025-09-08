@@ -42,5 +42,33 @@ socks5=43.134.45.56:1080, username=admin, password=admin, fast-open=false, udp-r
 socks5=43.128.87.164:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
 socks5=43.156.101.130:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
 socks5=43.156.116.206:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.237.17.89:11300, username=123, password=123, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.237.138.180:11300, username=123, password=123, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.236.50.228:11300, username=1111, password=1111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.237.129.215:11300, username=1111, password=1111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=8.222.183.1:5555, username=123, password=123, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.236.24.91:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=8.219.188.151:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.236.167.211:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.236.2.153:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.82.1.14:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.79.122.48:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.236.22.96:1080, username=1, password=1, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=8.219.5.110:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=8.219.111.117:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.245.125.24:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.236.21.100:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=8.219.130.11:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.237.139.130:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.236.86.110:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=8.222.241.144:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.236.88.209:11300, username=123, password=123, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.237.107.247:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.237.124.214:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.237.68.147:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=8.219.141.59:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=8.222.240.206:11300, username=1, password=1, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=8.219.252.249:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.237.164.41:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
 
 
