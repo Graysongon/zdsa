@@ -246,3 +246,5 @@ socks5=8.220.220.6:11300, username=123, password=123, fast-open=false, udp-relay
 socks5=8.220.218.94:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇰🇷 韩国
 socks5=8.220.246.35:11300, username=1, password=1, fast-open=false, udp-relay=false, tag=🇰🇷 韩国
 socks5=8.220.216.186:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇰🇷 韩国
+socks5=admin:admin@43.201.86.179:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇰🇷 韩国
+
