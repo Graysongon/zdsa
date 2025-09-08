@@ -374,14 +374,10 @@ socks5=167.172.150.133:1080, username=123, password=123, fast-open=false, udp-re
 socks5=162.243.175.138:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇺🇸 美国 
 socks5=165.227.202.81:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国 
 socks5=159.223.162.37:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国 
-socks5=47.88.34.136:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
-socks5=47.251.179.219:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
-socks5=47.85.180.203:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
-socks5=47.251.176.248:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
-socks5=47.89.178.16:11300, username=123, password=123, fast-open=false, udp-relay=false, tag=🇺🇸 美国
 socks5=47.90.161.36:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇺🇸 美国
-socks5=47.89.176.35:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇺🇸 美国
-socks5=47.90.170.136:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇺🇸 美国
+
+
+
 
 
 
