@@ -248,3 +248,5 @@ socks5=8.211.136.34:11300, username=123, password=123, fast-open=false, udp-rela
 socks5=8.209.224.220:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=8.211.153.183:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=8.211.159.27:11300, username=111, password=111, fast-open=false, udp-relay=false, tag=🇯🇵 日本
+socks5=13.113.230.244:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇯🇵 日本
+socks5=54.199.64.202:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇯🇵 日本
