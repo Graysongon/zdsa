@@ -26,11 +26,3 @@ socks5=47.80.6.69:20005, username=123, password=123, fast-open=false, udp-relay=
 socks5=47.80.6.69:20002, username=123, password=123, fast-open=false, udp-relay=false, tag=🇹🇭 泰国
 socks5=47.81.39.210:11300, username=123, password=123, fast-open=false, udp-relay=false, tag=🇹🇭 泰国
 socks5=8.213.222.237:11300, username=123, password=123, fast-open=false, udp-relay=false, tag=🇹🇭 泰国
-
-
-
-
-
-
-
-
