@@ -5,6 +5,11 @@ socks5=38.47.97.32:5555, username=socks5, password=socks5, fast-open=false, udp-
 socks5=38.47.96.16:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.99.86:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.97.58:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
+socks5=38.47.105.36:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
+socks5=38.47.105.92:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
+socks5=38.47.105.32:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
+socks5=38.47.105.189:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
+socks5=38.47.105.172:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.99.72:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.97.56:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.99.42:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
@@ -15,8 +20,6 @@ socks5=38.47.109.54:5555, username=socks5, password=socks5, fast-open=false, udp
 socks5=38.47.109.88:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.126.64:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.127.11:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
-socks5=38.47.105.92:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
-socks5=38.47.105.36:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.125.90:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.110.32:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.110.47:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
@@ -30,7 +33,6 @@ socks5=38.47.96.230:5555, username=socks5, password=socks5, fast-open=false, udp
 socks5=38.47.97.117:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.99.170:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.126.109:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
-socks5=38.47.105.172:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.111.213:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.124.226:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.111.158:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
@@ -40,7 +42,6 @@ socks5=38.47.110.131:5555, username=socks5, password=socks5, fast-open=false, ud
 socks5=38.47.124.222:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.110.127:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=167.88.185.29:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
-socks5=38.47.105.189:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.126.242:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.111.221:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=38.47.111.114:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本
@@ -95,75 +96,3 @@ socks5=103.117.102.24:5555, username=111, password=111, fast-open=false, udp-rel
 socks5=103.76.85.67:7777, username=username, password=password, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=8.216.83.169:8888, username=123456, password=123456, fast-open=false, udp-relay=false, tag=🇯🇵 日本
 socks5=8.211.155.56:19999, username=football, password=football, fast-open=false, udp-relay=false, tag=🇯🇵 日本
-
-socks5=38.47.127.9:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.127.7:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.99.75:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.99.72:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.97.32:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.99.69:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.99.20:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.99.86:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.97.81:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.96.14:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.96.16:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.99.42:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.97.58:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.97.56:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.99.54:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.96.19:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.105.92:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.96.248:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.99.213:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.127.16:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.110.47:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.110.32:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.110.18:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.97.188:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.99.203:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.97.117:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.105.36:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.110.96:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.96.216:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.99.128:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.111.34:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.125.90:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.105.32:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.111.16:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-socks5=38.47.99.240:5555, username=socks5, password=socks5, fast-open=false, udp-relay=false, tag=🇯🇵 日本 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
