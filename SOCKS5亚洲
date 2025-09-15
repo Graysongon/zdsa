@@ -1,33 +1,7 @@
-socks5=47.237.11.125:8888, username=123, password=123, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
-
-socks5=47.237.2.70:8888, username=123456, password=123456, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
-
-socks5=43.157.29.112:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇩🇪 德国
-
-socks5=43.135.147.159:1080, username=1234, password=1234, fast-open=false, udp-relay=false, tag=🇺🇸 美国
-socks5=43.153.64.167:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
-
-socks5=43.159.147.149:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
 
 
 socks5=8.212.131.125:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇵🇭 菲律宾
-
-socks5=47.251.104.77:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
-socks5=47.251.113.129:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇺🇸 美国
-
-socks5=42.192.173.202:20000, fast-open=false, udp-relay=false, tag=🇨🇳 中国
-
-
-socks5=119.29.101.90:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇨🇳 中国
-
-socks5=8.213.239.242:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇹🇭 泰国
-
-socks5=119.29.250.177:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇨🇳 中国
-
 socks5=8.220.177.54:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇵🇭 菲律宾
-
-socks5=161.117.15.35:51001, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
-
 
 socks5=1.52.36.68:20002, username=user1, password=pass1, fast-open=false, udp-relay=false, tag=🇻🇳 越南
 socks5=1.52.36.83:20002, username=user1, password=pass1, fast-open=false, udp-relay=false, tag=🇻🇳 越南
@@ -64,7 +38,7 @@ socks5=47.80.6.69:20005, username=123, password=123, fast-open=false, udp-relay=
 socks5=47.80.6.69:20002, username=123, password=123, fast-open=false, udp-relay=false, tag=🇹🇭 泰国
 socks5=47.81.39.210:11300, username=123, password=123, fast-open=false, udp-relay=false, tag=🇹🇭 泰国
 socks5=8.213.222.237:11300, username=123, password=123, fast-open=false, udp-relay=false, tag=🇹🇭 泰国
-
+socks5=8.213.239.242:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇹🇭 泰国
 
 
 
