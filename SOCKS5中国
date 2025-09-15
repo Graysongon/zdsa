@@ -1,3 +1,6 @@
+socks5=42.192.173.202:20000, fast-open=false, udp-relay=false, tag=🇨🇳 中国
+socks5=119.29.101.90:1080, username=123, password=123, fast-open=false, udp-relay=false, tag=🇨🇳 中国
+socks5=119.29.250.177:1080, username=admin, password=admin, fast-open=false, udp-relay=false, tag=🇨🇳 中国
 socks5=125.74.54.52:5555, username=a, password=a, fast-open=false, udp-relay=false, tag=🇨🇳 中国
 socks5=125.74.54.52:8888, username=a, password=a, fast-open=false, udp-relay=false, tag=🇨🇳 中国
 socks5=125.74.54.52:1080, username=a, password=a, fast-open=false, udp-relay=false, tag=🇨🇳 中国
