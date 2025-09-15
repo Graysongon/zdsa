@@ -1,3 +1,6 @@
+socks5=47.237.11.125:8888, username=123, password=123, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=47.237.2.70:8888, username=123456, password=123456, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
+socks5=161.117.15.35:51001, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
 socks5=8.219.211.182:1080, username=12345678, password=12345678, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
 socks5=8.219.251.139:1080, username=12345678, password=12345678, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
 socks5=8.222.176.65:10000, username=admin, password=123456, fast-open=false, udp-relay=false, tag=🇸🇬 新加坡
