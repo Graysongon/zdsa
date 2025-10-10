@@ -1,0 +1,2114 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+152.42.249.205,2095,TRUE,SIN,Asia Pacific,Singapore,82 ms,35026 kB/s
+140.245.53.210,8800,TRUE,SIN,Asia Pacific,Singapore,65 ms,33656 kB/s
+206.237.6.63,10001,TRUE,HKG,Asia Pacific,Hong Kong,58 ms,31924 kB/s
+206.206.105.7,20053,TRUE,HKG,Asia Pacific,Hong Kong,31 ms,30854 kB/s
+46.232.107.75,51200,TRUE,HKG,Asia Pacific,Hong Kong,33 ms,26917 kB/s
+23.95.213.182,11123,TRUE,SJC,North America,San Jose,184 ms,25435 kB/s
+192.3.86.244,993,TRUE,LAX,North America,Los Angeles,182 ms,24602 kB/s
+142.171.30.213,993,TRUE,LAX,North America,Los Angeles,173 ms,22342 kB/s
+206.206.105.7,20003,TRUE,HKG,Asia Pacific,Hong Kong,37 ms,20063 kB/s
+209.141.35.26,5600,TRUE,LAS,North America,Las Vegas,190 ms,19448 kB/s
+23.95.254.12,4433,TRUE,SEA,North America,Seattle,202 ms,18937 kB/s
+154.17.229.123,10021,TRUE,LAX,North America,Los Angeles,173 ms,18522 kB/s
+154.17.29.62,444,TRUE,LAX,North America,Los Angeles,175 ms,18314 kB/s
+47.79.84.221,8000,TRUE,SEA,North America,Seattle,88 ms,18195 kB/s
+47.79.85.33,45678,TRUE,NRT,Asia Pacific,Tokyo,87 ms,17779 kB/s
+154.17.229.123,10018,TRUE,LAX,North America,Los Angeles,173 ms,17758 kB/s
+89.208.249.11,49899,TRUE,LAX,North America,Los Angeles,168 ms,17744 kB/s
+38.76.141.67,2333,TRUE,SIN,Asia Pacific,Singapore,34 ms,17337 kB/s
+107.172.218.156,9443,TRUE,SJC,North America,San Jose,186 ms,16775 kB/s
+47.79.90.82,8843,TRUE,NRT,Asia Pacific,Tokyo,82 ms,16069 kB/s
+104.207.159.165,8088,TRUE,SEA,North America,Seattle,187 ms,15474 kB/s
+54.193.53.75,10001,TRUE,SJC,North America,San Jose,222 ms,14849 kB/s
+74.113.96.202,40003,TRUE,NRT,Asia Pacific,Tokyo,78 ms,14782 kB/s
+46.232.111.35,3443,TRUE,SIN,Asia Pacific,Singapore,27 ms,14607 kB/s
+154.36.183.19,2321,TRUE,NRT,Asia Pacific,Tokyo,78 ms,14447 kB/s
+45.12.111.15,50050,TRUE,ZRH,Europe,Zurich,290 ms,13903 kB/s
+104.194.66.83,60010,TRUE,LAX,North America,Los Angeles,176 ms,13619 kB/s
+144.34.235.131,41181,TRUE,LAX,North America,Los Angeles,174 ms,13474 kB/s
+107.172.87.154,4433,TRUE,SJC,North America,San Jose,186 ms,13309 kB/s
+104.224.159.50,60000,TRUE,LAX,North America,Los Angeles,176 ms,12853 kB/s
+38.75.136.238,6443,TRUE,LAX,North America,Los Angeles,173 ms,12227 kB/s
+45.12.142.144,50050,TRUE,AMS,Europe,Amsterdam,292 ms,12144 kB/s
+142.171.52.104,9933,TRUE,LAX,North America,Los Angeles,172 ms,11750 kB/s
+104.167.199.72,20202,TRUE,MIA,North America,Miami,229 ms,11688 kB/s
+142.171.220.62,16101,TRUE,LAX,North America,Los Angeles,178 ms,11478 kB/s
+142.171.220.62,16511,TRUE,LAX,North America,Los Angeles,181 ms,11365 kB/s
+142.171.220.62,16669,TRUE,LAX,North America,Los Angeles,182 ms,11173 kB/s
+142.171.192.140,10001,TRUE,LAX,North America,Los Angeles,175 ms,11172 kB/s
+142.171.220.62,16664,TRUE,LAX,North America,Los Angeles,182 ms,11042 kB/s
+142.171.168.143,30001,TRUE,LAX,North America,Los Angeles,174 ms,11021 kB/s
+142.171.220.62,16018,TRUE,LAX,North America,Los Angeles,174 ms,10995 kB/s
+142.171.220.62,16016,TRUE,LAX,North America,Los Angeles,174 ms,10988 kB/s
+173.242.114.187,19800,TRUE,LAX,North America,Los Angeles,173 ms,10983 kB/s
+142.171.220.62,16666,TRUE,LAX,North America,Los Angeles,181 ms,10941 kB/s
+154.26.190.103,23456,TRUE,LAX,North America,Los Angeles,176 ms,10926 kB/s
+38.76.141.68,2333,TRUE,SIN,Asia Pacific,Singapore,32 ms,10925 kB/s
+142.171.220.62,17000,TRUE,LAX,North America,Los Angeles,172 ms,10886 kB/s
+173.242.121.61,54321,TRUE,LAX,North America,Los Angeles,175 ms,10885 kB/s
+142.171.220.62,16660,TRUE,LAX,North America,Los Angeles,177 ms,10841 kB/s
+142.171.220.62,16616,TRUE,LAX,North America,Los Angeles,174 ms,10833 kB/s
+142.171.220.62,16606,TRUE,LAX,North America,Los Angeles,174 ms,10825 kB/s
+142.171.220.62,16466,TRUE,LAX,North America,Los Angeles,177 ms,10821 kB/s
+142.171.220.62,16662,TRUE,LAX,North America,Los Angeles,176 ms,10819 kB/s
+23.95.222.211,50443,TRUE,SJC,North America,San Jose,184 ms,10804 kB/s
+107.175.214.251,8000,TRUE,SJC,North America,San Jose,179 ms,10740 kB/s
+143.20.106.87,25212,TRUE,LAX,North America,Los Angeles,208 ms,10706 kB/s
+142.171.129.125,2202,TRUE,LAX,North America,Los Angeles,172 ms,10697 kB/s
+154.21.93.124,10089,TRUE,LAX,North America,Los Angeles,174 ms,10680 kB/s
+199.19.104.63,666,TRUE,LAX,North America,Los Angeles,170 ms,10636 kB/s
+142.171.129.125,2100,TRUE,LAX,North America,Los Angeles,173 ms,10625 kB/s
+68.167.5.15,25212,TRUE,LAX,North America,Los Angeles,208 ms,10620 kB/s
+142.171.220.62,16626,TRUE,LAX,North America,Los Angeles,174 ms,10598 kB/s
+138.128.193.136,41820,TRUE,LAX,North America,Los Angeles,183 ms,10590 kB/s
+142.171.220.62,16566,TRUE,LAX,North America,Los Angeles,181 ms,10527 kB/s
+143.20.106.25,25212,TRUE,LAX,North America,Los Angeles,179 ms,10492 kB/s
+142.171.220.62,16696,TRUE,LAX,North America,Los Angeles,175 ms,10488 kB/s
+104.224.157.64,49200,TRUE,LAX,North America,Los Angeles,173 ms,10486 kB/s
+148.135.73.80,8889,TRUE,LAX,North America,Los Angeles,188 ms,10465 kB/s
+66.92.166.215,25212,TRUE,LAX,North America,Los Angeles,210 ms,10462 kB/s
+128.241.251.81,40000,TRUE,SJC,North America,San Jose,175 ms,10457 kB/s
+107.172.100.43,26001,TRUE,SJC,North America,San Jose,188 ms,10453 kB/s
+143.20.106.63,25212,TRUE,LAX,North America,Los Angeles,202 ms,10450 kB/s
+68.167.5.51,25212,TRUE,LAX,North America,Los Angeles,210 ms,10443 kB/s
+154.17.24.16,27010,TRUE,LAX,North America,Los Angeles,175 ms,10412 kB/s
+68.167.5.50,25212,TRUE,LAX,North America,Los Angeles,197 ms,10410 kB/s
+142.171.220.62,16002,TRUE,LAX,North America,Los Angeles,174 ms,10396 kB/s
+23.106.155.30,12257,TRUE,LAX,North America,Los Angeles,175 ms,10376 kB/s
+68.167.5.20,25212,TRUE,LAX,North America,Los Angeles,208 ms,10365 kB/s
+143.20.106.42,25212,TRUE,LAX,North America,Los Angeles,208 ms,10364 kB/s
+38.49.59.58,33136,TRUE,LAX,North America,Los Angeles,169 ms,10331 kB/s
+142.171.220.62,16636,TRUE,LAX,North America,Los Angeles,174 ms,10326 kB/s
+66.92.166.196,25212,TRUE,LAX,North America,Los Angeles,199 ms,10323 kB/s
+142.171.220.62,16411,TRUE,LAX,North America,Los Angeles,176 ms,10304 kB/s
+75.127.0.166,9443,TRUE,SJC,North America,San Jose,181 ms,10271 kB/s
+143.20.106.50,25212,TRUE,LAX,North America,Los Angeles,202 ms,10210 kB/s
+143.20.106.27,25212,TRUE,LAX,North America,Los Angeles,199 ms,10188 kB/s
+143.20.106.11,25212,TRUE,LAX,North America,Los Angeles,201 ms,10168 kB/s
+68.167.5.40,25212,TRUE,LAX,North America,Los Angeles,211 ms,10157 kB/s
+68.167.5.37,25212,TRUE,LAX,North America,Los Angeles,212 ms,10143 kB/s
+143.20.106.51,25212,TRUE,LAX,North America,Los Angeles,177 ms,10130 kB/s
+66.92.166.223,25212,TRUE,LAX,North America,Los Angeles,207 ms,10114 kB/s
+199.193.125.229,1777,TRUE,LAX,North America,Los Angeles,171 ms,10108 kB/s
+68.167.5.28,25212,TRUE,LAX,North America,Los Angeles,206 ms,10089 kB/s
+154.21.195.143,27017,TRUE,LAX,North America,Los Angeles,181 ms,10085 kB/s
+38.79.114.49,587,TRUE,LAX,North America,Los Angeles,181 ms,10065 kB/s
+68.167.5.43,25212,TRUE,LAX,North America,Los Angeles,178 ms,10049 kB/s
+66.92.166.187,25212,TRUE,LAX,North America,Los Angeles,203 ms,10046 kB/s
+68.167.5.14,25212,TRUE,LAX,North America,Los Angeles,206 ms,10038 kB/s
+142.171.220.62,16668,TRUE,LAX,North America,Los Angeles,174 ms,9999 kB/s
+143.20.106.100,25212,TRUE,LAX,North America,Los Angeles,200 ms,9978 kB/s
+192.69.90.237,2321,TRUE,LAX,North America,Los Angeles,173 ms,9968 kB/s
+143.20.106.76,25212,TRUE,LAX,North America,Los Angeles,177 ms,9948 kB/s
+143.20.106.66,25212,TRUE,LAX,North America,Los Angeles,201 ms,9910 kB/s
+143.20.106.88,25212,TRUE,LAX,North America,Los Angeles,203 ms,9890 kB/s
+38.83.41.89,28138,TRUE,LAX,North America,Los Angeles,180 ms,9887 kB/s
+148.135.66.214,55555,TRUE,LAX,North America,Los Angeles,183 ms,9848 kB/s
+104.168.87.155,5432,TRUE,SJC,North America,San Jose,181 ms,9845 kB/s
+107.175.63.224,20061,TRUE,SJC,North America,San Jose,183 ms,9837 kB/s
+68.167.5.22,25212,TRUE,LAX,North America,Los Angeles,176 ms,9829 kB/s
+193.93.55.167,8000,TRUE,LAX,North America,Los Angeles,176 ms,9808 kB/s
+38.83.41.89,28080,TRUE,LAX,North America,Los Angeles,191 ms,9797 kB/s
+38.69.247.31,587,TRUE,LAX,North America,Los Angeles,183 ms,9794 kB/s
+192.3.86.244,587,TRUE,LAX,North America,Los Angeles,183 ms,9792 kB/s
+66.92.166.244,25212,TRUE,LAX,North America,Los Angeles,211 ms,9774 kB/s
+142.171.135.170,4343,TRUE,LAX,North America,Los Angeles,177 ms,9724 kB/s
+207.126.167.16,10442,TRUE,LAX,North America,Los Angeles,181 ms,9696 kB/s
+66.92.166.225,25212,TRUE,LAX,North America,Los Angeles,203 ms,9695 kB/s
+107.175.53.115,20080,TRUE,SJC,North America,San Jose,184 ms,9667 kB/s
+66.92.166.228,25212,TRUE,LAX,North America,Los Angeles,210 ms,9662 kB/s
+143.20.106.64,25212,TRUE,LAX,North America,Los Angeles,199 ms,9644 kB/s
+143.20.106.70,25212,TRUE,LAX,North America,Los Angeles,210 ms,9637 kB/s
+142.171.220.62,16097,TRUE,LAX,North America,Los Angeles,178 ms,9620 kB/s
+142.171.108.18,27010,TRUE,LAX,North America,Los Angeles,176 ms,9586 kB/s
+142.171.118.71,10019,TRUE,LAX,North America,Los Angeles,172 ms,9527 kB/s
+142.171.225.216,5223,TRUE,LAX,North America,Los Angeles,178 ms,9521 kB/s
+23.94.100.111,7443,TRUE,SJC,North America,San Jose,181 ms,9512 kB/s
+104.194.66.75,33444,TRUE,LAX,North America,Los Angeles,172 ms,9509 kB/s
+23.95.230.16,9443,TRUE,SJC,North America,San Jose,187 ms,9436 kB/s
+148.135.118.94,17877,TRUE,LAX,North America,Los Angeles,192 ms,9403 kB/s
+142.171.220.62,16661,TRUE,LAX,North America,Los Angeles,171 ms,9394 kB/s
+104.168.87.155,3306,TRUE,SJC,North America,San Jose,184 ms,9346 kB/s
+142.171.220.62,16010,TRUE,LAX,North America,Los Angeles,181 ms,9331 kB/s
+142.171.220.62,16444,TRUE,LAX,North America,Los Angeles,188 ms,9256 kB/s
+173.242.118.156,8001,TRUE,LAX,North America,Los Angeles,173 ms,9192 kB/s
+38.83.41.89,28017,TRUE,LAX,North America,Los Angeles,178 ms,9122 kB/s
+143.20.106.26,25212,TRUE,LAX,North America,Los Angeles,182 ms,9071 kB/s
+54.193.53.75,10002,TRUE,SJC,North America,San Jose,185 ms,9057 kB/s
+173.242.123.19,18443,TRUE,LAX,North America,Los Angeles,171 ms,8995 kB/s
+209.178.233.12,25212,TRUE,LAX,North America,Los Angeles,206 ms,8988 kB/s
+144.34.232.245,30000,TRUE,LAX,North America,Los Angeles,174 ms,8967 kB/s
+38.6.219.16,8080,TRUE,HKG,Asia Pacific,Hong Kong,33 ms,8893 kB/s
+66.92.166.204,25212,TRUE,LAX,North America,Los Angeles,205 ms,8879 kB/s
+143.20.106.52,25212,TRUE,LAX,North America,Los Angeles,197 ms,8865 kB/s
+66.92.166.230,25212,TRUE,LAX,North America,Los Angeles,210 ms,8854 kB/s
+68.167.5.77,25212,TRUE,LAX,North America,Los Angeles,206 ms,8833 kB/s
+142.171.220.62,16001,TRUE,LAX,North America,Los Angeles,175 ms,8828 kB/s
+66.92.166.222,25212,TRUE,LAX,North America,Los Angeles,200 ms,8823 kB/s
+143.20.106.16,25212,TRUE,LAX,North America,Los Angeles,199 ms,8818 kB/s
+67.218.135.8,54321,TRUE,LAX,North America,Los Angeles,200 ms,8812 kB/s
+68.167.5.80,25212,TRUE,LAX,North America,Los Angeles,211 ms,8811 kB/s
+68.167.5.48,25212,TRUE,LAX,North America,Los Angeles,209 ms,8808 kB/s
+143.20.106.78,25212,TRUE,LAX,North America,Los Angeles,201 ms,8787 kB/s
+143.20.106.104,25212,TRUE,LAX,North America,Los Angeles,204 ms,8780 kB/s
+66.92.166.189,25212,TRUE,LAX,North America,Los Angeles,200 ms,8771 kB/s
+143.20.106.56,25212,TRUE,LAX,North America,Los Angeles,209 ms,8763 kB/s
+66.92.166.254,25212,TRUE,LAX,North America,Los Angeles,210 ms,8727 kB/s
+66.92.166.240,25212,TRUE,LAX,North America,Los Angeles,200 ms,8696 kB/s
+143.20.106.9,25212,TRUE,LAX,North America,Los Angeles,209 ms,8667 kB/s
+68.167.5.46,25212,TRUE,LAX,North America,Los Angeles,198 ms,8654 kB/s
+64.64.249.39,587,TRUE,LAX,North America,Los Angeles,174 ms,8622 kB/s
+192.3.150.56,8000,TRUE,SEA,North America,Seattle,199 ms,8612 kB/s
+23.95.18.12,18443,TRUE,SEA,North America,Seattle,208 ms,8571 kB/s
+68.167.5.7,25212,TRUE,LAX,North America,Los Angeles,180 ms,8554 kB/s
+143.20.106.17,25212,TRUE,LAX,North America,Los Angeles,205 ms,8542 kB/s
+209.178.233.11,25212,TRUE,LAX,North America,Los Angeles,204 ms,8542 kB/s
+143.20.106.83,25212,TRUE,LAX,North America,Los Angeles,207 ms,8538 kB/s
+68.167.5.99,25212,TRUE,LAX,North America,Los Angeles,209 ms,8535 kB/s
+68.167.5.17,25212,TRUE,LAX,North America,Los Angeles,215 ms,8534 kB/s
+143.20.106.33,25212,TRUE,LAX,North America,Los Angeles,203 ms,8527 kB/s
+192.3.86.244,995,TRUE,LAX,North America,Los Angeles,181 ms,8525 kB/s
+143.20.106.13,25212,TRUE,LAX,North America,Los Angeles,208 ms,8511 kB/s
+148.135.124.217,8800,TRUE,LAX,North America,Los Angeles,184 ms,8507 kB/s
+66.92.166.200,25212,TRUE,LAX,North America,Los Angeles,208 ms,8506 kB/s
+66.92.166.253,25212,TRUE,LAX,North America,Los Angeles,210 ms,8506 kB/s
+66.92.166.99,25212,TRUE,LAX,North America,Los Angeles,201 ms,8469 kB/s
+107.174.152.237,9443,TRUE,SEA,North America,Seattle,202 ms,8459 kB/s
+68.167.5.100,25212,TRUE,LAX,North America,Los Angeles,188 ms,8455 kB/s
+107.174.245.44,10305,TRUE,SEA,North America,Seattle,205 ms,8452 kB/s
+68.167.5.21,25212,TRUE,LAX,North America,Los Angeles,206 ms,8443 kB/s
+209.178.233.13,25212,TRUE,LAX,North America,Los Angeles,208 ms,8428 kB/s
+107.173.153.222,19071,TRUE,SJC,North America,San Jose,193 ms,8423 kB/s
+143.20.106.34,25212,TRUE,LAX,North America,Los Angeles,203 ms,8402 kB/s
+66.92.166.208,25212,TRUE,LAX,North America,Los Angeles,213 ms,8379 kB/s
+143.20.178.230,25212,TRUE,LAX,North America,Los Angeles,201 ms,8369 kB/s
+154.17.19.94,12380,TRUE,LAX,North America,Los Angeles,176 ms,8359 kB/s
+40.27.137.51,25255,TRUE,MIA,North America,Miami,229 ms,8356 kB/s
+154.17.29.85,442,TRUE,LAX,North America,Los Angeles,179 ms,8354 kB/s
+148.135.52.133,8880,TRUE,LAX,North America,Los Angeles,184 ms,8347 kB/s
+212.193.6.47,55555,TRUE,YYZ,North America,Toronto,227 ms,8345 kB/s
+143.20.106.6,25212,TRUE,LAX,North America,Los Angeles,207 ms,8343 kB/s
+143.20.106.102,25212,TRUE,LAX,North America,Los Angeles,178 ms,8338 kB/s
+107.172.180.73,5432,TRUE,SJC,North America,San Jose,212 ms,8335 kB/s
+37.123.194.226,7443,TRUE,SJC,North America,San Jose,170 ms,8327 kB/s
+66.92.166.252,25212,TRUE,LAX,North America,Los Angeles,201 ms,8311 kB/s
+143.20.178.192,25212,TRUE,LAX,North America,Los Angeles,205 ms,8308 kB/s
+66.92.166.98,25212,TRUE,LAX,North America,Los Angeles,210 ms,8290 kB/s
+68.167.5.35,25212,TRUE,LAX,North America,Los Angeles,204 ms,8288 kB/s
+98.142.143.170,10040,TRUE,LAX,North America,Los Angeles,202 ms,8280 kB/s
+66.92.166.249,25212,TRUE,LAX,North America,Los Angeles,206 ms,8280 kB/s
+143.20.106.44,25212,TRUE,LAX,North America,Los Angeles,217 ms,8280 kB/s
+68.167.5.11,25212,TRUE,LAX,North America,Los Angeles,215 ms,8273 kB/s
+143.20.178.235,25212,TRUE,LAX,North America,Los Angeles,201 ms,8272 kB/s
+66.92.166.224,25212,TRUE,LAX,North America,Los Angeles,206 ms,8270 kB/s
+143.20.106.22,25212,TRUE,LAX,North America,Los Angeles,201 ms,8270 kB/s
+68.167.5.79,25212,TRUE,LAX,North America,Los Angeles,196 ms,8270 kB/s
+143.20.106.95,25212,TRUE,LAX,North America,Los Angeles,206 ms,8269 kB/s
+66.92.166.241,25212,TRUE,LAX,North America,Los Angeles,196 ms,8267 kB/s
+143.20.106.74,25212,TRUE,LAX,North America,Los Angeles,178 ms,8265 kB/s
+143.20.106.32,25212,TRUE,LAX,North America,Los Angeles,214 ms,8263 kB/s
+68.167.5.47,25212,TRUE,LAX,North America,Los Angeles,211 ms,8263 kB/s
+66.92.166.211,25212,TRUE,LAX,North America,Los Angeles,207 ms,8261 kB/s
+143.20.106.61,25212,TRUE,LAX,North America,Los Angeles,200 ms,8258 kB/s
+68.167.5.45,25212,TRUE,LAX,North America,Los Angeles,214 ms,8258 kB/s
+198.177.59.170,25222,TRUE,MIA,North America,Miami,231 ms,8256 kB/s
+68.167.5.82,25212,TRUE,LAX,North America,Los Angeles,208 ms,8256 kB/s
+143.20.106.38,25212,TRUE,LAX,North America,Los Angeles,211 ms,8254 kB/s
+143.20.106.55,25212,TRUE,LAX,North America,Los Angeles,209 ms,8250 kB/s
+143.20.106.75,25212,TRUE,LAX,North America,Los Angeles,184 ms,8238 kB/s
+154.17.3.60,46443,TRUE,EZE,South America,Buenos Aires,177 ms,8237 kB/s
+143.20.106.85,25212,TRUE,LAX,North America,Los Angeles,221 ms,8233 kB/s
+209.178.233.8,25212,TRUE,LAX,North America,Los Angeles,211 ms,8232 kB/s
+67.215.254.112,25232,TRUE,MIA,North America,Miami,238 ms,8231 kB/s
+143.20.106.15,25212,TRUE,LAX,North America,Los Angeles,201 ms,8225 kB/s
+207.210.125.28,25222,TRUE,MIA,North America,Miami,238 ms,8223 kB/s
+68.167.5.84,25212,TRUE,LAX,North America,Los Angeles,181 ms,8215 kB/s
+172.252.113.61,25242,TRUE,MIA,North America,Miami,207 ms,8209 kB/s
+154.17.227.65,22222,TRUE,SEA,North America,Seattle,172 ms,8207 kB/s
+172.120.250.81,25232,TRUE,MIA,North America,Miami,248 ms,8203 kB/s
+67.215.254.108,25232,TRUE,MIA,North America,Miami,229 ms,8196 kB/s
+207.210.125.18,25212,TRUE,MIA,North America,Miami,240 ms,8193 kB/s
+172.252.113.15,25222,TRUE,MIA,North America,Miami,211 ms,8193 kB/s
+172.252.113.130,25224,TRUE,MIA,North America,Miami,230 ms,8193 kB/s
+172.252.113.34,25242,TRUE,MIA,North America,Miami,209 ms,8190 kB/s
+172.252.113.58,25242,TRUE,MIA,North America,Miami,235 ms,8187 kB/s
+143.20.106.80,25212,TRUE,LAX,North America,Los Angeles,210 ms,8176 kB/s
+72.18.81.26,1234,TRUE,LAX,North America,Los Angeles,177 ms,8176 kB/s
+68.167.5.33,25212,TRUE,LAX,North America,Los Angeles,209 ms,8162 kB/s
+148.135.52.133,2333,TRUE,LAX,North America,Los Angeles,188 ms,8150 kB/s
+68.167.5.13,25212,TRUE,LAX,North America,Los Angeles,181 ms,8149 kB/s
+172.252.113.131,25222,TRUE,MIA,North America,Miami,242 ms,8139 kB/s
+46.3.220.21,1000,TRUE,HKG,Asia Pacific,Hong Kong,31 ms,8136 kB/s
+144.34.227.210,33473,TRUE,LAX,North America,Los Angeles,170 ms,8132 kB/s
+143.20.106.68,25212,TRUE,LAX,North America,Los Angeles,205 ms,8131 kB/s
+172.252.113.143,25222,TRUE,MIA,North America,Miami,214 ms,8128 kB/s
+172.121.49.240,25232,TRUE,MIA,North America,Miami,237 ms,8123 kB/s
+209.178.233.10,25212,TRUE,LAX,North America,Los Angeles,207 ms,8106 kB/s
+143.20.106.92,25212,TRUE,LAX,North America,Los Angeles,176 ms,8100 kB/s
+68.167.5.34,25212,TRUE,LAX,North America,Los Angeles,210 ms,8077 kB/s
+66.92.166.217,25212,TRUE,LAX,North America,Los Angeles,206 ms,8064 kB/s
+40.27.137.44,25255,TRUE,MIA,North America,Miami,239 ms,8060 kB/s
+67.215.254.82,25228,TRUE,MIA,North America,Miami,210 ms,8054 kB/s
+68.167.5.103,25212,TRUE,LAX,North America,Los Angeles,177 ms,8043 kB/s
+66.92.166.232,25212,TRUE,LAX,North America,Los Angeles,200 ms,8023 kB/s
+66.92.166.195,25212,TRUE,LAX,North America,Los Angeles,199 ms,8023 kB/s
+172.252.113.140,25222,TRUE,MIA,North America,Miami,234 ms,8020 kB/s
+192.3.86.244,465,TRUE,LAX,North America,Los Angeles,185 ms,8018 kB/s
+66.92.166.183,25212,TRUE,LAX,North America,Los Angeles,204 ms,8017 kB/s
+143.20.106.73,25212,TRUE,LAX,North America,Los Angeles,208 ms,8013 kB/s
+107.151.252.238,25212,TRUE,LAX,North America,Los Angeles,213 ms,8011 kB/s
+207.210.125.16,25226,TRUE,MIA,North America,Miami,236 ms,8011 kB/s
+209.178.233.6,25212,TRUE,LAX,North America,Los Angeles,209 ms,8007 kB/s
+216.83.47.217,25242,TRUE,MIA,North America,Miami,236 ms,8006 kB/s
+67.215.254.74,25224,TRUE,MIA,North America,Miami,216 ms,8004 kB/s
+68.167.5.18,25212,TRUE,LAX,North America,Los Angeles,207 ms,8002 kB/s
+209.178.239.79,25226,TRUE,MIA,North America,Miami,238 ms,8001 kB/s
+143.20.106.39,25212,TRUE,LAX,North America,Los Angeles,200 ms,7998 kB/s
+142.171.220.62,16000,TRUE,LAX,North America,Los Angeles,185 ms,7995 kB/s
+66.92.166.239,25212,TRUE,LAX,North America,Los Angeles,202 ms,7995 kB/s
+66.92.166.238,25212,TRUE,LAX,North America,Los Angeles,211 ms,7994 kB/s
+143.20.106.18,25212,TRUE,LAX,North America,Los Angeles,211 ms,7992 kB/s
+216.83.47.226,25242,TRUE,MIA,North America,Miami,230 ms,7991 kB/s
+68.167.5.25,25212,TRUE,LAX,North America,Los Angeles,205 ms,7991 kB/s
+66.92.166.190,25212,TRUE,LAX,North America,Los Angeles,208 ms,7987 kB/s
+216.83.47.233,25242,TRUE,MIA,North America,Miami,226 ms,7985 kB/s
+143.20.106.48,25212,TRUE,LAX,North America,Los Angeles,198 ms,7985 kB/s
+143.20.106.93,25212,TRUE,LAX,North America,Los Angeles,178 ms,7982 kB/s
+66.92.166.181,25212,TRUE,LAX,North America,Los Angeles,179 ms,7982 kB/s
+198.177.59.62,25226,TRUE,MIA,North America,Miami,237 ms,7981 kB/s
+107.151.216.155,25222,TRUE,MIA,North America,Miami,237 ms,7981 kB/s
+67.215.254.93,25224,TRUE,MIA,North America,Miami,208 ms,7979 kB/s
+143.20.106.43,25212,TRUE,LAX,North America,Los Angeles,204 ms,7975 kB/s
+143.20.106.2,25212,TRUE,LAX,North America,Los Angeles,209 ms,7972 kB/s
+143.14.241.154,25212,TRUE,LAX,North America,Los Angeles,214 ms,7972 kB/s
+40.27.137.0,25255,TRUE,MIA,North America,Miami,232 ms,7970 kB/s
+38.34.18.199,12289,TRUE,LAX,North America,Los Angeles,186 ms,7969 kB/s
+209.178.233.9,25212,TRUE,LAX,North America,Los Angeles,202 ms,7967 kB/s
+209.178.239.112,25226,TRUE,MIA,North America,Miami,231 ms,7966 kB/s
+216.83.47.228,25222,TRUE,MIA,North America,Miami,236 ms,7966 kB/s
+67.215.254.81,25228,TRUE,MIA,North America,Miami,229 ms,7965 kB/s
+216.83.47.235,25242,TRUE,MIA,North America,Miami,209 ms,7965 kB/s
+198.177.59.235,25232,TRUE,MIA,North America,Miami,231 ms,7963 kB/s
+172.121.49.240,25212,TRUE,MIA,North America,Miami,226 ms,7960 kB/s
+143.20.106.41,25212,TRUE,LAX,North America,Los Angeles,205 ms,7959 kB/s
+172.252.113.10,25222,TRUE,MIA,North America,Miami,207 ms,7958 kB/s
+143.20.106.89,25212,TRUE,LAX,North America,Los Angeles,202 ms,7956 kB/s
+143.20.106.3,25212,TRUE,LAX,North America,Los Angeles,207 ms,7950 kB/s
+216.83.47.221,25222,TRUE,MIA,North America,Miami,206 ms,7946 kB/s
+172.252.113.186,25229,TRUE,MIA,North America,Miami,238 ms,7939 kB/s
+216.83.47.222,25227,TRUE,MIA,North America,Miami,235 ms,7930 kB/s
+68.167.5.19,25212,TRUE,LAX,North America,Los Angeles,209 ms,7925 kB/s
+172.120.250.64,25232,TRUE,MIA,North America,Miami,210 ms,7906 kB/s
+216.83.47.252,25227,TRUE,MIA,North America,Miami,208 ms,7903 kB/s
+66.92.166.243,25212,TRUE,LAX,North America,Los Angeles,211 ms,7896 kB/s
+172.252.113.135,25224,TRUE,MIA,North America,Miami,246 ms,7893 kB/s
+207.210.125.14,25226,TRUE,MIA,North America,Miami,234 ms,7892 kB/s
+40.27.137.4,25255,TRUE,MIA,North America,Miami,226 ms,7876 kB/s
+72.9.227.66,25232,TRUE,MIA,North America,Miami,236 ms,7868 kB/s
+172.252.113.16,25220,TRUE,MIA,North America,Miami,228 ms,7851 kB/s
+143.20.106.5,25212,TRUE,LAX,North America,Los Angeles,206 ms,7847 kB/s
+72.9.227.119,25228,TRUE,MIA,North America,Miami,212 ms,7841 kB/s
+172.252.113.42,25220,TRUE,MIA,North America,Miami,237 ms,7832 kB/s
+207.210.125.48,25226,TRUE,MIA,North America,Miami,236 ms,7831 kB/s
+172.121.49.242,25228,TRUE,MIA,North America,Miami,240 ms,7827 kB/s
+142.171.220.62,16711,TRUE,LAX,North America,Los Angeles,175 ms,7826 kB/s
+40.27.137.22,25255,TRUE,MIA,North America,Miami,232 ms,7815 kB/s
+172.252.113.56,25228,TRUE,MIA,North America,Miami,238 ms,7812 kB/s
+172.252.113.128,25222,TRUE,MIA,North America,Miami,210 ms,7799 kB/s
+198.177.59.150,25226,TRUE,MIA,North America,Miami,218 ms,7793 kB/s
+172.121.49.96,25242,TRUE,MIA,North America,Miami,228 ms,7793 kB/s
+207.210.125.54,25228,TRUE,MIA,North America,Miami,227 ms,7793 kB/s
+40.27.137.50,25292,TRUE,MIA,North America,Miami,231 ms,7786 kB/s
+67.215.254.127,25228,TRUE,MIA,North America,Miami,240 ms,7783 kB/s
+143.20.106.59,25212,TRUE,LAX,North America,Los Angeles,207 ms,7774 kB/s
+38.179.84.189,587,TRUE,PHX,North America,Phoenix,187 ms,7770 kB/s
+67.215.254.98,25224,TRUE,MIA,North America,Miami,208 ms,7765 kB/s
+198.177.59.105,25226,TRUE,MIA,North America,Miami,234 ms,7763 kB/s
+66.92.166.185,25212,TRUE,LAX,North America,Los Angeles,203 ms,7756 kB/s
+198.177.59.148,25222,TRUE,MIA,North America,Miami,229 ms,7752 kB/s
+172.252.83.155,25242,TRUE,MIA,North America,Miami,206 ms,7751 kB/s
+67.215.254.90,25224,TRUE,MIA,North America,Miami,234 ms,7748 kB/s
+172.120.250.85,25232,TRUE,MIA,North America,Miami,238 ms,7747 kB/s
+40.27.137.30,25255,TRUE,MIA,North America,Miami,238 ms,7745 kB/s
+68.167.5.104,25212,TRUE,LAX,North America,Los Angeles,201 ms,7743 kB/s
+66.92.166.184,25212,TRUE,LAX,North America,Los Angeles,208 ms,7742 kB/s
+142.171.234.16,587,TRUE,LAX,North America,Los Angeles,173 ms,7742 kB/s
+144.34.235.253,16606,TRUE,LAX,North America,Los Angeles,180 ms,7739 kB/s
+143.20.106.108,25212,TRUE,LAX,North America,Los Angeles,205 ms,7737 kB/s
+216.83.47.246,25242,TRUE,MIA,North America,Miami,237 ms,7734 kB/s
+107.172.180.73,3306,TRUE,SJC,North America,San Jose,202 ms,7734 kB/s
+66.92.166.221,25212,TRUE,LAX,North America,Los Angeles,207 ms,7733 kB/s
+143.20.106.40,25212,TRUE,LAX,North America,Los Angeles,201 ms,7731 kB/s
+67.215.254.69,25220,TRUE,MIA,North America,Miami,208 ms,7731 kB/s
+209.178.239.49,25232,TRUE,MIA,North America,Miami,236 ms,7729 kB/s
+172.121.49.106,25292,TRUE,MIA,North America,Miami,238 ms,7726 kB/s
+66.92.166.237,25212,TRUE,LAX,North America,Los Angeles,212 ms,7723 kB/s
+67.215.254.121,25220,TRUE,MIA,North America,Miami,240 ms,7719 kB/s
+207.210.125.33,25228,TRUE,MIA,North America,Miami,236 ms,7718 kB/s
+66.92.166.206,25212,TRUE,LAX,North America,Los Angeles,212 ms,7718 kB/s
+209.51.136.141,25242,TRUE,MIA,North America,Miami,226 ms,7716 kB/s
+172.252.83.138,25242,TRUE,MIA,North America,Miami,235 ms,7716 kB/s
+143.20.106.62,25212,TRUE,LAX,North America,Los Angeles,204 ms,7714 kB/s
+143.20.106.97,25212,TRUE,LAX,North America,Los Angeles,205 ms,7714 kB/s
+207.210.125.50,25228,TRUE,MIA,North America,Miami,234 ms,7713 kB/s
+67.215.254.72,25224,TRUE,MIA,North America,Miami,237 ms,7713 kB/s
+72.9.227.92,25229,TRUE,MIA,North America,Miami,209 ms,7712 kB/s
+209.51.136.131,25262,TRUE,MIA,North America,Miami,239 ms,7709 kB/s
+207.210.125.0,25228,TRUE,MIA,North America,Miami,234 ms,7708 kB/s
+172.120.250.100,25232,TRUE,MIA,North America,Miami,238 ms,7706 kB/s
+66.92.166.212,25212,TRUE,LAX,North America,Los Angeles,204 ms,7706 kB/s
+66.92.166.97,25212,TRUE,LAX,North America,Los Angeles,206 ms,7706 kB/s
+143.20.106.101,25212,TRUE,LAX,North America,Los Angeles,208 ms,7705 kB/s
+72.9.227.65,25232,TRUE,MIA,North America,Miami,237 ms,7705 kB/s
+66.92.166.233,25212,TRUE,LAX,North America,Los Angeles,188 ms,7704 kB/s
+216.83.47.249,25222,TRUE,MIA,North America,Miami,243 ms,7701 kB/s
+209.178.239.114,25226,TRUE,MIA,North America,Miami,247 ms,7700 kB/s
+143.20.106.47,25212,TRUE,LAX,North America,Los Angeles,200 ms,7698 kB/s
+172.252.113.21,25242,TRUE,MIA,North America,Miami,209 ms,7697 kB/s
+72.9.227.108,25229,TRUE,MIA,North America,Miami,205 ms,7687 kB/s
+172.121.49.100,25262,TRUE,MIA,North America,Miami,210 ms,7687 kB/s
+216.83.47.192,25227,TRUE,MIA,North America,Miami,236 ms,7686 kB/s
+172.252.113.19,25242,TRUE,MIA,North America,Miami,248 ms,7683 kB/s
+207.210.125.13,25226,TRUE,MIA,North America,Miami,212 ms,7681 kB/s
+198.177.59.106,25222,TRUE,MIA,North America,Miami,207 ms,7681 kB/s
+143.20.106.46,25212,TRUE,LAX,North America,Los Angeles,207 ms,7678 kB/s
+103.196.20.80,55555,TRUE,PHX,North America,Phoenix,195 ms,7678 kB/s
+67.215.254.86,25232,TRUE,MIA,North America,Miami,209 ms,7676 kB/s
+172.252.113.162,25224,TRUE,MIA,North America,Miami,205 ms,7674 kB/s
+72.9.227.85,25226,TRUE,MIA,North America,Miami,231 ms,7674 kB/s
+172.120.250.69,25232,TRUE,MIA,North America,Miami,225 ms,7671 kB/s
+67.215.254.79,25232,TRUE,MIA,North America,Miami,239 ms,7670 kB/s
+172.252.113.12,25222,TRUE,MIA,North America,Miami,239 ms,7669 kB/s
+172.252.113.34,25222,TRUE,MIA,North America,Miami,230 ms,7668 kB/s
+209.51.136.177,25228,TRUE,MIA,North America,Miami,231 ms,7663 kB/s
+66.92.166.235,25212,TRUE,LAX,North America,Los Angeles,201 ms,7661 kB/s
+172.252.113.41,25242,TRUE,MIA,North America,Miami,210 ms,7659 kB/s
+172.252.113.11,25222,TRUE,MIA,North America,Miami,225 ms,7656 kB/s
+68.167.5.24,25212,TRUE,LAX,North America,Los Angeles,211 ms,7654 kB/s
+40.27.137.39,25255,TRUE,MIA,North America,Miami,228 ms,7652 kB/s
+216.83.47.209,25227,TRUE,MIA,North America,Miami,240 ms,7651 kB/s
+40.27.137.30,25262,TRUE,MIA,North America,Miami,206 ms,7646 kB/s
+172.121.49.105,25224,TRUE,MIA,North America,Miami,231 ms,7636 kB/s
+172.252.113.33,25222,TRUE,MIA,North America,Miami,230 ms,7632 kB/s
+198.177.59.104,25222,TRUE,MIA,North America,Miami,237 ms,7629 kB/s
+144.172.114.59,19091,TRUE,LAX,North America,Los Angeles,194 ms,7628 kB/s
+216.83.47.234,25242,TRUE,MIA,North America,Miami,229 ms,7625 kB/s
+40.27.137.24,25255,TRUE,MIA,North America,Miami,246 ms,7609 kB/s
+172.252.113.146,25229,TRUE,MIA,North America,Miami,206 ms,7608 kB/s
+216.83.47.252,25222,TRUE,MIA,North America,Miami,243 ms,7605 kB/s
+209.51.136.177,25229,TRUE,MIA,North America,Miami,240 ms,7600 kB/s
+68.167.5.95,25212,TRUE,LAX,North America,Los Angeles,204 ms,7599 kB/s
+67.215.254.98,25228,TRUE,MIA,North America,Miami,237 ms,7596 kB/s
+67.215.254.97,25224,TRUE,MIA,North America,Miami,239 ms,7581 kB/s
+40.27.137.48,25255,TRUE,MIA,North America,Miami,239 ms,7578 kB/s
+209.51.136.129,25262,TRUE,MIA,North America,Miami,214 ms,7572 kB/s
+172.120.250.116,25232,TRUE,MIA,North America,Miami,202 ms,7572 kB/s
+172.252.113.59,25228,TRUE,MIA,North America,Miami,209 ms,7561 kB/s
+207.210.125.27,25226,TRUE,MIA,North America,Miami,242 ms,7561 kB/s
+40.27.137.2,25282,TRUE,MIA,North America,Miami,229 ms,7558 kB/s
+207.210.125.1,25228,TRUE,MIA,North America,Miami,231 ms,7557 kB/s
+72.9.227.71,25220,TRUE,MIA,North America,Miami,242 ms,7554 kB/s
+67.215.254.109,25224,TRUE,MIA,North America,Miami,213 ms,7546 kB/s
+143.20.178.194,25212,TRUE,LAX,North America,Los Angeles,208 ms,7528 kB/s
+216.83.47.197,25242,TRUE,MIA,North America,Miami,243 ms,7524 kB/s
+207.210.125.4,25226,TRUE,MIA,North America,Miami,244 ms,7510 kB/s
+64.81.39.89,46657,TRUE,LAX,North America,Los Angeles,179 ms,7502 kB/s
+172.252.113.9,25229,TRUE,MIA,North America,Miami,237 ms,7498 kB/s
+64.81.39.89,10024,TRUE,LAX,North America,Los Angeles,201 ms,7498 kB/s
+66.92.166.192,25212,TRUE,LAX,North America,Los Angeles,202 ms,7492 kB/s
+207.210.125.8,25226,TRUE,MIA,North America,Miami,209 ms,7488 kB/s
+67.215.254.113,25220,TRUE,MIA,North America,Miami,234 ms,7482 kB/s
+207.210.125.14,25212,TRUE,MIA,North America,Miami,239 ms,7482 kB/s
+207.210.125.6,25228,TRUE,MIA,North America,Miami,232 ms,7482 kB/s
+143.20.106.86,25212,TRUE,LAX,North America,Los Angeles,208 ms,7473 kB/s
+143.20.106.79,25212,TRUE,LAX,North America,Los Angeles,204 ms,7471 kB/s
+40.27.137.11,25292,TRUE,MIA,North America,Miami,206 ms,7460 kB/s
+143.20.106.35,25212,TRUE,LAX,North America,Los Angeles,206 ms,7456 kB/s
+172.252.83.146,25242,TRUE,MIA,North America,Miami,229 ms,7449 kB/s
+40.27.137.51,25292,TRUE,MIA,North America,Miami,210 ms,7447 kB/s
+216.83.47.196,25242,TRUE,MIA,North America,Miami,234 ms,7442 kB/s
+209.51.136.140,25228,TRUE,MIA,North America,Miami,231 ms,7441 kB/s
+207.210.125.51,25228,TRUE,MIA,North America,Miami,240 ms,7440 kB/s
+72.9.227.114,25229,TRUE,MIA,North America,Miami,240 ms,7438 kB/s
+107.151.216.153,25220,TRUE,MIA,North America,Miami,241 ms,7436 kB/s
+143.20.106.84,25212,TRUE,LAX,North America,Los Angeles,210 ms,7433 kB/s
+207.210.125.49,25228,TRUE,MIA,North America,Miami,234 ms,7433 kB/s
+209.51.136.182,25229,TRUE,MIA,North America,Miami,260 ms,7431 kB/s
+161.35.248.233,7854,TRUE,EWR,North America,Newark,261 ms,7430 kB/s
+207.210.125.36,25228,TRUE,MIA,North America,Miami,209 ms,7428 kB/s
+172.252.113.36,25229,TRUE,MIA,North America,Miami,241 ms,7425 kB/s
+198.177.59.67,25226,TRUE,MIA,North America,Miami,210 ms,7422 kB/s
+209.51.136.191,25226,TRUE,MIA,North America,Miami,255 ms,7421 kB/s
+72.9.227.92,25226,TRUE,MIA,North America,Miami,242 ms,7408 kB/s
+142.171.220.62,16030,TRUE,LAX,North America,Los Angeles,187 ms,7406 kB/s
+143.20.106.98,25212,TRUE,LAX,North America,Los Angeles,194 ms,7399 kB/s
+172.252.113.2,25222,TRUE,MIA,North America,Miami,239 ms,7398 kB/s
+67.215.254.84,25224,TRUE,MIA,North America,Miami,242 ms,7391 kB/s
+209.178.239.115,25226,TRUE,MIA,North America,Miami,224 ms,7388 kB/s
+207.210.125.23,25226,TRUE,MIA,North America,Miami,242 ms,7385 kB/s
+216.83.47.247,25227,TRUE,MIA,North America,Miami,243 ms,7384 kB/s
+40.27.137.3,25292,TRUE,MIA,North America,Miami,243 ms,7368 kB/s
+66.92.166.213,25212,TRUE,LAX,North America,Los Angeles,212 ms,7365 kB/s
+198.177.59.154,25227,TRUE,MIA,North America,Miami,234 ms,7359 kB/s
+143.14.241.144,25212,TRUE,LAX,North America,Los Angeles,214 ms,7354 kB/s
+143.20.106.24,25212,TRUE,LAX,North America,Los Angeles,201 ms,7352 kB/s
+209.51.136.185,25242,TRUE,MIA,North America,Miami,233 ms,7348 kB/s
+40.27.137.20,25255,TRUE,MIA,North America,Miami,238 ms,7344 kB/s
+40.27.137.45,25255,TRUE,MIA,North America,Miami,241 ms,7332 kB/s
+198.177.59.103,25226,TRUE,MIA,North America,Miami,233 ms,7323 kB/s
+172.252.83.151,25242,TRUE,MIA,North America,Miami,227 ms,7319 kB/s
+142.171.50.6,8880,TRUE,LAX,North America,Los Angeles,172 ms,7316 kB/s
+198.177.59.142,25226,TRUE,MIA,North America,Miami,242 ms,7297 kB/s
+198.177.59.155,25226,TRUE,MIA,North America,Miami,212 ms,7294 kB/s
+172.121.49.247,25228,TRUE,MIA,North America,Miami,212 ms,7293 kB/s
+198.177.59.153,25226,TRUE,MIA,North America,Miami,232 ms,7293 kB/s
+104.194.89.178,12345,TRUE,LAX,North America,Los Angeles,176 ms,7290 kB/s
+216.83.47.207,25242,TRUE,MIA,North America,Miami,236 ms,7280 kB/s
+172.252.113.37,25229,TRUE,MIA,North America,Miami,216 ms,7246 kB/s
+67.215.254.125,25224,TRUE,MIA,North America,Miami,242 ms,7245 kB/s
+68.167.5.39,25212,TRUE,LAX,North America,Los Angeles,202 ms,7237 kB/s
+142.171.220.62,16555,TRUE,LAX,North America,Los Angeles,173 ms,7236 kB/s
+207.210.125.47,25226,TRUE,MIA,North America,Miami,212 ms,7228 kB/s
+66.92.166.242,25212,TRUE,LAX,North America,Los Angeles,228 ms,7210 kB/s
+72.9.227.93,25229,TRUE,MIA,North America,Miami,235 ms,7209 kB/s
+66.92.166.246,25212,TRUE,LAX,North America,Los Angeles,213 ms,7206 kB/s
+207.210.125.32,25226,TRUE,MIA,North America,Miami,241 ms,7202 kB/s
+207.210.125.41,25228,TRUE,MIA,North America,Miami,208 ms,7200 kB/s
+143.20.178.199,25212,TRUE,LAX,North America,Los Angeles,209 ms,7177 kB/s
+80.93.199.10,60001,TRUE,AMS,Europe,Amsterdam,206 ms,7153 kB/s
+72.9.227.94,25226,TRUE,MIA,North America,Miami,243 ms,7152 kB/s
+172.252.113.37,25242,TRUE,MIA,North America,Miami,203 ms,7152 kB/s
+72.9.227.118,25226,TRUE,MIA,North America,Miami,245 ms,7130 kB/s
+67.215.254.127,25224,TRUE,MIA,North America,Miami,232 ms,7121 kB/s
+216.83.47.202,25227,TRUE,MIA,North America,Miami,236 ms,7114 kB/s
+172.121.49.103,25292,TRUE,MIA,North America,Miami,231 ms,7111 kB/s
+67.215.254.126,25224,TRUE,MIA,North America,Miami,243 ms,7105 kB/s
+72.9.227.77,25232,TRUE,MIA,North America,Miami,233 ms,7101 kB/s
+172.121.49.239,25212,TRUE,MIA,North America,Miami,233 ms,7097 kB/s
+172.252.113.176,25222,TRUE,MIA,North America,Miami,233 ms,7082 kB/s
+209.51.136.147,25262,TRUE,MIA,North America,Miami,244 ms,7066 kB/s
+198.177.59.66,25226,TRUE,MIA,North America,Miami,225 ms,7021 kB/s
+67.215.254.108,25220,TRUE,MIA,North America,Miami,238 ms,7015 kB/s
+107.174.180.162,1314,TRUE,SJC,North America,San Jose,183 ms,7002 kB/s
+195.123.241.122,50008,TRUE,LAX,North America,Los Angeles,173 ms,6975 kB/s
+172.252.113.183,25222,TRUE,MIA,North America,Miami,230 ms,6973 kB/s
+72.9.227.100,25229,TRUE,MIA,North America,Miami,241 ms,6971 kB/s
+209.51.136.189,25229,TRUE,MIA,North America,Miami,229 ms,6968 kB/s
+209.178.239.78,25226,TRUE,MIA,North America,Miami,240 ms,6963 kB/s
+67.215.254.78,25228,TRUE,MIA,North America,Miami,229 ms,6939 kB/s
+207.210.125.10,25228,TRUE,MIA,North America,Miami,236 ms,6928 kB/s
+67.215.254.76,25228,TRUE,MIA,North America,Miami,240 ms,6925 kB/s
+23.254.201.96,587,TRUE,DFW,North America,Dallas,217 ms,6920 kB/s
+198.177.59.145,25226,TRUE,MIA,North America,Miami,230 ms,6919 kB/s
+207.210.125.23,25228,TRUE,MIA,North America,Miami,239 ms,6912 kB/s
+67.215.254.85,25220,TRUE,MIA,North America,Miami,232 ms,6903 kB/s
+216.83.47.253,25227,TRUE,MIA,North America,Miami,205 ms,6901 kB/s
+216.83.47.210,25222,TRUE,MIA,North America,Miami,215 ms,6899 kB/s
+107.151.216.163,25220,TRUE,MIA,North America,Miami,231 ms,6896 kB/s
+209.51.136.155,25228,TRUE,MIA,North America,Miami,231 ms,6895 kB/s
+172.252.113.23,25222,TRUE,MIA,North America,Miami,207 ms,6890 kB/s
+67.215.254.72,25228,TRUE,MIA,North America,Miami,235 ms,6884 kB/s
+72.9.227.91,25229,TRUE,MIA,North America,Miami,209 ms,6882 kB/s
+40.27.137.62,25292,TRUE,MIA,North America,Miami,229 ms,6882 kB/s
+216.83.47.251,25242,TRUE,MIA,North America,Miami,238 ms,6877 kB/s
+209.51.136.155,25229,TRUE,MIA,North America,Miami,276 ms,6877 kB/s
+207.210.125.13,25222,TRUE,MIA,North America,Miami,237 ms,6873 kB/s
+172.252.113.20,25242,TRUE,MIA,North America,Miami,228 ms,6873 kB/s
+40.27.137.55,25292,TRUE,MIA,North America,Miami,231 ms,6868 kB/s
+209.51.136.150,25226,TRUE,MIA,North America,Miami,243 ms,6863 kB/s
+40.183.95.96,25228,TRUE,IAD,North America,Ashburn,258 ms,6863 kB/s
+72.9.227.69,25232,TRUE,MIA,North America,Miami,240 ms,6859 kB/s
+72.9.227.86,25232,TRUE,MIA,North America,Miami,236 ms,6855 kB/s
+172.120.250.90,25232,TRUE,MIA,North America,Miami,208 ms,6854 kB/s
+72.9.227.79,25232,TRUE,MIA,North America,Miami,229 ms,6851 kB/s
+72.9.227.125,25232,TRUE,MIA,North America,Miami,207 ms,6850 kB/s
+72.9.227.90,25232,TRUE,MIA,North America,Miami,239 ms,6848 kB/s
+207.210.125.25,25226,TRUE,MIA,North America,Miami,234 ms,6845 kB/s
+207.210.125.45,25222,TRUE,MIA,North America,Miami,240 ms,6844 kB/s
+172.252.113.39,25220,TRUE,MIA,North America,Miami,206 ms,6842 kB/s
+216.83.47.194,25222,TRUE,MIA,North America,Miami,218 ms,6836 kB/s
+142.171.44.151,8000,TRUE,LAX,North America,Los Angeles,175 ms,6833 kB/s
+66.92.166.248,25212,TRUE,LAX,North America,Los Angeles,203 ms,6828 kB/s
+198.177.59.155,25227,TRUE,MIA,North America,Miami,234 ms,6823 kB/s
+216.83.47.246,25222,TRUE,MIA,North America,Miami,240 ms,6820 kB/s
+75.127.120.227,25212,TRUE,IAD,North America,Ashburn,268 ms,6817 kB/s
+172.121.49.95,25224,TRUE,MIA,North America,Miami,208 ms,6813 kB/s
+172.252.113.168,25222,TRUE,MIA,North America,Miami,230 ms,6808 kB/s
+172.252.113.150,25222,TRUE,MIA,North America,Miami,237 ms,6803 kB/s
+198.177.59.176,25212,TRUE,MIA,North America,Miami,236 ms,6802 kB/s
+172.121.49.243,25232,TRUE,MIA,North America,Miami,237 ms,6792 kB/s
+67.215.254.85,25224,TRUE,MIA,North America,Miami,230 ms,6790 kB/s
+207.210.125.1,25222,TRUE,MIA,North America,Miami,244 ms,6788 kB/s
+5.161.20.169,449,TRUE,IAD,North America,Ashburn,238 ms,6787 kB/s
+72.9.227.97,25220,TRUE,MIA,North America,Miami,240 ms,6780 kB/s
+172.252.113.44,25229,TRUE,MIA,North America,Miami,213 ms,6778 kB/s
+172.252.113.0,25222,TRUE,MIA,North America,Miami,210 ms,6778 kB/s
+172.252.113.49,25242,TRUE,MIA,North America,Miami,229 ms,6775 kB/s
+72.9.227.113,25228,TRUE,MIA,North America,Miami,240 ms,6771 kB/s
+67.215.254.85,25232,TRUE,MIA,North America,Miami,230 ms,6768 kB/s
+172.252.113.8,25220,TRUE,MIA,North America,Miami,237 ms,6767 kB/s
+198.177.59.151,25226,TRUE,MIA,North America,Miami,242 ms,6765 kB/s
+67.215.254.65,25232,TRUE,MIA,North America,Miami,231 ms,6765 kB/s
+198.177.59.174,25232,TRUE,MIA,North America,Miami,230 ms,6764 kB/s
+198.177.59.183,25232,TRUE,MIA,North America,Miami,240 ms,6764 kB/s
+172.252.113.54,25220,TRUE,MIA,North America,Miami,240 ms,6758 kB/s
+67.215.254.100,25232,TRUE,MIA,North America,Miami,229 ms,6752 kB/s
+198.177.59.149,25226,TRUE,MIA,North America,Miami,237 ms,6751 kB/s
+172.121.49.246,25228,TRUE,MIA,North America,Miami,234 ms,6746 kB/s
+207.210.125.19,25226,TRUE,MIA,North America,Miami,236 ms,6746 kB/s
+209.178.239.40,25232,TRUE,MIA,North America,Miami,237 ms,6742 kB/s
+209.51.136.168,25229,TRUE,MIA,North America,Miami,216 ms,6740 kB/s
+198.177.59.68,25222,TRUE,MIA,North America,Miami,251 ms,6736 kB/s
+64.81.180.247,25232,TRUE,IAD,North America,Ashburn,258 ms,6734 kB/s
+207.210.125.63,25222,TRUE,MIA,North America,Miami,238 ms,6730 kB/s
+207.210.125.49,25226,TRUE,MIA,North America,Miami,231 ms,6728 kB/s
+40.223.157.215,25212,TRUE,IAD,North America,Ashburn,257 ms,6723 kB/s
+193.163.19.42,5511,TRUE,SJC,North America,San Jose,170 ms,6714 kB/s
+67.215.254.117,25228,TRUE,MIA,North America,Miami,230 ms,6714 kB/s
+172.252.113.180,25229,TRUE,MIA,North America,Miami,206 ms,6713 kB/s
+40.27.137.21,25255,TRUE,MIA,North America,Miami,243 ms,6710 kB/s
+40.27.137.58,25255,TRUE,MIA,North America,Miami,231 ms,6709 kB/s
+198.177.59.149,25227,TRUE,MIA,North America,Miami,241 ms,6707 kB/s
+216.83.47.215,25227,TRUE,MIA,North America,Miami,238 ms,6701 kB/s
+172.252.113.140,25228,TRUE,MIA,North America,Miami,230 ms,6691 kB/s
+64.81.180.54,25232,TRUE,IAD,North America,Ashburn,262 ms,6682 kB/s
+209.51.136.128,25262,TRUE,MIA,North America,Miami,234 ms,6676 kB/s
+172.121.49.97,25242,TRUE,MIA,North America,Miami,239 ms,6675 kB/s
+172.120.250.114,25232,TRUE,MIA,North America,Miami,206 ms,6672 kB/s
+207.210.125.2,25222,TRUE,MIA,North America,Miami,208 ms,6672 kB/s
+216.83.47.216,25222,TRUE,MIA,North America,Miami,227 ms,6667 kB/s
+172.121.37.189,25212,TRUE,IAD,North America,Ashburn,272 ms,6667 kB/s
+67.215.254.73,25228,TRUE,MIA,North America,Miami,231 ms,6665 kB/s
+172.252.113.177,25229,TRUE,MIA,North America,Miami,239 ms,6664 kB/s
+172.121.56.52,25212,TRUE,IAD,North America,Ashburn,266 ms,6663 kB/s
+172.121.56.98,25212,TRUE,IAD,North America,Ashburn,264 ms,6662 kB/s
+67.215.254.119,25220,TRUE,MIA,North America,Miami,230 ms,6662 kB/s
+198.177.59.179,25232,TRUE,MIA,North America,Miami,236 ms,6660 kB/s
+72.9.227.123,25229,TRUE,MIA,North America,Miami,236 ms,6659 kB/s
+64.81.180.177,25232,TRUE,IAD,North America,Ashburn,255 ms,6656 kB/s
+172.120.243.194,25222,TRUE,IAD,North America,Ashburn,269 ms,6654 kB/s
+216.83.47.226,25222,TRUE,MIA,North America,Miami,236 ms,6653 kB/s
+172.121.33.70,25220,TRUE,IAD,North America,Ashburn,273 ms,6653 kB/s
+172.121.37.222,25212,TRUE,IAD,North America,Ashburn,274 ms,6653 kB/s
+143.20.106.103,25212,TRUE,LAX,North America,Los Angeles,202 ms,6652 kB/s
+67.215.254.70,25220,TRUE,MIA,North America,Miami,210 ms,6650 kB/s
+198.177.59.232,25222,TRUE,MIA,North America,Miami,232 ms,6649 kB/s
+198.177.59.178,25222,TRUE,MIA,North America,Miami,228 ms,6648 kB/s
+107.151.216.113,25229,TRUE,MIA,North America,Miami,236 ms,6647 kB/s
+172.121.33.18,25212,TRUE,IAD,North America,Ashburn,258 ms,6646 kB/s
+172.121.49.95,25242,TRUE,MIA,North America,Miami,236 ms,6646 kB/s
+209.178.239.121,25232,TRUE,MIA,North America,Miami,234 ms,6646 kB/s
+172.120.243.148,25220,TRUE,IAD,North America,Ashburn,264 ms,6644 kB/s
+198.177.59.61,25226,TRUE,MIA,North America,Miami,229 ms,6643 kB/s
+198.177.59.147,25227,TRUE,MIA,North America,Miami,246 ms,6642 kB/s
+198.177.59.181,25222,TRUE,MIA,North America,Miami,236 ms,6642 kB/s
+207.210.125.44,25222,TRUE,MIA,North America,Miami,232 ms,6641 kB/s
+67.215.254.64,25220,TRUE,MIA,North America,Miami,231 ms,6640 kB/s
+172.121.37.92,25222,TRUE,IAD,North America,Ashburn,281 ms,6640 kB/s
+172.121.37.170,25222,TRUE,IAD,North America,Ashburn,274 ms,6640 kB/s
+172.252.113.0,25242,TRUE,MIA,North America,Miami,234 ms,6640 kB/s
+72.9.227.98,25229,TRUE,MIA,North America,Miami,236 ms,6639 kB/s
+40.27.137.43,25292,TRUE,MIA,North America,Miami,237 ms,6638 kB/s
+67.215.254.103,25220,TRUE,MIA,North America,Miami,229 ms,6638 kB/s
+40.27.137.4,25292,TRUE,MIA,North America,Miami,204 ms,6637 kB/s
+72.9.227.99,25226,TRUE,MIA,North America,Miami,236 ms,6637 kB/s
+67.215.254.104,25220,TRUE,MIA,North America,Miami,209 ms,6635 kB/s
+72.9.227.80,25220,TRUE,MIA,North America,Miami,239 ms,6634 kB/s
+107.151.216.183,25212,TRUE,MIA,North America,Miami,209 ms,6634 kB/s
+216.83.47.248,25242,TRUE,MIA,North America,Miami,237 ms,6634 kB/s
+207.210.125.5,25228,TRUE,MIA,North America,Miami,209 ms,6634 kB/s
+75.127.120.63,25212,TRUE,IAD,North America,Ashburn,263 ms,6634 kB/s
+172.252.113.172,25224,TRUE,MIA,North America,Miami,241 ms,6634 kB/s
+198.177.59.170,25212,TRUE,MIA,North America,Miami,230 ms,6634 kB/s
+67.215.254.87,25224,TRUE,MIA,North America,Miami,230 ms,6632 kB/s
+67.215.254.83,25232,TRUE,MIA,North America,Miami,229 ms,6631 kB/s
+209.178.239.77,25226,TRUE,MIA,North America,Miami,234 ms,6630 kB/s
+67.215.254.79,25224,TRUE,MIA,North America,Miami,240 ms,6630 kB/s
+72.9.227.115,25229,TRUE,MIA,North America,Miami,240 ms,6630 kB/s
+67.215.254.106,25220,TRUE,MIA,North America,Miami,209 ms,6630 kB/s
+198.177.59.113,25226,TRUE,MIA,North America,Miami,209 ms,6630 kB/s
+67.215.254.80,25220,TRUE,MIA,North America,Miami,239 ms,6630 kB/s
+67.215.254.71,25224,TRUE,MIA,North America,Miami,240 ms,6629 kB/s
+40.27.137.49,25255,TRUE,MIA,North America,Miami,228 ms,6629 kB/s
+207.210.125.51,25222,TRUE,MIA,North America,Miami,232 ms,6628 kB/s
+72.9.227.113,25226,TRUE,MIA,North America,Miami,236 ms,6627 kB/s
+107.151.216.149,25262,TRUE,MIA,North America,Miami,231 ms,6627 kB/s
+107.151.216.226,25232,TRUE,MIA,North America,Miami,228 ms,6627 kB/s
+216.83.47.193,25222,TRUE,MIA,North America,Miami,207 ms,6626 kB/s
+40.27.137.10,25262,TRUE,MIA,North America,Miami,212 ms,6625 kB/s
+172.252.113.48,25242,TRUE,MIA,North America,Miami,242 ms,6625 kB/s
+72.9.227.84,25226,TRUE,MIA,North America,Miami,234 ms,6624 kB/s
+216.83.47.242,25222,TRUE,MIA,North America,Miami,239 ms,6621 kB/s
+72.9.227.95,25229,TRUE,MIA,North America,Miami,243 ms,6620 kB/s
+40.27.137.7,25255,TRUE,MIA,North America,Miami,237 ms,6619 kB/s
+172.120.250.67,25232,TRUE,MIA,North America,Miami,232 ms,6618 kB/s
+172.121.49.246,25212,TRUE,MIA,North America,Miami,239 ms,6618 kB/s
+198.177.59.64,25226,TRUE,MIA,North America,Miami,238 ms,6617 kB/s
+107.151.216.113,25212,TRUE,MIA,North America,Miami,209 ms,6617 kB/s
+198.177.59.146,25226,TRUE,MIA,North America,Miami,231 ms,6617 kB/s
+67.215.254.90,25232,TRUE,MIA,North America,Miami,210 ms,6616 kB/s
+172.252.113.36,25242,TRUE,MIA,North America,Miami,232 ms,6615 kB/s
+207.210.125.40,25222,TRUE,MIA,North America,Miami,242 ms,6615 kB/s
+172.252.113.0,25212,TRUE,MIA,North America,Miami,240 ms,6615 kB/s
+172.120.250.102,25232,TRUE,MIA,North America,Miami,210 ms,6614 kB/s
+172.252.113.144,25224,TRUE,MIA,North America,Miami,231 ms,6614 kB/s
+67.215.254.84,25232,TRUE,MIA,North America,Miami,236 ms,6612 kB/s
+5.161.149.54,2082,TRUE,IAD,North America,Ashburn,239 ms,6612 kB/s
+107.151.216.226,25227,TRUE,MIA,North America,Miami,206 ms,6611 kB/s
+67.215.254.66,25228,TRUE,MIA,North America,Miami,235 ms,6611 kB/s
+67.215.254.93,25232,TRUE,MIA,North America,Miami,207 ms,6611 kB/s
+172.120.250.65,25232,TRUE,MIA,North America,Miami,236 ms,6610 kB/s
+67.215.254.118,25224,TRUE,MIA,North America,Miami,252 ms,6609 kB/s
+172.120.250.92,25232,TRUE,MIA,North America,Miami,239 ms,6608 kB/s
+72.9.227.93,25232,TRUE,MIA,North America,Miami,246 ms,6608 kB/s
+40.27.137.9,25292,TRUE,MIA,North America,Miami,205 ms,6608 kB/s
+172.252.113.31,25228,TRUE,MIA,North America,Miami,236 ms,6608 kB/s
+143.20.106.72,25212,TRUE,LAX,North America,Los Angeles,178 ms,6608 kB/s
+198.177.59.237,25232,TRUE,MIA,North America,Miami,211 ms,6605 kB/s
+172.252.113.56,25242,TRUE,MIA,North America,Miami,232 ms,6605 kB/s
+198.177.59.113,25222,TRUE,MIA,North America,Miami,230 ms,6603 kB/s
+172.252.113.50,25242,TRUE,MIA,North America,Miami,237 ms,6602 kB/s
+198.177.59.65,25227,TRUE,MIA,North America,Miami,229 ms,6602 kB/s
+216.83.47.240,25222,TRUE,MIA,North America,Miami,235 ms,6599 kB/s
+207.210.125.30,25232,TRUE,MIA,North America,Miami,207 ms,6599 kB/s
+107.151.216.214,25227,TRUE,MIA,North America,Miami,236 ms,6599 kB/s
+207.210.125.10,25226,TRUE,MIA,North America,Miami,241 ms,6599 kB/s
+172.252.113.41,25222,TRUE,MIA,North America,Miami,239 ms,6599 kB/s
+207.210.125.41,25232,TRUE,MIA,North America,Miami,234 ms,6599 kB/s
+172.120.250.121,25232,TRUE,MIA,North America,Miami,229 ms,6598 kB/s
+107.151.216.113,25232,TRUE,MIA,North America,Miami,213 ms,6598 kB/s
+172.252.113.22,25222,TRUE,MIA,North America,Miami,212 ms,6598 kB/s
+107.151.216.57,25232,TRUE,MIA,North America,Miami,235 ms,6597 kB/s
+207.210.125.8,25232,TRUE,MIA,North America,Miami,234 ms,6596 kB/s
+198.177.59.67,25227,TRUE,MIA,North America,Miami,232 ms,6595 kB/s
+172.252.113.3,25222,TRUE,MIA,North America,Miami,231 ms,6593 kB/s
+67.215.254.102,25224,TRUE,MIA,North America,Miami,235 ms,6592 kB/s
+172.252.113.32,25222,TRUE,MIA,North America,Miami,231 ms,6592 kB/s
+198.177.59.112,25222,TRUE,MIA,North America,Miami,201 ms,6590 kB/s
+104.253.10.232,25220,TRUE,IAD,North America,Ashburn,265 ms,6589 kB/s
+172.252.113.13,25222,TRUE,MIA,North America,Miami,210 ms,6586 kB/s
+40.27.137.28,25292,TRUE,MIA,North America,Miami,240 ms,6585 kB/s
+198.177.59.65,25222,TRUE,MIA,North America,Miami,239 ms,6585 kB/s
+72.9.227.107,25232,TRUE,MIA,North America,Miami,231 ms,6584 kB/s
+72.9.227.116,25232,TRUE,MIA,North America,Miami,228 ms,6582 kB/s
+172.121.49.100,25224,TRUE,MIA,North America,Miami,232 ms,6581 kB/s
+103.79.78.16,444,TRUE,LAX,North America,Los Angeles,231 ms,6580 kB/s
+104.253.10.240,25222,TRUE,IAD,North America,Ashburn,270 ms,6580 kB/s
+207.210.125.2,25232,TRUE,MIA,North America,Miami,207 ms,6580 kB/s
+172.252.113.51,25242,TRUE,MIA,North America,Miami,231 ms,6579 kB/s
+72.9.227.112,25232,TRUE,MIA,North America,Miami,238 ms,6578 kB/s
+207.210.125.43,25232,TRUE,MIA,North America,Miami,234 ms,6576 kB/s
+40.27.137.32,25255,TRUE,MIA,North America,Miami,238 ms,6576 kB/s
+198.177.59.228,25232,TRUE,MIA,North America,Miami,208 ms,6576 kB/s
+198.177.59.61,25227,TRUE,MIA,North America,Miami,207 ms,6574 kB/s
+216.83.47.214,25227,TRUE,MIA,North America,Miami,237 ms,6573 kB/s
+216.83.47.195,25227,TRUE,MIA,North America,Miami,239 ms,6573 kB/s
+172.252.113.9,25222,TRUE,MIA,North America,Miami,210 ms,6570 kB/s
+40.27.137.28,25255,TRUE,MIA,North America,Miami,229 ms,6570 kB/s
+172.121.37.24,25220,TRUE,IAD,North America,Ashburn,262 ms,6570 kB/s
+75.127.120.239,25212,TRUE,IAD,North America,Ashburn,237 ms,6567 kB/s
+172.252.113.133,25229,TRUE,MIA,North America,Miami,234 ms,6565 kB/s
+198.177.59.148,25226,TRUE,MIA,North America,Miami,240 ms,6562 kB/s
+172.252.113.18,25222,TRUE,MIA,North America,Miami,230 ms,6561 kB/s
+67.215.254.115,25224,TRUE,MIA,North America,Miami,232 ms,6554 kB/s
+198.177.59.69,25222,TRUE,MIA,North America,Miami,230 ms,6551 kB/s
+72.9.227.118,25229,TRUE,MIA,North America,Miami,240 ms,6551 kB/s
+72.9.227.84,25232,TRUE,MIA,North America,Miami,225 ms,6548 kB/s
+5.161.16.176,449,TRUE,IAD,North America,Ashburn,236 ms,6547 kB/s
+107.151.216.57,25220,TRUE,MIA,North America,Miami,227 ms,6538 kB/s
+172.252.113.151,25224,TRUE,MIA,North America,Miami,233 ms,6537 kB/s
+40.27.137.34,25255,TRUE,MIA,North America,Miami,237 ms,6536 kB/s
+40.27.137.6,25255,TRUE,MIA,North America,Miami,230 ms,6533 kB/s
+207.210.125.12,25222,TRUE,MIA,North America,Miami,214 ms,6532 kB/s
+172.121.49.236,25228,TRUE,MIA,North America,Miami,243 ms,6528 kB/s
+172.121.10.214,25212,TRUE,IAD,North America,Ashburn,248 ms,6525 kB/s
+209.178.239.110,25226,TRUE,MIA,North America,Miami,208 ms,6522 kB/s
+40.27.137.37,25292,TRUE,MIA,North America,Miami,238 ms,6522 kB/s
+216.83.47.201,25242,TRUE,MIA,North America,Miami,241 ms,6521 kB/s
+198.177.59.58,25227,TRUE,MIA,North America,Miami,209 ms,6519 kB/s
+207.210.125.49,25232,TRUE,MIA,North America,Miami,237 ms,6518 kB/s
+172.252.113.132,25222,TRUE,MIA,North America,Miami,240 ms,6515 kB/s
+209.178.239.73,25226,TRUE,MIA,North America,Miami,229 ms,6513 kB/s
+172.252.113.177,25222,TRUE,MIA,North America,Miami,229 ms,6513 kB/s
+209.51.136.170,25228,TRUE,MIA,North America,Miami,207 ms,6512 kB/s
+172.252.113.60,25224,TRUE,MIA,North America,Miami,237 ms,6511 kB/s
+67.215.254.87,25228,TRUE,MIA,North America,Miami,239 ms,6511 kB/s
+107.151.216.10,25220,TRUE,MIA,North America,Miami,230 ms,6509 kB/s
+172.252.113.23,25220,TRUE,MIA,North America,Miami,240 ms,6509 kB/s
+172.252.113.7,25220,TRUE,MIA,North America,Miami,211 ms,6509 kB/s
+209.178.239.120,25226,TRUE,MIA,North America,Miami,240 ms,6509 kB/s
+172.121.49.244,25232,TRUE,MIA,North America,Miami,238 ms,6508 kB/s
+40.27.137.35,25292,TRUE,MIA,North America,Miami,234 ms,6507 kB/s
+172.121.10.230,25212,TRUE,IAD,North America,Ashburn,239 ms,6506 kB/s
+172.252.113.43,25220,TRUE,MIA,North America,Miami,237 ms,6505 kB/s
+143.20.178.205,25212,TRUE,LAX,North America,Los Angeles,209 ms,6504 kB/s
+209.178.239.47,25226,TRUE,MIA,North America,Miami,232 ms,6502 kB/s
+172.252.113.148,25222,TRUE,MIA,North America,Miami,237 ms,6501 kB/s
+40.183.95.82,25228,TRUE,IAD,North America,Ashburn,261 ms,6500 kB/s
+172.252.113.186,25222,TRUE,MIA,North America,Miami,229 ms,6499 kB/s
+40.27.137.50,25255,TRUE,MIA,North America,Miami,240 ms,6498 kB/s
+172.252.113.184,25222,TRUE,MIA,North America,Miami,227 ms,6496 kB/s
+172.252.113.51,25220,TRUE,MIA,North America,Miami,228 ms,6494 kB/s
+198.177.59.154,25226,TRUE,MIA,North America,Miami,212 ms,6494 kB/s
+198.177.59.65,25226,TRUE,MIA,North America,Miami,227 ms,6494 kB/s
+67.215.254.65,25224,TRUE,MIA,North America,Miami,208 ms,6493 kB/s
+72.9.227.119,25229,TRUE,MIA,North America,Miami,210 ms,6493 kB/s
+198.177.59.66,25227,TRUE,MIA,North America,Miami,227 ms,6489 kB/s
+40.27.137.52,25255,TRUE,MIA,North America,Miami,231 ms,6489 kB/s
+172.252.113.191,25222,TRUE,MIA,North America,Miami,237 ms,6488 kB/s
+209.51.136.163,25262,TRUE,MIA,North America,Miami,240 ms,6487 kB/s
+172.252.113.173,25229,TRUE,MIA,North America,Miami,231 ms,6486 kB/s
+172.120.243.212,25220,TRUE,IAD,North America,Ashburn,271 ms,6486 kB/s
+40.27.137.54,25255,TRUE,MIA,North America,Miami,236 ms,6485 kB/s
+198.177.59.142,25222,TRUE,MIA,North America,Miami,236 ms,6480 kB/s
+72.9.227.123,25228,TRUE,MIA,North America,Miami,238 ms,6480 kB/s
+172.252.113.189,25222,TRUE,MIA,North America,Miami,241 ms,6480 kB/s
+207.210.125.57,25222,TRUE,MIA,North America,Miami,231 ms,6478 kB/s
+172.252.113.130,25222,TRUE,MIA,North America,Miami,231 ms,6477 kB/s
+66.92.166.226,25212,TRUE,LAX,North America,Los Angeles,183 ms,6477 kB/s
+209.178.239.68,25226,TRUE,MIA,North America,Miami,231 ms,6473 kB/s
+172.252.113.36,25220,TRUE,MIA,North America,Miami,209 ms,6472 kB/s
+172.252.113.29,25228,TRUE,MIA,North America,Miami,242 ms,6470 kB/s
+207.210.125.56,25222,TRUE,MIA,North America,Miami,237 ms,6468 kB/s
+209.51.136.186,25262,TRUE,MIA,North America,Miami,237 ms,6467 kB/s
+72.9.227.105,25220,TRUE,MIA,North America,Miami,242 ms,6467 kB/s
+172.252.113.167,25222,TRUE,MIA,North America,Miami,208 ms,6467 kB/s
+172.252.113.50,25229,TRUE,MIA,North America,Miami,236 ms,6464 kB/s
+67.215.254.81,25232,TRUE,MIA,North America,Miami,234 ms,6464 kB/s
+209.51.136.158,25228,TRUE,MIA,North America,Miami,257 ms,6464 kB/s
+5.161.149.54,2052,TRUE,IAD,North America,Ashburn,238 ms,6461 kB/s
+172.121.49.101,25292,TRUE,MIA,North America,Miami,249 ms,6460 kB/s
+216.83.47.197,25222,TRUE,MIA,North America,Miami,234 ms,6460 kB/s
+72.9.227.127,25220,TRUE,MIA,North America,Miami,228 ms,6458 kB/s
+40.27.137.2,25255,TRUE,MIA,North America,Miami,236 ms,6457 kB/s
+172.121.49.245,25228,TRUE,MIA,North America,Miami,236 ms,6452 kB/s
+207.210.125.3,25212,TRUE,MIA,North America,Miami,235 ms,6448 kB/s
+172.121.49.239,25228,TRUE,MIA,North America,Miami,211 ms,6448 kB/s
+198.177.59.69,25226,TRUE,MIA,North America,Miami,237 ms,6448 kB/s
+72.9.227.81,25220,TRUE,MIA,North America,Miami,232 ms,6445 kB/s
+40.27.137.62,25255,TRUE,MIA,North America,Miami,239 ms,6443 kB/s
+67.215.254.122,25220,TRUE,MIA,North America,Miami,239 ms,6442 kB/s
+40.27.137.45,25292,TRUE,MIA,North America,Miami,240 ms,6442 kB/s
+198.177.59.105,25227,TRUE,MIA,North America,Miami,239 ms,6441 kB/s
+172.252.113.43,25242,TRUE,MIA,North America,Miami,208 ms,6440 kB/s
+72.9.227.114,25220,TRUE,MIA,North America,Miami,241 ms,6440 kB/s
+67.215.254.118,25232,TRUE,MIA,North America,Miami,244 ms,6439 kB/s
+67.215.254.99,25228,TRUE,MIA,North America,Miami,230 ms,6438 kB/s
+207.210.125.20,25226,TRUE,MIA,North America,Miami,232 ms,6433 kB/s
+172.121.49.236,25232,TRUE,MIA,North America,Miami,210 ms,6433 kB/s
+72.9.227.77,25229,TRUE,MIA,North America,Miami,236 ms,6429 kB/s
+207.210.125.18,25226,TRUE,MIA,North America,Miami,210 ms,6428 kB/s
+40.27.137.0,25282,TRUE,MIA,North America,Miami,239 ms,6428 kB/s
+72.9.227.112,25220,TRUE,MIA,North America,Miami,235 ms,6428 kB/s
+172.252.113.62,25220,TRUE,MIA,North America,Miami,238 ms,6428 kB/s
+207.210.125.5,25226,TRUE,MIA,North America,Miami,208 ms,6425 kB/s
+172.252.83.165,25242,TRUE,MIA,North America,Miami,238 ms,6423 kB/s
+209.178.239.70,25232,TRUE,MIA,North America,Miami,243 ms,6422 kB/s
+172.121.56.26,25212,TRUE,IAD,North America,Ashburn,241 ms,6419 kB/s
+198.177.59.68,25226,TRUE,MIA,North America,Miami,236 ms,6417 kB/s
+107.151.216.153,25227,TRUE,MIA,North America,Miami,230 ms,6416 kB/s
+67.215.254.91,25228,TRUE,MIA,North America,Miami,229 ms,6414 kB/s
+216.83.47.194,25227,TRUE,MIA,North America,Miami,235 ms,6413 kB/s
+172.121.56.84,25212,TRUE,IAD,North America,Ashburn,237 ms,6413 kB/s
+216.83.47.248,25222,TRUE,MIA,North America,Miami,229 ms,6412 kB/s
+198.177.59.229,25222,TRUE,MIA,North America,Miami,207 ms,6411 kB/s
+40.27.137.14,25255,TRUE,MIA,North America,Miami,239 ms,6410 kB/s
+40.223.251.116,25212,TRUE,IAD,North America,Ashburn,264 ms,6409 kB/s
+172.252.113.159,25224,TRUE,MIA,North America,Miami,209 ms,6404 kB/s
+75.127.120.59,25220,TRUE,IAD,North America,Ashburn,274 ms,6403 kB/s
+172.120.250.120,25232,TRUE,MIA,North America,Miami,214 ms,6403 kB/s
+172.121.56.48,25212,TRUE,IAD,North America,Ashburn,261 ms,6403 kB/s
+104.253.186.87,25222,TRUE,IAD,North America,Ashburn,272 ms,6403 kB/s
+207.210.125.41,25226,TRUE,MIA,North America,Miami,235 ms,6401 kB/s
+172.252.113.22,25228,TRUE,MIA,North America,Miami,205 ms,6401 kB/s
+198.177.59.67,25222,TRUE,MIA,North America,Miami,237 ms,6401 kB/s
+172.252.113.42,25212,TRUE,MIA,North America,Miami,233 ms,6400 kB/s
+198.177.59.177,25222,TRUE,MIA,North America,Miami,229 ms,6399 kB/s
+207.210.125.6,25226,TRUE,MIA,North America,Miami,237 ms,6396 kB/s
+107.151.216.113,25220,TRUE,MIA,North America,Miami,239 ms,6396 kB/s
+198.177.59.236,25222,TRUE,MIA,North America,Miami,211 ms,6394 kB/s
+162.216.113.75,1234,TRUE,EWR,North America,Newark,256 ms,6394 kB/s
+209.51.136.133,25262,TRUE,MIA,North America,Miami,211 ms,6394 kB/s
+67.215.254.68,25224,TRUE,MIA,North America,Miami,205 ms,6393 kB/s
+216.83.47.203,25242,TRUE,MIA,North America,Miami,228 ms,6392 kB/s
+67.215.254.75,25224,TRUE,MIA,North America,Miami,231 ms,6391 kB/s
+172.121.49.242,25232,TRUE,MIA,North America,Miami,209 ms,6390 kB/s
+40.27.137.43,25255,TRUE,MIA,North America,Miami,240 ms,6389 kB/s
+172.121.49.107,25242,TRUE,MIA,North America,Miami,236 ms,6388 kB/s
+67.215.254.77,25220,TRUE,MIA,North America,Miami,230 ms,6388 kB/s
+198.177.59.143,25222,TRUE,MIA,North America,Miami,236 ms,6387 kB/s
+172.252.113.14,25212,TRUE,MIA,North America,Miami,239 ms,6387 kB/s
+67.215.254.96,25224,TRUE,MIA,North America,Miami,207 ms,6387 kB/s
+67.215.254.127,25220,TRUE,MIA,North America,Miami,240 ms,6387 kB/s
+207.210.125.59,25228,TRUE,MIA,North America,Miami,234 ms,6387 kB/s
+207.210.125.25,25232,TRUE,MIA,North America,Miami,231 ms,6387 kB/s
+198.177.59.180,25222,TRUE,MIA,North America,Miami,209 ms,6386 kB/s
+172.120.243.232,25220,TRUE,IAD,North America,Ashburn,269 ms,6386 kB/s
+198.177.59.101,25226,TRUE,MIA,North America,Miami,236 ms,6384 kB/s
+67.215.254.106,25224,TRUE,MIA,North America,Miami,238 ms,6384 kB/s
+64.81.180.152,25232,TRUE,IAD,North America,Ashburn,242 ms,6384 kB/s
+207.210.125.62,25232,TRUE,MIA,North America,Miami,212 ms,6383 kB/s
+5.161.149.54,2086,TRUE,IAD,North America,Ashburn,235 ms,6382 kB/s
+172.121.37.236,25212,TRUE,IAD,North America,Ashburn,266 ms,6382 kB/s
+40.183.198.197,25220,TRUE,IAD,North America,Ashburn,265 ms,6382 kB/s
+216.83.47.230,25242,TRUE,MIA,North America,Miami,248 ms,6381 kB/s
+172.252.113.53,25220,TRUE,MIA,North America,Miami,243 ms,6380 kB/s
+172.120.250.70,25232,TRUE,MIA,North America,Miami,234 ms,6379 kB/s
+172.252.113.173,25222,TRUE,MIA,North America,Miami,211 ms,6378 kB/s
+67.215.254.88,25224,TRUE,MIA,North America,Miami,212 ms,6378 kB/s
+172.121.33.12,25212,TRUE,IAD,North America,Ashburn,267 ms,6377 kB/s
+172.121.37.93,25212,TRUE,IAD,North America,Ashburn,266 ms,6377 kB/s
+209.51.136.176,25262,TRUE,MIA,North America,Miami,230 ms,6377 kB/s
+67.215.254.65,25228,TRUE,MIA,North America,Miami,234 ms,6377 kB/s
+67.215.254.125,25220,TRUE,MIA,North America,Miami,236 ms,6377 kB/s
+216.83.47.210,25242,TRUE,MIA,North America,Miami,236 ms,6376 kB/s
+216.83.47.253,25242,TRUE,MIA,North America,Miami,210 ms,6375 kB/s
+216.83.47.216,25242,TRUE,MIA,North America,Miami,235 ms,6375 kB/s
+67.215.254.113,25224,TRUE,MIA,North America,Miami,237 ms,6375 kB/s
+72.9.224.214,25212,TRUE,IAD,North America,Ashburn,258 ms,6374 kB/s
+198.177.59.112,25226,TRUE,MIA,North America,Miami,238 ms,6374 kB/s
+67.215.254.73,25224,TRUE,MIA,North America,Miami,235 ms,6373 kB/s
+207.210.125.11,25228,TRUE,MIA,North America,Miami,228 ms,6372 kB/s
+67.215.254.120,25220,TRUE,MIA,North America,Miami,236 ms,6372 kB/s
+75.127.120.2,25222,TRUE,IAD,North America,Ashburn,249 ms,6371 kB/s
+67.215.254.89,25224,TRUE,MIA,North America,Miami,234 ms,6371 kB/s
+198.177.59.110,25222,TRUE,MIA,North America,Miami,239 ms,6371 kB/s
+209.178.239.72,25232,TRUE,MIA,North America,Miami,238 ms,6371 kB/s
+172.121.56.135,25212,TRUE,IAD,North America,Ashburn,275 ms,6371 kB/s
+64.81.180.29,25232,TRUE,IAD,North America,Ashburn,265 ms,6371 kB/s
+75.127.120.155,25212,TRUE,IAD,North America,Ashburn,273 ms,6370 kB/s
+40.223.251.108,25212,TRUE,IAD,North America,Ashburn,264 ms,6369 kB/s
+172.252.113.128,25224,TRUE,MIA,North America,Miami,232 ms,6369 kB/s
+172.252.113.41,25229,TRUE,MIA,North America,Miami,213 ms,6369 kB/s
+40.27.137.40,25292,TRUE,MIA,North America,Miami,236 ms,6368 kB/s
+103.79.78.21,444,TRUE,LAX,North America,Los Angeles,229 ms,6368 kB/s
+216.83.47.208,25222,TRUE,MIA,North America,Miami,205 ms,6366 kB/s
+67.215.254.101,25220,TRUE,MIA,North America,Miami,222 ms,6366 kB/s
+72.9.227.96,25232,TRUE,MIA,North America,Miami,234 ms,6366 kB/s
+198.177.59.238,25232,TRUE,MIA,North America,Miami,209 ms,6365 kB/s
+172.120.243.200,25220,TRUE,IAD,North America,Ashburn,260 ms,6365 kB/s
+207.210.125.63,25228,TRUE,MIA,North America,Miami,231 ms,6365 kB/s
+64.81.180.32,25212,TRUE,IAD,North America,Ashburn,270 ms,6365 kB/s
+172.121.33.77,25220,TRUE,IAD,North America,Ashburn,275 ms,6365 kB/s
+67.215.254.79,25220,TRUE,MIA,North America,Miami,212 ms,6365 kB/s
+72.9.227.69,25229,TRUE,MIA,North America,Miami,232 ms,6362 kB/s
+172.121.33.42,25220,TRUE,IAD,North America,Ashburn,279 ms,6362 kB/s
+172.121.49.98,25292,TRUE,MIA,North America,Miami,231 ms,6361 kB/s
+172.252.113.184,25229,TRUE,MIA,North America,Miami,212 ms,6361 kB/s
+172.252.113.35,25228,TRUE,MIA,North America,Miami,230 ms,6361 kB/s
+216.83.47.233,25227,TRUE,MIA,North America,Miami,240 ms,6361 kB/s
+172.121.37.232,25222,TRUE,IAD,North America,Ashburn,273 ms,6359 kB/s
+72.9.227.127,25229,TRUE,MIA,North America,Miami,210 ms,6359 kB/s
+172.121.56.142,25212,TRUE,IAD,North America,Ashburn,263 ms,6359 kB/s
+216.83.47.204,25222,TRUE,MIA,North America,Miami,214 ms,6359 kB/s
+67.215.254.67,25224,TRUE,MIA,North America,Miami,238 ms,6359 kB/s
+207.210.125.33,25226,TRUE,MIA,North America,Miami,241 ms,6358 kB/s
+67.215.254.99,25224,TRUE,MIA,North America,Miami,239 ms,6358 kB/s
+216.83.47.220,25242,TRUE,MIA,North America,Miami,229 ms,6358 kB/s
+209.178.239.119,25226,TRUE,MIA,North America,Miami,234 ms,6358 kB/s
+216.83.47.203,25222,TRUE,MIA,North America,Miami,210 ms,6358 kB/s
+198.177.59.173,25222,TRUE,MIA,North America,Miami,231 ms,6355 kB/s
+198.177.59.151,25222,TRUE,MIA,North America,Miami,217 ms,6355 kB/s
+72.9.227.66,25229,TRUE,MIA,North America,Miami,205 ms,6354 kB/s
+72.9.227.96,25229,TRUE,MIA,North America,Miami,214 ms,6354 kB/s
+172.121.37.131,25222,TRUE,IAD,North America,Ashburn,274 ms,6354 kB/s
+216.83.47.200,25242,TRUE,MIA,North America,Miami,231 ms,6354 kB/s
+67.215.254.69,25232,TRUE,MIA,North America,Miami,238 ms,6353 kB/s
+216.83.47.240,25242,TRUE,MIA,North America,Miami,230 ms,6353 kB/s
+172.120.250.80,25232,TRUE,MIA,North America,Miami,232 ms,6352 kB/s
+172.252.113.24,25222,TRUE,MIA,North America,Miami,230 ms,6352 kB/s
+172.121.56.185,25212,TRUE,IAD,North America,Ashburn,265 ms,6352 kB/s
+172.121.49.237,25212,TRUE,MIA,North America,Miami,239 ms,6352 kB/s
+198.177.59.145,25222,TRUE,MIA,North America,Miami,240 ms,6351 kB/s
+72.9.227.79,25229,TRUE,MIA,North America,Miami,231 ms,6351 kB/s
+104.253.10.235,25222,TRUE,IAD,North America,Ashburn,271 ms,6350 kB/s
+72.9.227.88,25229,TRUE,MIA,North America,Miami,210 ms,6350 kB/s
+209.51.136.131,25228,TRUE,MIA,North America,Miami,227 ms,6350 kB/s
+72.9.227.86,25226,TRUE,MIA,North America,Miami,239 ms,6349 kB/s
+67.215.254.115,25220,TRUE,MIA,North America,Miami,239 ms,6349 kB/s
+72.9.227.90,25229,TRUE,MIA,North America,Miami,240 ms,6348 kB/s
+172.252.113.156,25224,TRUE,MIA,North America,Miami,210 ms,6348 kB/s
+72.9.227.111,25232,TRUE,MIA,North America,Miami,239 ms,6348 kB/s
+172.252.113.16,25242,TRUE,MIA,North America,Miami,211 ms,6347 kB/s
+207.210.125.38,25232,TRUE,MIA,North America,Miami,232 ms,6347 kB/s
+67.215.254.114,25232,TRUE,MIA,North America,Miami,236 ms,6347 kB/s
+72.9.224.22,25212,TRUE,IAD,North America,Ashburn,266 ms,6346 kB/s
+72.9.227.85,25232,TRUE,MIA,North America,Miami,211 ms,6346 kB/s
+207.210.125.8,25228,TRUE,MIA,North America,Miami,209 ms,6346 kB/s
+216.83.47.227,25222,TRUE,MIA,North America,Miami,217 ms,6346 kB/s
+172.252.113.55,25222,TRUE,MIA,North America,Miami,230 ms,6346 kB/s
+172.120.250.103,25232,TRUE,MIA,North America,Miami,207 ms,6346 kB/s
+198.177.59.106,25226,TRUE,MIA,North America,Miami,241 ms,6346 kB/s
+172.120.250.111,25232,TRUE,MIA,North America,Miami,206 ms,6345 kB/s
+172.120.250.124,25232,TRUE,MIA,North America,Miami,234 ms,6345 kB/s
+207.210.125.55,25232,TRUE,MIA,North America,Miami,229 ms,6344 kB/s
+72.9.227.106,25232,TRUE,MIA,North America,Miami,217 ms,6344 kB/s
+216.83.47.200,25222,TRUE,MIA,North America,Miami,236 ms,6343 kB/s
+172.252.113.136,25228,TRUE,MIA,North America,Miami,217 ms,6343 kB/s
+216.83.47.236,25222,TRUE,MIA,North America,Miami,232 ms,6343 kB/s
+216.83.47.247,25222,TRUE,MIA,North America,Miami,206 ms,6342 kB/s
+172.252.113.178,25224,TRUE,MIA,North America,Miami,229 ms,6342 kB/s
+172.252.113.9,25242,TRUE,MIA,North America,Miami,237 ms,6342 kB/s
+67.215.254.106,25232,TRUE,MIA,North America,Miami,236 ms,6340 kB/s
+198.177.59.144,25222,TRUE,MIA,North America,Miami,231 ms,6340 kB/s
+67.215.254.82,25232,TRUE,MIA,North America,Miami,237 ms,6339 kB/s
+172.252.113.140,25224,TRUE,MIA,North America,Miami,239 ms,6339 kB/s
+209.51.136.157,25262,TRUE,MIA,North America,Miami,242 ms,6339 kB/s
+172.252.113.30,25212,TRUE,MIA,North America,Miami,218 ms,6338 kB/s
+72.9.227.87,25232,TRUE,MIA,North America,Miami,230 ms,6338 kB/s
+172.252.113.166,25224,TRUE,MIA,North America,Miami,239 ms,6338 kB/s
+172.252.113.57,25222,TRUE,MIA,North America,Miami,239 ms,6338 kB/s
+172.120.250.126,25232,TRUE,MIA,North America,Miami,235 ms,6337 kB/s
+72.9.227.109,25232,TRUE,MIA,North America,Miami,243 ms,6337 kB/s
+67.215.254.104,25224,TRUE,MIA,North America,Miami,247 ms,6337 kB/s
+40.223.157.232,25212,TRUE,IAD,North America,Ashburn,274 ms,6336 kB/s
+72.9.227.85,25229,TRUE,MIA,North America,Miami,212 ms,6336 kB/s
+172.252.113.27,25222,TRUE,MIA,North America,Miami,229 ms,6336 kB/s
+198.177.59.111,25222,TRUE,MIA,North America,Miami,235 ms,6336 kB/s
+172.252.113.170,25224,TRUE,MIA,North America,Miami,238 ms,6335 kB/s
+66.92.166.218,25212,TRUE,LAX,North America,Los Angeles,203 ms,6334 kB/s
+172.252.113.38,25212,TRUE,MIA,North America,Miami,241 ms,6334 kB/s
+67.215.254.81,25220,TRUE,MIA,North America,Miami,246 ms,6333 kB/s
+198.177.59.230,25232,TRUE,MIA,North America,Miami,233 ms,6333 kB/s
+209.178.239.44,25226,TRUE,MIA,North America,Miami,207 ms,6333 kB/s
+172.252.113.57,25242,TRUE,MIA,North America,Miami,229 ms,6333 kB/s
+67.215.254.115,25232,TRUE,MIA,North America,Miami,210 ms,6332 kB/s
+72.9.227.71,25232,TRUE,MIA,North America,Miami,239 ms,6331 kB/s
+172.120.250.86,25232,TRUE,MIA,North America,Miami,231 ms,6330 kB/s
+67.215.254.92,25232,TRUE,MIA,North America,Miami,240 ms,6330 kB/s
+207.210.125.29,25222,TRUE,MIA,North America,Miami,228 ms,6330 kB/s
+172.252.113.169,25224,TRUE,MIA,North America,Miami,229 ms,6330 kB/s
+172.252.113.63,25242,TRUE,MIA,North America,Miami,238 ms,6329 kB/s
+104.145.214.156,25212,TRUE,IAD,North America,Ashburn,265 ms,6328 kB/s
+107.151.216.33,25232,TRUE,MIA,North America,Miami,256 ms,6327 kB/s
+172.252.113.37,25220,TRUE,MIA,North America,Miami,211 ms,6327 kB/s
+72.9.227.111,25226,TRUE,MIA,North America,Miami,214 ms,6327 kB/s
+172.252.113.1,25220,TRUE,MIA,North America,Miami,213 ms,6327 kB/s
+38.179.82.57,20004,TRUE,PHX,North America,Phoenix,210 ms,6326 kB/s
+67.215.254.96,25232,TRUE,MIA,North America,Miami,226 ms,6326 kB/s
+209.178.239.46,25226,TRUE,MIA,North America,Miami,242 ms,6326 kB/s
+107.151.216.183,25232,TRUE,MIA,North America,Miami,237 ms,6325 kB/s
+198.177.59.70,25222,TRUE,MIA,North America,Miami,237 ms,6325 kB/s
+172.252.113.189,25224,TRUE,MIA,North America,Miami,210 ms,6324 kB/s
+142.171.75.202,9443,TRUE,LAX,North America,Los Angeles,179 ms,6324 kB/s
+198.177.59.147,25226,TRUE,MIA,North America,Miami,230 ms,6324 kB/s
+198.177.59.61,25222,TRUE,MIA,North America,Miami,233 ms,6323 kB/s
+172.120.250.72,25232,TRUE,MIA,North America,Miami,205 ms,6323 kB/s
+207.210.125.43,25226,TRUE,MIA,North America,Miami,239 ms,6323 kB/s
+209.51.136.191,25262,TRUE,MIA,North America,Miami,253 ms,6323 kB/s
+172.121.49.236,25212,TRUE,MIA,North America,Miami,236 ms,6323 kB/s
+107.151.216.149,25220,TRUE,MIA,North America,Miami,239 ms,6322 kB/s
+72.9.227.120,25232,TRUE,MIA,North America,Miami,231 ms,6321 kB/s
+172.252.113.157,25224,TRUE,MIA,North America,Miami,242 ms,6321 kB/s
+172.252.113.49,25222,TRUE,MIA,North America,Miami,231 ms,6319 kB/s
+107.151.216.214,25222,TRUE,MIA,North America,Miami,206 ms,6318 kB/s
+172.252.113.145,25222,TRUE,MIA,North America,Miami,240 ms,6317 kB/s
+40.27.137.3,25282,TRUE,MIA,North America,Miami,235 ms,6317 kB/s
+198.177.59.143,25226,TRUE,MIA,North America,Miami,240 ms,6317 kB/s
+172.252.113.28,25222,TRUE,MIA,North America,Miami,236 ms,6316 kB/s
+40.27.137.17,25282,TRUE,MIA,North America,Miami,234 ms,6316 kB/s
+67.215.254.70,25232,TRUE,MIA,North America,Miami,228 ms,6314 kB/s
+172.252.113.53,25222,TRUE,MIA,North America,Miami,207 ms,6313 kB/s
+198.177.59.0,25227,TRUE,MIA,North America,Miami,234 ms,6313 kB/s
+142.171.220.62,16656,TRUE,LAX,North America,Los Angeles,172 ms,6312 kB/s
+172.252.113.58,25222,TRUE,MIA,North America,Miami,236 ms,6311 kB/s
+172.252.113.50,25222,TRUE,MIA,North America,Miami,231 ms,6311 kB/s
+172.121.56.175,25212,TRUE,IAD,North America,Ashburn,277 ms,6308 kB/s
+216.83.47.245,25227,TRUE,MIA,North America,Miami,232 ms,6307 kB/s
+172.121.49.235,25228,TRUE,MIA,North America,Miami,226 ms,6307 kB/s
+67.215.254.99,25232,TRUE,MIA,North America,Miami,242 ms,6304 kB/s
+209.51.136.182,25228,TRUE,MIA,North America,Miami,247 ms,6304 kB/s
+72.9.227.118,25232,TRUE,MIA,North America,Miami,212 ms,6304 kB/s
+172.252.113.28,25220,TRUE,MIA,North America,Miami,209 ms,6304 kB/s
+72.9.227.75,25229,TRUE,MIA,North America,Miami,210 ms,6302 kB/s
+172.252.83.132,25242,TRUE,MIA,North America,Miami,231 ms,6301 kB/s
+198.177.59.178,25232,TRUE,MIA,North America,Miami,232 ms,6301 kB/s
+216.83.47.248,25227,TRUE,MIA,North America,Miami,238 ms,6300 kB/s
+5.161.149.54,8080,TRUE,IAD,North America,Ashburn,235 ms,6298 kB/s
+172.252.113.62,25222,TRUE,MIA,North America,Miami,213 ms,6298 kB/s
+67.215.254.91,25224,TRUE,MIA,North America,Miami,229 ms,6297 kB/s
+72.9.227.70,25232,TRUE,MIA,North America,Miami,230 ms,6294 kB/s
+216.83.47.217,25227,TRUE,MIA,North America,Miami,229 ms,6292 kB/s
+209.51.136.171,25226,TRUE,MIA,North America,Miami,206 ms,6292 kB/s
+198.177.59.172,25222,TRUE,MIA,North America,Miami,238 ms,6291 kB/s
+142.171.42.189,9070,TRUE,LAX,North America,Los Angeles,176 ms,6290 kB/s
+172.252.113.170,25222,TRUE,MIA,North America,Miami,237 ms,6288 kB/s
+104.253.10.190,25220,TRUE,IAD,North America,Ashburn,274 ms,6288 kB/s
+40.27.137.56,25255,TRUE,MIA,North America,Miami,209 ms,6287 kB/s
+172.252.113.146,25222,TRUE,MIA,North America,Miami,234 ms,6287 kB/s
+172.121.49.99,25224,TRUE,MIA,North America,Miami,208 ms,6287 kB/s
+172.120.250.87,25232,TRUE,MIA,North America,Miami,231 ms,6285 kB/s
+207.210.125.22,25226,TRUE,MIA,North America,Miami,238 ms,6285 kB/s
+207.210.125.30,25226,TRUE,MIA,North America,Miami,230 ms,6284 kB/s
+216.83.47.231,25227,TRUE,MIA,North America,Miami,206 ms,6283 kB/s
+216.83.47.208,25227,TRUE,MIA,North America,Miami,236 ms,6282 kB/s
+107.151.216.10,25226,TRUE,MIA,North America,Miami,208 ms,6279 kB/s
+172.252.113.25,25220,TRUE,MIA,North America,Miami,239 ms,6277 kB/s
+198.177.59.151,25227,TRUE,MIA,North America,Miami,240 ms,6275 kB/s
+67.215.254.67,25232,TRUE,MIA,North America,Miami,239 ms,6270 kB/s
+207.210.125.53,25232,TRUE,MIA,North America,Miami,207 ms,6269 kB/s
+216.83.47.249,25242,TRUE,MIA,North America,Miami,209 ms,6268 kB/s
+40.27.137.59,25255,TRUE,MIA,North America,Miami,235 ms,6266 kB/s
+172.252.113.30,25222,TRUE,MIA,North America,Miami,207 ms,6264 kB/s
+72.9.227.100,25232,TRUE,MIA,North America,Miami,237 ms,6262 kB/s
+172.121.49.106,25242,TRUE,MIA,North America,Miami,232 ms,6261 kB/s
+172.252.113.164,25222,TRUE,MIA,North America,Miami,210 ms,6261 kB/s
+172.121.56.163,25212,TRUE,IAD,North America,Ashburn,238 ms,6260 kB/s
+40.223.251.129,25212,TRUE,IAD,North America,Ashburn,235 ms,6260 kB/s
+172.252.113.42,25229,TRUE,MIA,North America,Miami,231 ms,6257 kB/s
+172.252.113.49,25220,TRUE,MIA,North America,Miami,237 ms,6257 kB/s
+172.252.113.156,25222,TRUE,MIA,North America,Miami,230 ms,6256 kB/s
+104.145.214.173,25212,TRUE,IAD,North America,Ashburn,293 ms,6256 kB/s
+198.177.59.112,25227,TRUE,MIA,North America,Miami,230 ms,6255 kB/s
+209.178.239.75,25232,TRUE,MIA,North America,Miami,243 ms,6255 kB/s
+209.178.239.75,25226,TRUE,MIA,North America,Miami,231 ms,6255 kB/s
+172.121.37.43,25220,TRUE,IAD,North America,Ashburn,270 ms,6254 kB/s
+198.177.59.108,25226,TRUE,MIA,North America,Miami,231 ms,6253 kB/s
+172.252.113.52,25220,TRUE,MIA,North America,Miami,205 ms,6250 kB/s
+67.215.254.80,25224,TRUE,MIA,North America,Miami,236 ms,6250 kB/s
+172.252.113.137,25222,TRUE,MIA,North America,Miami,209 ms,6250 kB/s
+172.252.113.51,25222,TRUE,MIA,North America,Miami,230 ms,6250 kB/s
+172.121.10.101,25212,TRUE,IAD,North America,Ashburn,238 ms,6249 kB/s
+172.252.113.164,25229,TRUE,MIA,North America,Miami,240 ms,6248 kB/s
+72.9.227.126,25229,TRUE,MIA,North America,Miami,217 ms,6247 kB/s
+172.252.113.40,25228,TRUE,MIA,North America,Miami,236 ms,6245 kB/s
+172.252.113.14,25220,TRUE,MIA,North America,Miami,230 ms,6245 kB/s
+40.27.137.47,25255,TRUE,MIA,North America,Miami,238 ms,6243 kB/s
+172.252.113.61,25220,TRUE,MIA,North America,Miami,231 ms,6243 kB/s
+172.121.49.101,25262,TRUE,MIA,North America,Miami,235 ms,6242 kB/s
+172.252.113.45,25220,TRUE,MIA,North America,Miami,230 ms,6242 kB/s
+67.215.254.104,25232,TRUE,MIA,North America,Miami,238 ms,6240 kB/s
+172.252.113.26,25220,TRUE,MIA,North America,Miami,206 ms,6237 kB/s
+207.210.125.1,25226,TRUE,MIA,North America,Miami,234 ms,6237 kB/s
+72.9.227.101,25229,TRUE,MIA,North America,Miami,230 ms,6237 kB/s
+72.9.227.102,25228,TRUE,MIA,North America,Miami,244 ms,6235 kB/s
+172.252.113.24,25220,TRUE,MIA,North America,Miami,208 ms,6234 kB/s
+207.210.125.28,25226,TRUE,MIA,North America,Miami,237 ms,6234 kB/s
+72.9.227.71,25229,TRUE,MIA,North America,Miami,226 ms,6233 kB/s
+178.156.166.12,449,TRUE,IAD,North America,Ashburn,238 ms,6233 kB/s
+172.252.113.172,25222,TRUE,MIA,North America,Miami,239 ms,6232 kB/s
+40.27.137.27,25255,TRUE,MIA,North America,Miami,232 ms,6230 kB/s
+216.83.47.206,25242,TRUE,MIA,North America,Miami,234 ms,6230 kB/s
+172.252.113.58,25224,TRUE,MIA,North America,Miami,236 ms,6228 kB/s
+207.210.125.49,25222,TRUE,MIA,North America,Miami,242 ms,6228 kB/s
+172.252.113.59,25220,TRUE,MIA,North America,Miami,235 ms,6227 kB/s
+216.83.47.230,25227,TRUE,MIA,North America,Miami,225 ms,6224 kB/s
+207.210.125.37,25228,TRUE,MIA,North America,Miami,238 ms,6224 kB/s
+72.9.227.70,25229,TRUE,MIA,North America,Miami,234 ms,6224 kB/s
+198.177.59.113,25227,TRUE,MIA,North America,Miami,208 ms,6224 kB/s
+172.252.113.190,25222,TRUE,MIA,North America,Miami,226 ms,6224 kB/s
+172.252.113.29,25222,TRUE,MIA,North America,Miami,228 ms,6223 kB/s
+67.215.254.87,25220,TRUE,MIA,North America,Miami,234 ms,6222 kB/s
+40.27.137.3,25255,TRUE,MIA,North America,Miami,236 ms,6222 kB/s
+172.252.113.171,25222,TRUE,MIA,North America,Miami,231 ms,6221 kB/s
+40.27.137.49,25292,TRUE,MIA,North America,Miami,212 ms,6221 kB/s
+216.83.47.239,25242,TRUE,MIA,North America,Miami,240 ms,6221 kB/s
+172.252.113.56,25220,TRUE,MIA,North America,Miami,240 ms,6220 kB/s
+172.252.113.181,25222,TRUE,MIA,North America,Miami,238 ms,6220 kB/s
+67.215.254.72,25232,TRUE,MIA,North America,Miami,221 ms,6220 kB/s
+40.27.137.17,25255,TRUE,MIA,North America,Miami,234 ms,6218 kB/s
+209.51.136.188,25229,TRUE,MIA,North America,Miami,206 ms,6217 kB/s
+72.9.227.104,25232,TRUE,MIA,North America,Miami,213 ms,6216 kB/s
+172.121.49.238,25228,TRUE,MIA,North America,Miami,236 ms,6215 kB/s
+40.27.137.12,25255,TRUE,MIA,North America,Miami,213 ms,6212 kB/s
+67.215.254.73,25220,TRUE,MIA,North America,Miami,230 ms,6212 kB/s
+72.9.227.78,25220,TRUE,MIA,North America,Miami,235 ms,6211 kB/s
+207.210.125.8,25222,TRUE,MIA,North America,Miami,238 ms,6211 kB/s
+172.252.113.129,25222,TRUE,MIA,North America,Miami,233 ms,6209 kB/s
+172.252.113.31,25220,TRUE,MIA,North America,Miami,229 ms,6209 kB/s
+172.252.113.165,25222,TRUE,MIA,North America,Miami,226 ms,6208 kB/s
+172.252.113.25,25212,TRUE,MIA,North America,Miami,236 ms,6208 kB/s
+207.210.125.56,25228,TRUE,MIA,North America,Miami,210 ms,6208 kB/s
+207.210.125.59,25226,TRUE,MIA,North America,Miami,209 ms,6205 kB/s
+67.215.254.66,25224,TRUE,MIA,North America,Miami,231 ms,6205 kB/s
+209.178.239.122,25232,TRUE,MIA,North America,Miami,209 ms,6204 kB/s
+198.177.59.144,25226,TRUE,MIA,North America,Miami,239 ms,6203 kB/s
+207.210.125.54,25222,TRUE,MIA,North America,Miami,251 ms,6200 kB/s
+67.215.254.112,25228,TRUE,MIA,North America,Miami,208 ms,6199 kB/s
+40.27.137.26,25255,TRUE,MIA,North America,Miami,215 ms,6198 kB/s
+104.145.214.159,25220,TRUE,IAD,North America,Ashburn,270 ms,6198 kB/s
+198.177.59.180,25232,TRUE,MIA,North America,Miami,239 ms,6198 kB/s
+172.252.113.55,25228,TRUE,MIA,North America,Miami,237 ms,6196 kB/s
+172.121.49.240,25228,TRUE,MIA,North America,Miami,209 ms,6195 kB/s
+72.9.227.125,25220,TRUE,MIA,North America,Miami,235 ms,6195 kB/s
+5.161.149.54,8880,TRUE,IAD,North America,Ashburn,237 ms,6195 kB/s
+67.215.254.112,25220,TRUE,MIA,North America,Miami,231 ms,6195 kB/s
+172.252.113.17,25242,TRUE,MIA,North America,Miami,237 ms,6189 kB/s
+40.27.137.29,25255,TRUE,MIA,North America,Miami,232 ms,6189 kB/s
+198.177.59.179,25222,TRUE,MIA,North America,Miami,249 ms,6188 kB/s
+172.121.49.244,25228,TRUE,MIA,North America,Miami,206 ms,6187 kB/s
+216.83.47.205,25222,TRUE,MIA,North America,Miami,234 ms,6186 kB/s
+172.252.113.45,25242,TRUE,MIA,North America,Miami,209 ms,6185 kB/s
+172.252.113.8,25222,TRUE,MIA,North America,Miami,235 ms,6183 kB/s
+40.27.137.57,25255,TRUE,MIA,North America,Miami,230 ms,6183 kB/s
+172.252.113.52,25242,TRUE,MIA,North America,Miami,231 ms,6182 kB/s
+66.92.166.251,25212,TRUE,LAX,North America,Los Angeles,203 ms,6182 kB/s
+207.210.125.34,25232,TRUE,MIA,North America,Miami,235 ms,6181 kB/s
+198.177.59.101,25227,TRUE,MIA,North America,Miami,230 ms,6177 kB/s
+198.177.59.231,25232,TRUE,MIA,North America,Miami,231 ms,6176 kB/s
+72.9.227.86,25229,TRUE,MIA,North America,Miami,234 ms,6173 kB/s
+40.223.251.75,25212,TRUE,IAD,North America,Ashburn,275 ms,6173 kB/s
+172.252.113.48,25229,TRUE,MIA,North America,Miami,231 ms,6172 kB/s
+207.210.125.57,25228,TRUE,MIA,North America,Miami,239 ms,6170 kB/s
+172.121.56.141,25212,TRUE,IAD,North America,Ashburn,266 ms,6170 kB/s
+207.210.125.35,25226,TRUE,MIA,North America,Miami,206 ms,6169 kB/s
+40.27.137.38,25255,TRUE,MIA,North America,Miami,236 ms,6166 kB/s
+172.252.113.159,25222,TRUE,MIA,North America,Miami,231 ms,6164 kB/s
+67.215.254.109,25232,TRUE,MIA,North America,Miami,236 ms,6163 kB/s
+172.252.113.2,25242,TRUE,MIA,North America,Miami,242 ms,6163 kB/s
+40.27.137.63,25255,TRUE,MIA,North America,Miami,234 ms,6160 kB/s
+72.9.227.103,25232,TRUE,MIA,North America,Miami,237 ms,6156 kB/s
+72.9.227.124,25232,TRUE,MIA,North America,Miami,238 ms,6154 kB/s
+216.83.47.213,25242,TRUE,MIA,North America,Miami,211 ms,6153 kB/s
+209.51.136.135,25226,TRUE,MIA,North America,Miami,230 ms,6152 kB/s
+198.177.59.59,25226,TRUE,MIA,North America,Miami,237 ms,6150 kB/s
+72.9.227.115,25232,TRUE,MIA,North America,Miami,231 ms,6148 kB/s
+216.83.47.198,25242,TRUE,MIA,North America,Miami,237 ms,6145 kB/s
+40.27.137.46,25222,TRUE,MIA,North America,Miami,237 ms,6143 kB/s
+40.183.95.87,25228,TRUE,IAD,North America,Ashburn,264 ms,6141 kB/s
+72.9.227.117,25220,TRUE,MIA,North America,Miami,238 ms,6141 kB/s
+172.252.113.150,25224,TRUE,MIA,North America,Miami,246 ms,6140 kB/s
+209.51.136.156,25229,TRUE,MIA,North America,Miami,268 ms,6139 kB/s
+67.215.254.117,25232,TRUE,MIA,North America,Miami,212 ms,6138 kB/s
+172.121.49.104,25242,TRUE,MIA,North America,Miami,246 ms,6138 kB/s
+216.83.47.204,25242,TRUE,MIA,North America,Miami,242 ms,6138 kB/s
+67.215.254.113,25232,TRUE,MIA,North America,Miami,231 ms,6138 kB/s
+67.215.254.71,25228,TRUE,MIA,North America,Miami,239 ms,6137 kB/s
+172.121.49.168,25229,TRUE,MIA,North America,Miami,242 ms,6134 kB/s
+172.252.113.19,25222,TRUE,MIA,North America,Miami,243 ms,6133 kB/s
+207.210.125.42,25226,TRUE,MIA,North America,Miami,231 ms,6132 kB/s
+67.215.254.101,25224,TRUE,MIA,North America,Miami,215 ms,6131 kB/s
+198.177.59.106,25227,TRUE,MIA,North America,Miami,237 ms,6131 kB/s
+172.252.113.185,25222,TRUE,MIA,North America,Miami,236 ms,6129 kB/s
+40.27.137.8,25255,TRUE,MIA,North America,Miami,238 ms,6128 kB/s
+209.51.136.135,25228,TRUE,MIA,North America,Miami,241 ms,6128 kB/s
+209.178.239.50,25232,TRUE,MIA,North America,Miami,236 ms,6128 kB/s
+216.83.47.220,25222,TRUE,MIA,North America,Miami,236 ms,6128 kB/s
+172.252.113.53,25242,TRUE,MIA,North America,Miami,237 ms,6128 kB/s
+172.252.83.134,25242,TRUE,MIA,North America,Miami,231 ms,6127 kB/s
+216.83.47.221,25242,TRUE,MIA,North America,Miami,229 ms,6124 kB/s
+207.210.125.4,25222,TRUE,MIA,North America,Miami,232 ms,6124 kB/s
+67.215.254.76,25224,TRUE,MIA,North America,Miami,229 ms,6123 kB/s
+209.51.136.136,25229,TRUE,MIA,North America,Miami,247 ms,6123 kB/s
+207.210.125.31,25226,TRUE,MIA,North America,Miami,212 ms,6123 kB/s
+216.83.47.193,25242,TRUE,MIA,North America,Miami,211 ms,6122 kB/s
+207.210.125.3,25226,TRUE,MIA,North America,Miami,232 ms,6121 kB/s
+172.121.49.247,25232,TRUE,MIA,North America,Miami,239 ms,6118 kB/s
+67.215.254.126,25220,TRUE,MIA,North America,Miami,231 ms,6118 kB/s
+104.253.10.246,25220,TRUE,IAD,North America,Ashburn,275 ms,6118 kB/s
+40.223.157.247,25222,TRUE,IAD,North America,Ashburn,281 ms,6117 kB/s
+207.210.125.46,25222,TRUE,MIA,North America,Miami,237 ms,6116 kB/s
+216.83.47.192,25242,TRUE,MIA,North America,Miami,210 ms,6116 kB/s
+216.83.47.238,25242,TRUE,MIA,North America,Miami,231 ms,6115 kB/s
+216.83.47.209,25242,TRUE,MIA,North America,Miami,237 ms,6114 kB/s
+67.215.254.65,25220,TRUE,MIA,North America,Miami,237 ms,6113 kB/s
+216.83.47.199,25242,TRUE,MIA,North America,Miami,231 ms,6113 kB/s
+207.210.125.55,25228,TRUE,MIA,North America,Miami,208 ms,6112 kB/s
+172.252.113.14,25222,TRUE,MIA,North America,Miami,237 ms,6112 kB/s
+107.151.216.126,25232,TRUE,MIA,North America,Miami,237 ms,6112 kB/s
+172.121.33.71,25220,TRUE,IAD,North America,Ashburn,264 ms,6112 kB/s
+209.51.136.149,25226,TRUE,MIA,North America,Miami,235 ms,6112 kB/s
+67.215.254.102,25220,TRUE,MIA,North America,Miami,235 ms,6111 kB/s
+72.9.227.100,25228,TRUE,MIA,North America,Miami,240 ms,6111 kB/s
+216.83.47.219,25242,TRUE,MIA,North America,Miami,209 ms,6111 kB/s
+172.121.56.166,25212,TRUE,IAD,North America,Ashburn,271 ms,6110 kB/s
+172.121.49.94,25242,TRUE,MIA,North America,Miami,240 ms,6110 kB/s
+216.83.47.237,25227,TRUE,MIA,North America,Miami,238 ms,6109 kB/s
+172.252.113.15,25220,TRUE,MIA,North America,Miami,228 ms,6109 kB/s
+172.121.49.246,25229,TRUE,MIA,North America,Miami,233 ms,6109 kB/s
+207.210.125.59,25232,TRUE,MIA,North America,Miami,235 ms,6108 kB/s
+198.177.59.233,25222,TRUE,MIA,North America,Miami,231 ms,6108 kB/s
+172.120.250.105,25232,TRUE,MIA,North America,Miami,231 ms,6108 kB/s
+207.210.125.45,25228,TRUE,MIA,North America,Miami,235 ms,6106 kB/s
+178.156.164.81,8020,TRUE,IAD,North America,Ashburn,238 ms,6105 kB/s
+198.177.59.100,25226,TRUE,MIA,North America,Miami,211 ms,6105 kB/s
+216.83.47.196,25227,TRUE,MIA,North America,Miami,238 ms,6103 kB/s
+172.121.56.109,25212,TRUE,IAD,North America,Ashburn,266 ms,6103 kB/s
+75.127.120.159,25212,TRUE,IAD,North America,Ashburn,271 ms,6102 kB/s
+216.83.47.227,25242,TRUE,MIA,North America,Miami,239 ms,6102 kB/s
+72.9.227.88,25232,TRUE,MIA,North America,Miami,240 ms,6101 kB/s
+172.252.113.133,25224,TRUE,MIA,North America,Miami,239 ms,6100 kB/s
+67.215.254.74,25220,TRUE,MIA,North America,Miami,233 ms,6099 kB/s
+40.27.137.50,25262,TRUE,MIA,North America,Miami,236 ms,6099 kB/s
+198.177.59.228,25222,TRUE,MIA,North America,Miami,243 ms,6099 kB/s
+209.178.239.43,25232,TRUE,MIA,North America,Miami,236 ms,6097 kB/s
+67.215.254.84,25220,TRUE,MIA,North America,Miami,209 ms,6097 kB/s
+67.215.254.98,25232,TRUE,MIA,North America,Miami,231 ms,6096 kB/s
+172.252.113.4,25242,TRUE,MIA,North America,Miami,250 ms,6096 kB/s
+198.177.59.226,25222,TRUE,MIA,North America,Miami,236 ms,6096 kB/s
+172.252.113.56,25229,TRUE,MIA,North America,Miami,241 ms,6094 kB/s
+198.177.59.171,25222,TRUE,MIA,North America,Miami,231 ms,6094 kB/s
+40.27.137.17,25262,TRUE,MIA,North America,Miami,246 ms,6093 kB/s
+207.210.125.51,25232,TRUE,MIA,North America,Miami,230 ms,6093 kB/s
+72.9.227.78,25232,TRUE,MIA,North America,Miami,234 ms,6092 kB/s
+172.121.37.41,25220,TRUE,IAD,North America,Ashburn,281 ms,6091 kB/s
+40.27.137.6,25282,TRUE,MIA,North America,Miami,232 ms,6091 kB/s
+172.252.113.58,25228,TRUE,MIA,North America,Miami,229 ms,6091 kB/s
+172.120.243.241,25220,TRUE,IAD,North America,Ashburn,273 ms,6090 kB/s
+67.215.254.66,25220,TRUE,MIA,North America,Miami,236 ms,6090 kB/s
+209.51.136.174,25228,TRUE,MIA,North America,Miami,240 ms,6090 kB/s
+198.177.59.175,25222,TRUE,MIA,North America,Miami,242 ms,6090 kB/s
+209.51.136.175,25226,TRUE,MIA,North America,Miami,234 ms,6090 kB/s
+40.223.157.10,25212,TRUE,IAD,North America,Ashburn,273 ms,6089 kB/s
+40.27.137.18,25292,TRUE,MIA,North America,Miami,237 ms,6089 kB/s
+67.215.254.124,25224,TRUE,MIA,North America,Miami,234 ms,6089 kB/s
+172.252.113.11,25212,TRUE,MIA,North America,Miami,235 ms,6086 kB/s
+172.120.250.97,25232,TRUE,MIA,North America,Miami,231 ms,6086 kB/s
+67.215.254.114,25220,TRUE,MIA,North America,Miami,239 ms,6086 kB/s
+172.252.113.4,25229,TRUE,MIA,North America,Miami,233 ms,6084 kB/s
+172.252.113.31,25242,TRUE,MIA,North America,Miami,241 ms,6083 kB/s
+172.121.37.194,25222,TRUE,IAD,North America,Ashburn,237 ms,6083 kB/s
+40.27.137.44,25292,TRUE,MIA,North America,Miami,206 ms,6083 kB/s
+198.177.59.102,25227,TRUE,MIA,North America,Miami,229 ms,6082 kB/s
+172.121.10.245,25212,TRUE,IAD,North America,Ashburn,258 ms,6082 kB/s
+198.177.59.59,25222,TRUE,MIA,North America,Miami,212 ms,6082 kB/s
+198.177.59.239,25212,TRUE,MIA,North America,Miami,208 ms,6080 kB/s
+143.20.106.82,25212,TRUE,LAX,North America,Los Angeles,211 ms,6080 kB/s
+40.223.157.211,25212,TRUE,IAD,North America,Ashburn,269 ms,6080 kB/s
+207.210.125.22,25232,TRUE,MIA,North America,Miami,211 ms,6079 kB/s
+207.210.125.53,25228,TRUE,MIA,North America,Miami,242 ms,6079 kB/s
+40.27.137.23,25255,TRUE,MIA,North America,Miami,242 ms,6079 kB/s
+172.252.113.158,25224,TRUE,MIA,North America,Miami,240 ms,6078 kB/s
+198.177.59.182,25222,TRUE,MIA,North America,Miami,236 ms,6077 kB/s
+172.252.113.37,25222,TRUE,MIA,North America,Miami,220 ms,6077 kB/s
+207.210.125.20,25228,TRUE,MIA,North America,Miami,207 ms,6077 kB/s
+172.252.113.144,25222,TRUE,MIA,North America,Miami,218 ms,6077 kB/s
+40.27.137.52,25292,TRUE,MIA,North America,Miami,209 ms,6075 kB/s
+172.121.49.242,25212,TRUE,MIA,North America,Miami,238 ms,6075 kB/s
+172.252.113.167,25224,TRUE,MIA,North America,Miami,229 ms,6075 kB/s
+172.252.113.27,25242,TRUE,MIA,North America,Miami,228 ms,6074 kB/s
+172.252.113.7,25242,TRUE,MIA,North America,Miami,234 ms,6074 kB/s
+104.145.214.139,25212,TRUE,IAD,North America,Ashburn,268 ms,6074 kB/s
+172.252.113.129,25224,TRUE,MIA,North America,Miami,206 ms,6074 kB/s
+198.177.59.155,25222,TRUE,MIA,North America,Miami,238 ms,6074 kB/s
+67.215.254.82,25220,TRUE,MIA,North America,Miami,236 ms,6073 kB/s
+172.252.113.17,25220,TRUE,MIA,North America,Miami,236 ms,6073 kB/s
+40.27.137.59,25292,TRUE,MIA,North America,Miami,235 ms,6073 kB/s
+172.120.250.118,25232,TRUE,MIA,North America,Miami,208 ms,6073 kB/s
+207.210.125.28,25232,TRUE,MIA,North America,Miami,240 ms,6072 kB/s
+172.252.113.22,25242,TRUE,MIA,North America,Miami,232 ms,6072 kB/s
+67.215.254.87,25232,TRUE,MIA,North America,Miami,232 ms,6071 kB/s
+172.252.113.40,25242,TRUE,MIA,North America,Miami,239 ms,6071 kB/s
+172.121.49.101,25224,TRUE,MIA,North America,Miami,206 ms,6071 kB/s
+72.9.227.84,25229,TRUE,MIA,North America,Miami,241 ms,6070 kB/s
+172.252.113.39,25222,TRUE,MIA,North America,Miami,227 ms,6070 kB/s
+207.210.125.26,25226,TRUE,MIA,North America,Miami,238 ms,6070 kB/s
+172.120.250.74,25232,TRUE,MIA,North America,Miami,209 ms,6070 kB/s
+209.178.239.48,25226,TRUE,MIA,North America,Miami,246 ms,6069 kB/s
+198.177.59.111,25226,TRUE,MIA,North America,Miami,238 ms,6068 kB/s
+207.210.125.42,25228,TRUE,MIA,North America,Miami,205 ms,6068 kB/s
+172.252.113.24,25242,TRUE,MIA,North America,Miami,210 ms,6068 kB/s
+172.252.113.190,25224,TRUE,MIA,North America,Miami,240 ms,6067 kB/s
+107.151.216.163,25224,TRUE,MIA,North America,Miami,239 ms,6067 kB/s
+72.9.227.126,25232,TRUE,MIA,North America,Miami,237 ms,6066 kB/s
+198.177.59.100,25222,TRUE,MIA,North America,Miami,208 ms,6066 kB/s
+172.252.113.146,25224,TRUE,MIA,North America,Miami,231 ms,6064 kB/s
+198.177.59.109,25226,TRUE,MIA,North America,Miami,238 ms,6064 kB/s
+172.252.113.171,25224,TRUE,MIA,North America,Miami,230 ms,6063 kB/s
+67.215.254.73,25232,TRUE,MIA,North America,Miami,241 ms,6062 kB/s
+172.121.49.239,25232,TRUE,MIA,North America,Miami,229 ms,6062 kB/s
+172.252.113.48,25222,TRUE,MIA,North America,Miami,239 ms,6061 kB/s
+216.83.47.242,25242,TRUE,MIA,North America,Miami,244 ms,6061 kB/s
+209.178.239.122,25226,TRUE,MIA,North America,Miami,235 ms,6058 kB/s
+198.177.59.181,25232,TRUE,MIA,North America,Miami,232 ms,6057 kB/s
+72.9.227.89,25232,TRUE,MIA,North America,Miami,241 ms,6056 kB/s
+67.215.254.110,25224,TRUE,MIA,North America,Miami,240 ms,6055 kB/s
+198.177.59.109,25222,TRUE,MIA,North America,Miami,208 ms,6055 kB/s
+172.252.113.46,25242,TRUE,MIA,North America,Miami,232 ms,6054 kB/s
+216.83.47.199,25222,TRUE,MIA,North America,Miami,243 ms,6054 kB/s
+172.252.113.56,25222,TRUE,MIA,North America,Miami,206 ms,6054 kB/s
+172.252.113.18,25242,TRUE,MIA,North America,Miami,235 ms,6053 kB/s
+67.215.254.86,25224,TRUE,MIA,North America,Miami,241 ms,6052 kB/s
+198.177.59.70,25227,TRUE,MIA,North America,Miami,228 ms,6052 kB/s
+207.210.125.36,25226,TRUE,MIA,North America,Miami,234 ms,6052 kB/s
+172.252.113.44,25222,TRUE,MIA,North America,Miami,232 ms,6052 kB/s
+172.120.250.117,25232,TRUE,MIA,North America,Miami,212 ms,6051 kB/s
+198.177.59.238,25222,TRUE,MIA,North America,Miami,230 ms,6050 kB/s
+67.215.254.91,25232,TRUE,MIA,North America,Miami,212 ms,6049 kB/s
+67.215.254.111,25232,TRUE,MIA,North America,Miami,240 ms,6045 kB/s
+198.177.59.143,25227,TRUE,MIA,North America,Miami,235 ms,6045 kB/s
+172.252.113.31,25222,TRUE,MIA,North America,Miami,230 ms,6045 kB/s
+104.145.214.183,25212,TRUE,IAD,North America,Ashburn,272 ms,6035 kB/s
+172.252.113.40,25222,TRUE,MIA,North America,Miami,230 ms,6033 kB/s
+72.9.227.97,25232,TRUE,MIA,North America,Miami,205 ms,6032 kB/s
+207.210.125.54,25226,TRUE,MIA,North America,Miami,245 ms,6032 kB/s
+172.252.113.60,25220,TRUE,MIA,North America,Miami,242 ms,6032 kB/s
+172.252.113.130,25228,TRUE,MIA,North America,Miami,241 ms,6030 kB/s
+216.83.47.241,25227,TRUE,MIA,North America,Miami,239 ms,6028 kB/s
+209.178.239.50,25226,TRUE,MIA,North America,Miami,230 ms,6028 kB/s
+172.121.49.107,25224,TRUE,MIA,North America,Miami,237 ms,6028 kB/s
+172.120.250.115,25232,TRUE,MIA,North America,Miami,230 ms,6028 kB/s
+172.252.113.38,25222,TRUE,MIA,North America,Miami,237 ms,6025 kB/s
+72.9.227.94,25232,TRUE,MIA,North America,Miami,247 ms,6024 kB/s
+172.252.113.175,25222,TRUE,MIA,North America,Miami,209 ms,6022 kB/s
+172.120.250.119,25232,TRUE,MIA,North America,Miami,212 ms,6022 kB/s
+172.121.49.103,25224,TRUE,MIA,North America,Miami,206 ms,6016 kB/s
+104.253.186.40,25220,TRUE,IAD,North America,Ashburn,268 ms,6015 kB/s
+40.27.174.250,25220,TRUE,IAD,North America,Ashburn,242 ms,6009 kB/s
+207.210.125.62,25226,TRUE,MIA,North America,Miami,211 ms,6009 kB/s
+172.252.113.168,25224,TRUE,MIA,North America,Miami,231 ms,6007 kB/s
+40.27.137.23,25292,TRUE,MIA,North America,Miami,229 ms,6003 kB/s
+207.210.125.50,25226,TRUE,MIA,North America,Miami,236 ms,6003 kB/s
+72.9.227.114,25232,TRUE,MIA,North America,Miami,242 ms,6003 kB/s
+66.23.224.204,9527,TRUE,EWR,North America,Newark,260 ms,6003 kB/s
+209.51.136.183,25226,TRUE,MIA,North America,Miami,249 ms,5998 kB/s
+172.121.49.176,25222,TRUE,MIA,North America,Miami,237 ms,5997 kB/s
+207.210.125.34,25226,TRUE,MIA,North America,Miami,241 ms,5997 kB/s
+72.9.227.96,25220,TRUE,MIA,North America,Miami,244 ms,5996 kB/s
+209.51.136.160,25228,TRUE,MIA,North America,Miami,258 ms,5995 kB/s
+209.51.136.167,25229,TRUE,MIA,North America,Miami,226 ms,5993 kB/s
+172.121.37.11,25220,TRUE,IAD,North America,Ashburn,264 ms,5990 kB/s
+172.121.10.239,25228,TRUE,IAD,North America,Ashburn,258 ms,5990 kB/s
+216.83.47.192,25222,TRUE,MIA,North America,Miami,211 ms,5990 kB/s
+207.210.125.61,25226,TRUE,MIA,North America,Miami,231 ms,5985 kB/s
+67.215.254.111,25224,TRUE,MIA,North America,Miami,211 ms,5984 kB/s
+104.253.186.89,25222,TRUE,IAD,North America,Ashburn,273 ms,5981 kB/s
+216.83.47.223,25227,TRUE,MIA,North America,Miami,240 ms,5978 kB/s
+172.121.10.74,25212,TRUE,IAD,North America,Ashburn,266 ms,5977 kB/s
+216.83.47.217,25222,TRUE,MIA,North America,Miami,228 ms,5976 kB/s
+198.177.59.107,25227,TRUE,MIA,North America,Miami,236 ms,5975 kB/s
+172.252.113.27,25220,TRUE,MIA,North America,Miami,236 ms,5968 kB/s
+172.252.113.134,25224,TRUE,MIA,North America,Miami,232 ms,5967 kB/s
+172.252.113.33,25220,TRUE,MIA,North America,Miami,234 ms,5966 kB/s
+172.252.113.61,25224,TRUE,MIA,North America,Miami,231 ms,5961 kB/s
+67.215.254.94,25224,TRUE,MIA,North America,Miami,237 ms,5959 kB/s
+67.215.254.77,25232,TRUE,MIA,North America,Miami,235 ms,5959 kB/s
+207.210.125.11,25222,TRUE,MIA,North America,Miami,246 ms,5956 kB/s
+172.252.113.153,25222,TRUE,MIA,North America,Miami,241 ms,5956 kB/s
+40.27.137.16,25255,TRUE,MIA,North America,Miami,235 ms,5952 kB/s
+172.121.49.243,25228,TRUE,MIA,North America,Miami,240 ms,5952 kB/s
+207.210.125.44,25226,TRUE,MIA,North America,Miami,211 ms,5951 kB/s
+207.210.125.2,25228,TRUE,MIA,North America,Miami,237 ms,5949 kB/s
+40.27.137.41,25255,TRUE,MIA,North America,Miami,207 ms,5948 kB/s
+67.215.254.119,25228,TRUE,MIA,North America,Miami,232 ms,5945 kB/s
+67.215.254.79,25228,TRUE,MIA,North America,Miami,231 ms,5944 kB/s
+72.9.227.72,25232,TRUE,MIA,North America,Miami,244 ms,5943 kB/s
+207.210.125.7,25226,TRUE,MIA,North America,Miami,240 ms,5943 kB/s
+172.120.44.16,25220,TRUE,MIA,North America,Miami,240 ms,5941 kB/s
+198.177.59.239,25222,TRUE,MIA,North America,Miami,234 ms,5939 kB/s
+172.121.49.97,25224,TRUE,MIA,North America,Miami,242 ms,5937 kB/s
+207.210.125.57,25226,TRUE,MIA,North America,Miami,242 ms,5937 kB/s
+172.121.10.63,25212,TRUE,IAD,North America,Ashburn,265 ms,5937 kB/s
+172.121.56.119,25212,TRUE,IAD,North America,Ashburn,270 ms,5934 kB/s
+67.215.254.92,25224,TRUE,MIA,North America,Miami,238 ms,5932 kB/s
+172.252.113.47,25220,TRUE,MIA,North America,Miami,241 ms,5929 kB/s
+72.9.227.102,25232,TRUE,MIA,North America,Miami,240 ms,5928 kB/s
+207.210.125.17,25222,TRUE,MIA,North America,Miami,239 ms,5928 kB/s
+40.27.137.19,25255,TRUE,MIA,North America,Miami,226 ms,5924 kB/s
+172.120.250.106,25232,TRUE,MIA,North America,Miami,247 ms,5923 kB/s
+207.210.125.61,25228,TRUE,MIA,North America,Miami,227 ms,5920 kB/s
+72.9.227.111,25229,TRUE,MIA,North America,Miami,230 ms,5920 kB/s
+40.27.137.53,25255,TRUE,MIA,North America,Miami,240 ms,5916 kB/s
+104.145.214.47,25212,TRUE,IAD,North America,Ashburn,264 ms,5912 kB/s
+172.120.250.96,25232,TRUE,MIA,North America,Miami,239 ms,5907 kB/s
+172.252.113.136,25224,TRUE,MIA,North America,Miami,231 ms,5907 kB/s
+5.161.95.178,5698,TRUE,IAD,North America,Ashburn,245 ms,5902 kB/s
+75.127.120.114,25220,TRUE,IAD,North America,Ashburn,273 ms,5901 kB/s
+72.9.227.99,25220,TRUE,MIA,North America,Miami,228 ms,5900 kB/s
+67.215.254.95,25224,TRUE,MIA,North America,Miami,230 ms,5897 kB/s
+67.215.254.126,25228,TRUE,MIA,North America,Miami,237 ms,5893 kB/s
+40.27.137.55,25255,TRUE,MIA,North America,Miami,240 ms,5891 kB/s
+216.83.47.211,25227,TRUE,MIA,North America,Miami,214 ms,5888 kB/s
+207.210.125.56,25226,TRUE,MIA,North America,Miami,229 ms,5888 kB/s
+172.252.113.43,25228,TRUE,MIA,North America,Miami,214 ms,5888 kB/s
+216.83.47.238,25222,TRUE,MIA,North America,Miami,233 ms,5886 kB/s
+40.27.137.63,25292,TRUE,MIA,North America,Miami,241 ms,5885 kB/s
+172.252.113.38,25242,TRUE,MIA,North America,Miami,248 ms,5881 kB/s
+67.215.254.72,25220,TRUE,MIA,North America,Miami,239 ms,5881 kB/s
+67.215.254.81,25224,TRUE,MIA,North America,Miami,236 ms,5874 kB/s
+172.252.113.55,25220,TRUE,MIA,North America,Miami,237 ms,5873 kB/s
+72.9.227.91,25232,TRUE,MIA,North America,Miami,251 ms,5872 kB/s
+40.27.137.11,25255,TRUE,MIA,North America,Miami,240 ms,5868 kB/s
+216.83.47.208,25242,TRUE,MIA,North America,Miami,234 ms,5865 kB/s
+40.27.137.40,25255,TRUE,MIA,North America,Miami,229 ms,5865 kB/s
+172.121.37.174,25212,TRUE,IAD,North America,Ashburn,269 ms,5862 kB/s
+207.210.125.0,25226,TRUE,MIA,North America,Miami,240 ms,5858 kB/s
+209.51.136.153,25228,TRUE,MIA,North America,Miami,258 ms,5857 kB/s
+209.51.136.128,25226,TRUE,MIA,North America,Miami,239 ms,5855 kB/s
+198.177.59.149,25222,TRUE,MIA,North America,Miami,239 ms,5854 kB/s
+216.83.47.254,25242,TRUE,MIA,North America,Miami,231 ms,5852 kB/s
+40.27.137.1,25282,TRUE,MIA,North America,Miami,240 ms,5852 kB/s
+64.81.180.205,25232,TRUE,IAD,North America,Ashburn,283 ms,5850 kB/s
+207.210.125.15,25226,TRUE,MIA,North America,Miami,235 ms,5850 kB/s
+216.83.47.234,25222,TRUE,MIA,North America,Miami,234 ms,5848 kB/s
+72.9.227.116,25229,TRUE,MIA,North America,Miami,213 ms,5848 kB/s
+72.9.227.94,25229,TRUE,MIA,North America,Miami,240 ms,5848 kB/s
+207.210.125.46,25228,TRUE,MIA,North America,Miami,230 ms,5846 kB/s
+75.127.120.127,25220,TRUE,IAD,North America,Ashburn,264 ms,5846 kB/s
+198.177.59.174,25222,TRUE,MIA,North America,Miami,235 ms,5846 kB/s
+209.178.239.47,25232,TRUE,MIA,North America,Miami,206 ms,5844 kB/s
+172.121.56.92,25212,TRUE,IAD,North America,Ashburn,269 ms,5843 kB/s
+72.9.227.121,25229,TRUE,MIA,North America,Miami,210 ms,5842 kB/s
+207.210.125.16,25228,TRUE,MIA,North America,Miami,242 ms,5840 kB/s
+209.51.136.156,25226,TRUE,MIA,North America,Miami,237 ms,5840 kB/s
+216.83.47.232,25242,TRUE,MIA,North America,Miami,237 ms,5839 kB/s
+209.51.136.130,25226,TRUE,MIA,North America,Miami,237 ms,5839 kB/s
+209.51.136.187,25262,TRUE,MIA,North America,Miami,235 ms,5838 kB/s
+72.9.227.68,25229,TRUE,MIA,North America,Miami,212 ms,5837 kB/s
+172.252.113.36,25222,TRUE,MIA,North America,Miami,231 ms,5836 kB/s
+209.51.136.141,25229,TRUE,MIA,North America,Miami,240 ms,5835 kB/s
+67.215.254.107,25232,TRUE,MIA,North America,Miami,232 ms,5833 kB/s
+172.121.56.32,25212,TRUE,IAD,North America,Ashburn,278 ms,5830 kB/s
+198.177.59.63,25226,TRUE,MIA,North America,Miami,239 ms,5828 kB/s
+216.83.47.218,25242,TRUE,MIA,North America,Miami,245 ms,5827 kB/s
+216.83.47.214,25242,TRUE,MIA,North America,Miami,241 ms,5827 kB/s
+72.9.227.113,25229,TRUE,MIA,North America,Miami,240 ms,5827 kB/s
+216.83.47.222,25222,TRUE,MIA,North America,Miami,238 ms,5827 kB/s
+172.252.113.174,25222,TRUE,MIA,North America,Miami,237 ms,5827 kB/s
+172.252.83.188,25242,TRUE,MIA,North America,Miami,243 ms,5827 kB/s
+72.9.227.104,25226,TRUE,MIA,North America,Miami,214 ms,5827 kB/s
+67.215.254.68,25220,TRUE,MIA,North America,Miami,239 ms,5825 kB/s
+216.83.47.237,25242,TRUE,MIA,North America,Miami,232 ms,5824 kB/s
+67.215.254.117,25224,TRUE,MIA,North America,Miami,240 ms,5824 kB/s
+40.27.137.11,25282,TRUE,MIA,North America,Miami,232 ms,5824 kB/s
+172.121.49.98,25242,TRUE,MIA,North America,Miami,242 ms,5823 kB/s
+207.210.125.4,25232,TRUE,MIA,North America,Miami,234 ms,5822 kB/s
+209.51.136.131,25226,TRUE,MIA,North America,Miami,231 ms,5821 kB/s
+67.215.254.105,25228,TRUE,MIA,North America,Miami,233 ms,5820 kB/s
+172.120.250.82,25232,TRUE,MIA,North America,Miami,239 ms,5817 kB/s
+207.210.125.21,25226,TRUE,MIA,North America,Miami,242 ms,5817 kB/s
+40.223.157.220,25212,TRUE,IAD,North America,Ashburn,264 ms,5816 kB/s
+107.151.216.226,25224,TRUE,MIA,North America,Miami,236 ms,5816 kB/s
+104.253.186.74,25212,TRUE,IAD,North America,Ashburn,270 ms,5815 kB/s
+75.127.120.120,25212,TRUE,IAD,North America,Ashburn,264 ms,5815 kB/s
+172.121.49.243,25212,TRUE,MIA,North America,Miami,239 ms,5814 kB/s
+67.215.254.64,25224,TRUE,MIA,North America,Miami,241 ms,5814 kB/s
+172.120.44.28,25220,TRUE,MIA,North America,Miami,242 ms,5814 kB/s
+40.183.95.83,25232,TRUE,IAD,North America,Ashburn,267 ms,5814 kB/s
+40.27.137.24,25292,TRUE,MIA,North America,Miami,239 ms,5814 kB/s
+209.178.239.116,25226,TRUE,MIA,North America,Miami,208 ms,5813 kB/s
+216.83.47.228,25242,TRUE,MIA,North America,Miami,235 ms,5813 kB/s
+40.223.251.143,25212,TRUE,IAD,North America,Ashburn,270 ms,5812 kB/s
+172.121.49.105,25242,TRUE,MIA,North America,Miami,235 ms,5811 kB/s
+216.83.47.211,25242,TRUE,MIA,North America,Miami,237 ms,5811 kB/s
+172.252.113.35,25222,TRUE,MIA,North America,Miami,240 ms,5811 kB/s
+209.51.136.137,25242,TRUE,MIA,North America,Miami,248 ms,5811 kB/s
+172.252.113.154,25222,TRUE,MIA,North America,Miami,235 ms,5811 kB/s
+172.120.250.127,25232,TRUE,MIA,North America,Miami,212 ms,5808 kB/s
+198.177.59.229,25232,TRUE,MIA,North America,Miami,230 ms,5808 kB/s
+172.252.113.60,25242,TRUE,MIA,North America,Miami,237 ms,5808 kB/s
+172.121.37.233,25222,TRUE,IAD,North America,Ashburn,261 ms,5807 kB/s
+216.83.47.195,25242,TRUE,MIA,North America,Miami,236 ms,5805 kB/s
+172.120.250.77,25232,TRUE,MIA,North America,Miami,234 ms,5805 kB/s
+216.83.47.231,25242,TRUE,MIA,North America,Miami,212 ms,5805 kB/s
+107.151.216.154,25227,TRUE,MIA,North America,Miami,230 ms,5805 kB/s
+40.27.137.12,25282,TRUE,MIA,North America,Miami,238 ms,5805 kB/s
+198.177.59.228,25212,TRUE,MIA,North America,Miami,242 ms,5803 kB/s
+172.121.49.169,25262,TRUE,MIA,North America,Miami,244 ms,5802 kB/s
+72.9.227.119,25232,TRUE,MIA,North America,Miami,243 ms,5802 kB/s
+172.252.113.26,25242,TRUE,MIA,North America,Miami,210 ms,5801 kB/s
+216.83.47.215,25222,TRUE,MIA,North America,Miami,218 ms,5800 kB/s
+198.177.59.239,25232,TRUE,MIA,North America,Miami,235 ms,5800 kB/s
+72.9.227.113,25232,TRUE,MIA,North America,Miami,226 ms,5799 kB/s
+40.223.251.170,25212,TRUE,IAD,North America,Ashburn,275 ms,5798 kB/s
+40.223.251.162,25212,TRUE,IAD,North America,Ashburn,271 ms,5798 kB/s
+172.252.113.47,25242,TRUE,MIA,North America,Miami,239 ms,5798 kB/s
+104.253.10.216,25220,TRUE,IAD,North America,Ashburn,273 ms,5795 kB/s
+198.177.59.110,25226,TRUE,MIA,North America,Miami,243 ms,5795 kB/s
+172.121.49.239,25229,TRUE,MIA,North America,Miami,244 ms,5794 kB/s
+198.177.59.1,25222,TRUE,MIA,North America,Miami,242 ms,5793 kB/s
+172.121.49.245,25212,TRUE,MIA,North America,Miami,233 ms,5792 kB/s
+172.252.113.183,25224,TRUE,MIA,North America,Miami,230 ms,5791 kB/s
+172.120.243.177,25220,TRUE,IAD,North America,Ashburn,263 ms,5789 kB/s
+67.215.254.75,25220,TRUE,MIA,North America,Miami,240 ms,5788 kB/s
+104.253.10.129,25220,TRUE,IAD,North America,Ashburn,265 ms,5788 kB/s
+198.177.59.226,25232,TRUE,MIA,North America,Miami,240 ms,5785 kB/s
+67.215.254.78,25220,TRUE,MIA,North America,Miami,241 ms,5784 kB/s
+172.252.113.35,25242,TRUE,MIA,North America,Miami,231 ms,5784 kB/s
+172.252.113.46,25222,TRUE,MIA,North America,Miami,209 ms,5779 kB/s
+209.51.136.179,25262,TRUE,MIA,North America,Miami,239 ms,5776 kB/s
+72.9.227.80,25232,TRUE,MIA,North America,Miami,233 ms,5769 kB/s
+172.252.113.7,25222,TRUE,MIA,North America,Miami,237 ms,5769 kB/s
+216.83.47.228,25227,TRUE,MIA,North America,Miami,238 ms,5766 kB/s
+209.178.233.5,25212,TRUE,LAX,North America,Los Angeles,184 ms,5765 kB/s
+67.215.254.122,25228,TRUE,MIA,North America,Miami,242 ms,5759 kB/s
+172.121.49.98,25224,TRUE,MIA,North America,Miami,238 ms,5758 kB/s
+172.121.49.100,25242,TRUE,MIA,North America,Miami,212 ms,5756 kB/s
+75.127.120.211,25212,TRUE,IAD,North America,Ashburn,274 ms,5754 kB/s
+172.121.49.94,25224,TRUE,MIA,North America,Miami,238 ms,5754 kB/s
+209.51.136.134,25228,TRUE,MIA,North America,Miami,240 ms,5752 kB/s
+67.215.254.100,25220,TRUE,MIA,North America,Miami,243 ms,5751 kB/s
+172.121.37.63,25220,TRUE,IAD,North America,Ashburn,264 ms,5750 kB/s
+67.215.254.71,25220,TRUE,MIA,North America,Miami,233 ms,5747 kB/s
+209.51.136.178,25262,TRUE,MIA,North America,Miami,228 ms,5746 kB/s
+216.83.47.224,25242,TRUE,MIA,North America,Miami,240 ms,5743 kB/s
+67.215.254.121,25224,TRUE,MIA,North America,Miami,238 ms,5743 kB/s
+72.9.227.73,25228,TRUE,MIA,North America,Miami,229 ms,5743 kB/s
+172.121.49.96,25292,TRUE,MIA,North America,Miami,239 ms,5737 kB/s
+198.177.59.103,25227,TRUE,MIA,North America,Miami,243 ms,5737 kB/s
+198.177.59.0,25222,TRUE,MIA,North America,Miami,241 ms,5734 kB/s
+104.253.186.88,25222,TRUE,IAD,North America,Ashburn,245 ms,5734 kB/s
+67.215.254.120,25224,TRUE,MIA,North America,Miami,244 ms,5733 kB/s
+172.252.113.47,25222,TRUE,MIA,North America,Miami,235 ms,5724 kB/s
+216.83.47.218,25222,TRUE,MIA,North America,Miami,240 ms,5723 kB/s
+67.215.254.80,25228,TRUE,MIA,North America,Miami,241 ms,5720 kB/s
+172.252.113.40,25220,TRUE,MIA,North America,Miami,235 ms,5718 kB/s
+172.252.113.161,25222,TRUE,MIA,North America,Miami,239 ms,5714 kB/s
+172.252.113.22,25220,TRUE,MIA,North America,Miami,235 ms,5714 kB/s
+172.252.113.50,25220,TRUE,MIA,North America,Miami,240 ms,5708 kB/s
+216.83.47.231,25222,TRUE,MIA,North America,Miami,239 ms,5696 kB/s
+209.51.136.145,25228,TRUE,MIA,North America,Miami,268 ms,5695 kB/s
+207.210.125.39,25226,TRUE,MIA,North America,Miami,233 ms,5695 kB/s
+209.178.239.45,25226,TRUE,MIA,North America,Miami,240 ms,5695 kB/s
+172.121.49.177,25232,TRUE,MIA,North America,Miami,241 ms,5692 kB/s
+207.210.125.24,25226,TRUE,MIA,North America,Miami,239 ms,5690 kB/s
+172.121.10.225,25212,TRUE,IAD,North America,Ashburn,265 ms,5686 kB/s
+67.230.160.42,8081,TRUE,LAX,North America,Los Angeles,169 ms,5684 kB/s
+40.27.137.15,25255,TRUE,MIA,North America,Miami,242 ms,5680 kB/s
+216.83.47.205,25242,TRUE,MIA,North America,Miami,242 ms,5676 kB/s
+172.252.113.63,25224,TRUE,MIA,North America,Miami,241 ms,5673 kB/s
+72.9.227.81,25229,TRUE,MIA,North America,Miami,229 ms,5673 kB/s
+64.50.163.180,25222,TRUE,IAD,North America,Ashburn,274 ms,5668 kB/s
+72.9.227.99,25232,TRUE,MIA,North America,Miami,239 ms,5667 kB/s
+172.252.113.30,25220,TRUE,MIA,North America,Miami,238 ms,5664 kB/s
+209.51.136.167,25228,TRUE,MIA,North America,Miami,235 ms,5661 kB/s
+67.215.254.123,25220,TRUE,MIA,North America,Miami,230 ms,5661 kB/s
+172.121.49.101,25242,TRUE,MIA,North America,Miami,235 ms,5660 kB/s
+67.215.254.100,25224,TRUE,MIA,North America,Miami,241 ms,5656 kB/s
+172.252.113.44,25220,TRUE,MIA,North America,Miami,239 ms,5655 kB/s
+216.83.47.222,25242,TRUE,MIA,North America,Miami,236 ms,5654 kB/s
+198.177.59.101,25222,TRUE,MIA,North America,Miami,232 ms,5654 kB/s
+172.121.49.234,25228,TRUE,MIA,North America,Miami,247 ms,5653 kB/s
+198.177.59.63,25222,TRUE,MIA,North America,Miami,233 ms,5652 kB/s
+184.174.94.1,25212,TRUE,IAD,North America,Ashburn,263 ms,5648 kB/s
+172.252.113.20,25222,TRUE,MIA,North America,Miami,241 ms,5644 kB/s
+216.83.47.212,25222,TRUE,MIA,North America,Miami,242 ms,5639 kB/s
+40.183.198.239,25220,TRUE,IAD,North America,Ashburn,263 ms,5638 kB/s
+207.210.125.40,25232,TRUE,MIA,North America,Miami,239 ms,5638 kB/s
+67.215.254.78,25224,TRUE,MIA,North America,Miami,240 ms,5637 kB/s
+40.223.251.181,25212,TRUE,IAD,North America,Ashburn,263 ms,5636 kB/s
+207.210.125.40,25226,TRUE,MIA,North America,Miami,232 ms,5635 kB/s
+172.121.49.165,25229,TRUE,MIA,North America,Miami,243 ms,5631 kB/s
+40.27.137.5,25255,TRUE,MIA,North America,Miami,243 ms,5631 kB/s
+75.127.120.75,25212,TRUE,IAD,North America,Ashburn,261 ms,5631 kB/s
+209.51.136.145,25229,TRUE,MIA,North America,Miami,266 ms,5631 kB/s
+172.252.113.13,25220,TRUE,MIA,North America,Miami,246 ms,5626 kB/s
+40.27.137.4,25282,TRUE,MIA,North America,Miami,239 ms,5625 kB/s
+40.223.251.188,25212,TRUE,IAD,North America,Ashburn,263 ms,5623 kB/s
+172.252.113.18,25220,TRUE,MIA,North America,Miami,243 ms,5623 kB/s
+209.51.136.168,25228,TRUE,MIA,North America,Miami,244 ms,5617 kB/s
+207.210.125.58,25228,TRUE,MIA,North America,Miami,238 ms,5616 kB/s
+67.215.254.111,25220,TRUE,MIA,North America,Miami,231 ms,5615 kB/s
+40.183.95.107,25228,TRUE,IAD,North America,Ashburn,297 ms,5612 kB/s
+209.51.136.140,25229,TRUE,MIA,North America,Miami,245 ms,5609 kB/s
+75.127.120.141,25212,TRUE,IAD,North America,Ashburn,242 ms,5609 kB/s
+209.51.136.139,25228,TRUE,MIA,North America,Miami,241 ms,5606 kB/s
+207.210.125.15,25228,TRUE,MIA,North America,Miami,241 ms,5605 kB/s
+209.178.239.121,25226,TRUE,MIA,North America,Miami,243 ms,5603 kB/s
+40.223.251.74,25212,TRUE,IAD,North America,Ashburn,271 ms,5600 kB/s
+172.120.243.160,25222,TRUE,IAD,North America,Ashburn,262 ms,5598 kB/s
+209.51.136.151,25229,TRUE,MIA,North America,Miami,229 ms,5596 kB/s
+172.120.243.195,25220,TRUE,IAD,North America,Ashburn,238 ms,5594 kB/s
+40.27.137.1,25292,TRUE,MIA,North America,Miami,240 ms,5594 kB/s
+64.81.180.148,25232,TRUE,IAD,North America,Ashburn,263 ms,5592 kB/s
+40.27.137.60,25255,TRUE,MIA,North America,Miami,238 ms,5591 kB/s
+172.252.113.180,25222,TRUE,MIA,North America,Miami,235 ms,5591 kB/s
+75.127.120.122,25212,TRUE,IAD,North America,Ashburn,233 ms,5590 kB/s
+172.121.37.255,25212,TRUE,IAD,North America,Ashburn,264 ms,5590 kB/s
+209.51.136.134,25262,TRUE,MIA,North America,Miami,229 ms,5587 kB/s
+209.51.136.143,25228,TRUE,MIA,North America,Miami,252 ms,5586 kB/s
+104.145.214.163,25212,TRUE,IAD,North America,Ashburn,235 ms,5583 kB/s
+209.51.136.155,25226,TRUE,MIA,North America,Miami,262 ms,5583 kB/s
+207.210.125.29,25226,TRUE,MIA,North America,Miami,239 ms,5581 kB/s
+172.120.44.58,25224,TRUE,MIA,North America,Miami,279 ms,5581 kB/s
+209.51.136.163,25228,TRUE,MIA,North America,Miami,218 ms,5580 kB/s
+172.252.83.187,25242,TRUE,MIA,North America,Miami,242 ms,5580 kB/s
+172.121.37.155,25212,TRUE,IAD,North America,Ashburn,262 ms,5579 kB/s
+40.223.251.66,25212,TRUE,IAD,North America,Ashburn,265 ms,5579 kB/s
+75.127.120.197,25212,TRUE,IAD,North America,Ashburn,268 ms,5579 kB/s
+72.9.224.182,25222,TRUE,IAD,North America,Ashburn,273 ms,5577 kB/s
+72.9.224.221,25222,TRUE,IAD,North America,Ashburn,269 ms,5575 kB/s
+172.121.49.105,25262,TRUE,MIA,North America,Miami,208 ms,5574 kB/s
+172.121.56.118,25212,TRUE,IAD,North America,Ashburn,265 ms,5574 kB/s
+64.81.180.183,25232,TRUE,IAD,North America,Ashburn,286 ms,5574 kB/s
+172.121.56.54,25212,TRUE,IAD,North America,Ashburn,265 ms,5574 kB/s
+172.121.10.89,25212,TRUE,IAD,North America,Ashburn,282 ms,5573 kB/s
+40.223.251.115,25212,TRUE,IAD,North America,Ashburn,272 ms,5572 kB/s
+64.81.180.138,25232,TRUE,IAD,North America,Ashburn,286 ms,5571 kB/s
+75.127.120.48,25212,TRUE,IAD,North America,Ashburn,268 ms,5570 kB/s
+207.210.125.48,25228,TRUE,MIA,North America,Miami,235 ms,5568 kB/s
+209.51.136.175,25262,TRUE,MIA,North America,Miami,235 ms,5567 kB/s
+172.121.37.26,25220,TRUE,IAD,North America,Ashburn,262 ms,5566 kB/s
+209.178.239.42,25232,TRUE,MIA,North America,Miami,246 ms,5565 kB/s
+209.51.136.163,25226,TRUE,MIA,North America,Miami,230 ms,5565 kB/s
+67.215.254.124,25220,TRUE,MIA,North America,Miami,231 ms,5564 kB/s
+40.183.95.142,25232,TRUE,IAD,North America,Ashburn,255 ms,5564 kB/s
+172.121.37.79,25220,TRUE,IAD,North America,Ashburn,273 ms,5564 kB/s
+72.9.224.186,25222,TRUE,IAD,North America,Ashburn,270 ms,5563 kB/s
+40.183.95.122,25227,TRUE,IAD,North America,Ashburn,278 ms,5563 kB/s
+75.127.120.180,25212,TRUE,IAD,North America,Ashburn,276 ms,5562 kB/s
+40.223.251.122,25212,TRUE,IAD,North America,Ashburn,264 ms,5561 kB/s
+172.121.49.247,25229,TRUE,MIA,North America,Miami,231 ms,5560 kB/s
+172.121.37.0,25220,TRUE,IAD,North America,Ashburn,265 ms,5558 kB/s
+40.183.198.196,25212,TRUE,IAD,North America,Ashburn,239 ms,5558 kB/s
+172.121.37.207,25222,TRUE,IAD,North America,Ashburn,263 ms,5555 kB/s
+172.121.37.185,25222,TRUE,IAD,North America,Ashburn,267 ms,5552 kB/s
+172.252.83.185,25242,TRUE,MIA,North America,Miami,212 ms,5552 kB/s
+40.27.137.42,25255,TRUE,MIA,North America,Miami,207 ms,5551 kB/s
+72.9.224.2,25212,TRUE,IAD,North America,Ashburn,265 ms,5548 kB/s
+172.121.37.40,25220,TRUE,IAD,North America,Ashburn,272 ms,5548 kB/s
+172.252.113.41,25220,TRUE,MIA,North America,Miami,232 ms,5547 kB/s
+172.121.37.149,25222,TRUE,IAD,North America,Ashburn,269 ms,5546 kB/s
+64.81.180.19,25232,TRUE,IAD,North America,Ashburn,268 ms,5546 kB/s
+40.183.198.196,25220,TRUE,IAD,North America,Ashburn,272 ms,5545 kB/s
+64.81.180.11,25227,TRUE,IAD,North America,Ashburn,292 ms,5545 kB/s
+172.121.37.74,25222,TRUE,IAD,North America,Ashburn,264 ms,5545 kB/s
+172.121.37.180,25222,TRUE,IAD,North America,Ashburn,272 ms,5544 kB/s
+172.252.113.38,25220,TRUE,MIA,North America,Miami,233 ms,5540 kB/s
+207.210.125.25,25228,TRUE,MIA,North America,Miami,243 ms,5540 kB/s
+72.9.227.127,25232,TRUE,MIA,North America,Miami,240 ms,5539 kB/s
+172.121.37.153,25212,TRUE,IAD,North America,Ashburn,270 ms,5539 kB/s
+198.177.59.150,25222,TRUE,MIA,North America,Miami,247 ms,5538 kB/s
+172.120.250.66,25232,TRUE,MIA,North America,Miami,203 ms,5538 kB/s
+40.27.137.9,25255,TRUE,MIA,North America,Miami,213 ms,5531 kB/s
+216.83.47.236,25242,TRUE,MIA,North America,Miami,242 ms,5530 kB/s
+104.253.10.191,25220,TRUE,IAD,North America,Ashburn,248 ms,5528 kB/s
+104.145.214.144,25212,TRUE,IAD,North America,Ashburn,270 ms,5523 kB/s
+104.145.214.148,25212,TRUE,IAD,North America,Ashburn,271 ms,5520 kB/s
+216.83.47.235,25222,TRUE,MIA,North America,Miami,244 ms,5520 kB/s
+172.120.44.37,25220,TRUE,MIA,North America,Miami,291 ms,5519 kB/s
+209.51.136.161,25226,TRUE,MIA,North America,Miami,220 ms,5518 kB/s
+67.215.254.116,25224,TRUE,MIA,North America,Miami,235 ms,5516 kB/s
+104.253.10.159,25220,TRUE,IAD,North America,Ashburn,269 ms,5514 kB/s
+172.252.113.139,25228,TRUE,MIA,North America,Miami,229 ms,5512 kB/s
+64.81.180.163,25232,TRUE,IAD,North America,Ashburn,282 ms,5510 kB/s
+172.120.44.14,25220,TRUE,MIA,North America,Miami,242 ms,5510 kB/s
+104.253.10.151,25220,TRUE,IAD,North America,Ashburn,265 ms,5507 kB/s
+104.253.10.253,25220,TRUE,IAD,North America,Ashburn,268 ms,5504 kB/s
+40.183.95.81,25232,TRUE,IAD,North America,Ashburn,267 ms,5503 kB/s
+209.51.136.170,25226,TRUE,MIA,North America,Miami,232 ms,5503 kB/s
+209.51.136.189,25262,TRUE,MIA,North America,Miami,238 ms,5501 kB/s
+172.252.113.31,25212,TRUE,MIA,North America,Miami,244 ms,5501 kB/s
+72.9.224.210,25222,TRUE,IAD,North America,Ashburn,241 ms,5501 kB/s
+172.252.113.54,25242,TRUE,MIA,North America,Miami,244 ms,5497 kB/s
+104.253.10.178,25220,TRUE,IAD,North America,Ashburn,261 ms,5494 kB/s
+72.9.224.24,25212,TRUE,IAD,North America,Ashburn,272 ms,5494 kB/s
+104.253.10.193,25220,TRUE,IAD,North America,Ashburn,276 ms,5494 kB/s
+40.223.157.11,25212,TRUE,IAD,North America,Ashburn,263 ms,5494 kB/s
+104.253.10.174,25220,TRUE,IAD,North America,Ashburn,272 ms,5494 kB/s
+172.121.10.57,25212,TRUE,IAD,North America,Ashburn,274 ms,5493 kB/s
+40.223.251.70,25212,TRUE,IAD,North America,Ashburn,265 ms,5491 kB/s
+104.253.10.154,25220,TRUE,IAD,North America,Ashburn,267 ms,5489 kB/s
+75.127.120.158,25212,TRUE,IAD,North America,Ashburn,265 ms,5488 kB/s
+172.121.37.4,25220,TRUE,IAD,North America,Ashburn,269 ms,5484 kB/s
+172.120.44.20,25262,TRUE,MIA,North America,Miami,294 ms,5482 kB/s
+72.9.227.73,25232,TRUE,MIA,North America,Miami,229 ms,5481 kB/s
+172.121.56.67,25212,TRUE,IAD,North America,Ashburn,240 ms,5479 kB/s
+198.177.59.230,25212,TRUE,MIA,North America,Miami,235 ms,5474 kB/s
+198.177.59.66,25222,TRUE,MIA,North America,Miami,244 ms,5474 kB/s
+162.141.164.94,20092,TRUE,LAX,North America,Los Angeles,181 ms,5471 kB/s
+209.51.136.132,25229,TRUE,MIA,North America,Miami,245 ms,5469 kB/s
+67.215.254.78,25232,TRUE,MIA,North America,Miami,210 ms,5468 kB/s
+75.127.120.20,25212,TRUE,IAD,North America,Ashburn,269 ms,5468 kB/s
+209.178.239.113,25226,TRUE,MIA,North America,Miami,241 ms,5465 kB/s
+209.51.136.142,25229,TRUE,MIA,North America,Miami,257 ms,5463 kB/s
+172.252.113.26,25229,TRUE,MIA,North America,Miami,237 ms,5463 kB/s
+172.121.10.216,25212,TRUE,IAD,North America,Ashburn,237 ms,5461 kB/s
+75.127.120.62,25220,TRUE,IAD,North America,Ashburn,257 ms,5459 kB/s
+209.51.136.144,25229,TRUE,MIA,North America,Miami,221 ms,5456 kB/s
+172.120.97.198,25222,TRUE,IAD,North America,Ashburn,274 ms,5456 kB/s
+207.210.125.63,25226,TRUE,MIA,North America,Miami,232 ms,5455 kB/s
+172.121.10.125,25212,TRUE,IAD,North America,Ashburn,267 ms,5453 kB/s
+104.253.186.35,25212,TRUE,IAD,North America,Ashburn,267 ms,5453 kB/s
+67.215.254.103,25228,TRUE,MIA,North America,Miami,245 ms,5452 kB/s
+209.51.136.146,25229,TRUE,MIA,North America,Miami,241 ms,5451 kB/s
+209.51.136.171,25262,TRUE,MIA,North America,Miami,236 ms,5450 kB/s
+104.253.186.70,25212,TRUE,IAD,North America,Ashburn,269 ms,5449 kB/s
+104.253.186.14,25212,TRUE,IAD,North America,Ashburn,265 ms,5449 kB/s
+172.121.10.218,25212,TRUE,IAD,North America,Ashburn,263 ms,5449 kB/s
+40.223.251.135,25212,TRUE,IAD,North America,Ashburn,293 ms,5442 kB/s
+172.121.56.131,25212,TRUE,IAD,North America,Ashburn,237 ms,5439 kB/s
+198.177.59.227,25222,TRUE,MIA,North America,Miami,245 ms,5439 kB/s
+172.121.10.76,25212,TRUE,IAD,North America,Ashburn,259 ms,5437 kB/s
+172.121.10.253,25212,TRUE,IAD,North America,Ashburn,275 ms,5436 kB/s
+40.27.137.36,25255,TRUE,MIA,North America,Miami,232 ms,5428 kB/s
+75.127.120.184,25220,TRUE,IAD,North America,Ashburn,273 ms,5424 kB/s
+172.252.113.169,25222,TRUE,MIA,North America,Miami,239 ms,5417 kB/s
+64.50.163.178,25222,TRUE,IAD,North America,Ashburn,240 ms,5412 kB/s
+72.9.227.75,25232,TRUE,MIA,North America,Miami,247 ms,5411 kB/s
+40.27.137.31,25255,TRUE,MIA,North America,Miami,233 ms,5408 kB/s
+172.121.49.238,25232,TRUE,MIA,North America,Miami,240 ms,5408 kB/s
+209.51.136.191,25229,TRUE,MIA,North America,Miami,238 ms,5405 kB/s
+172.120.250.76,25232,TRUE,MIA,North America,Miami,232 ms,5405 kB/s
+172.120.250.125,25232,TRUE,MIA,North America,Miami,244 ms,5402 kB/s
+72.9.227.67,25228,TRUE,MIA,North America,Miami,239 ms,5401 kB/s
+72.9.227.70,25220,TRUE,MIA,North America,Miami,244 ms,5396 kB/s
+172.121.37.80,25222,TRUE,IAD,North America,Ashburn,260 ms,5395 kB/s
+172.121.33.78,25220,TRUE,IAD,North America,Ashburn,270 ms,5395 kB/s
+40.27.137.16,25282,TRUE,MIA,North America,Miami,243 ms,5395 kB/s
+207.210.125.26,25222,TRUE,MIA,North America,Miami,231 ms,5393 kB/s
+64.50.163.166,25222,TRUE,IAD,North America,Ashburn,261 ms,5392 kB/s
+75.127.120.184,25212,TRUE,IAD,North America,Ashburn,260 ms,5391 kB/s
+75.127.120.208,25212,TRUE,IAD,North America,Ashburn,261 ms,5390 kB/s
+198.177.59.175,25232,TRUE,MIA,North America,Miami,213 ms,5390 kB/s
+67.215.254.118,25220,TRUE,MIA,North America,Miami,241 ms,5390 kB/s
+209.51.136.168,25226,TRUE,MIA,North America,Miami,211 ms,5387 kB/s
+198.177.59.63,25227,TRUE,MIA,North America,Miami,239 ms,5386 kB/s
+209.51.136.174,25262,TRUE,MIA,North America,Miami,246 ms,5385 kB/s
+40.223.251.96,25212,TRUE,IAD,North America,Ashburn,240 ms,5385 kB/s
+172.121.56.129,25212,TRUE,IAD,North America,Ashburn,271 ms,5382 kB/s
+104.253.10.202,25220,TRUE,IAD,North America,Ashburn,272 ms,5382 kB/s
+40.27.137.32,25292,TRUE,MIA,North America,Miami,239 ms,5378 kB/s
+104.145.214.31,25212,TRUE,IAD,North America,Ashburn,270 ms,5376 kB/s
+172.252.113.25,25242,TRUE,MIA,North America,Miami,241 ms,5373 kB/s
+209.51.136.138,25228,TRUE,MIA,North America,Miami,236 ms,5372 kB/s
+75.127.120.98,25220,TRUE,IAD,North America,Ashburn,263 ms,5370 kB/s
+72.9.224.248,25222,TRUE,IAD,North America,Ashburn,281 ms,5369 kB/s
+216.83.47.244,25227,TRUE,MIA,North America,Miami,239 ms,5357 kB/s
+40.223.251.134,25212,TRUE,IAD,North America,Ashburn,279 ms,5356 kB/s
+45.88.194.159,8999,TRUE,LAX,North America,Los Angeles,262 ms,5355 kB/s
+207.210.125.60,25222,TRUE,MIA,North America,Miami,232 ms,5353 kB/s
+40.27.137.13,25255,TRUE,MIA,North America,Miami,245 ms,5350 kB/s
+172.121.49.176,25262,TRUE,MIA,North America,Miami,238 ms,5347 kB/s
+172.121.49.164,25232,TRUE,MIA,North America,Miami,234 ms,5344 kB/s
+40.223.251.99,25212,TRUE,IAD,North America,Ashburn,283 ms,5343 kB/s
+40.27.137.10,25255,TRUE,MIA,North America,Miami,237 ms,5342 kB/s
+72.9.224.31,25212,TRUE,IAD,North America,Ashburn,265 ms,5341 kB/s
+75.127.120.121,25212,TRUE,IAD,North America,Ashburn,266 ms,5340 kB/s
+172.121.49.241,25228,TRUE,MIA,North America,Miami,231 ms,5340 kB/s
+172.252.113.37,25212,TRUE,MIA,North America,Miami,242 ms,5338 kB/s
+75.127.120.148,25220,TRUE,IAD,North America,Ashburn,267 ms,5337 kB/s
+207.210.125.43,25228,TRUE,MIA,North America,Miami,242 ms,5337 kB/s
+209.51.136.173,25242,TRUE,MIA,North America,Miami,237 ms,5335 kB/s
+75.127.120.155,25220,TRUE,IAD,North America,Ashburn,254 ms,5331 kB/s
+40.183.198.254,25212,TRUE,IAD,North America,Ashburn,260 ms,5330 kB/s
+72.9.224.184,25222,TRUE,IAD,North America,Ashburn,261 ms,5327 kB/s
+67.215.254.105,25224,TRUE,MIA,North America,Miami,248 ms,5324 kB/s
+75.127.120.108,25212,TRUE,IAD,North America,Ashburn,265 ms,5324 kB/s
+75.127.120.177,25212,TRUE,IAD,North America,Ashburn,279 ms,5324 kB/s
+40.223.251.159,25212,TRUE,IAD,North America,Ashburn,271 ms,5323 kB/s
+72.9.224.44,25212,TRUE,IAD,North America,Ashburn,269 ms,5322 kB/s
+40.223.251.86,25212,TRUE,IAD,North America,Ashburn,274 ms,5321 kB/s
+75.127.120.90,25212,TRUE,IAD,North America,Ashburn,237 ms,5319 kB/s
+172.120.243.208,25220,TRUE,IAD,North America,Ashburn,266 ms,5318 kB/s
+67.215.254.70,25224,TRUE,MIA,North America,Miami,235 ms,5318 kB/s
+216.83.47.233,25222,TRUE,MIA,North America,Miami,232 ms,5315 kB/s
+172.121.37.139,25222,TRUE,IAD,North America,Ashburn,266 ms,5315 kB/s
+172.120.250.113,25232,TRUE,MIA,North America,Miami,241 ms,5315 kB/s
+172.121.56.168,25212,TRUE,IAD,North America,Ashburn,239 ms,5314 kB/s
+75.127.120.32,25212,TRUE,IAD,North America,Ashburn,265 ms,5312 kB/s
+40.183.95.77,25228,TRUE,IAD,North America,Ashburn,281 ms,5312 kB/s
+172.121.37.109,25222,TRUE,IAD,North America,Ashburn,274 ms,5312 kB/s
+172.121.56.81,25212,TRUE,IAD,North America,Ashburn,239 ms,5312 kB/s
+64.81.180.61,25227,TRUE,IAD,North America,Ashburn,236 ms,5310 kB/s
+172.121.37.8,25220,TRUE,IAD,North America,Ashburn,235 ms,5310 kB/s
+172.121.56.20,25212,TRUE,IAD,North America,Ashburn,274 ms,5309 kB/s
+172.121.56.23,25212,TRUE,IAD,North America,Ashburn,239 ms,5308 kB/s
+72.9.224.182,25212,TRUE,IAD,North America,Ashburn,237 ms,5308 kB/s
+172.121.33.22,25212,TRUE,IAD,North America,Ashburn,276 ms,5308 kB/s
+172.121.37.225,25212,TRUE,IAD,North America,Ashburn,270 ms,5308 kB/s
+172.121.56.176,25212,TRUE,IAD,North America,Ashburn,235 ms,5308 kB/s
+172.121.33.15,25212,TRUE,IAD,North America,Ashburn,274 ms,5305 kB/s
+40.183.198.238,25222,TRUE,IAD,North America,Ashburn,268 ms,5305 kB/s
+75.127.120.60,25212,TRUE,IAD,North America,Ashburn,265 ms,5305 kB/s
+72.9.224.58,25212,TRUE,IAD,North America,Ashburn,268 ms,5305 kB/s
+172.120.243.243,25220,TRUE,IAD,North America,Ashburn,265 ms,5305 kB/s
+172.121.56.153,25212,TRUE,IAD,North America,Ashburn,260 ms,5305 kB/s
+172.120.243.238,25220,TRUE,IAD,North America,Ashburn,264 ms,5304 kB/s
+209.51.136.132,25242,TRUE,MIA,North America,Miami,231 ms,5304 kB/s
+209.51.136.187,25229,TRUE,MIA,North America,Miami,208 ms,5304 kB/s
+198.177.59.70,25226,TRUE,MIA,North America,Miami,240 ms,5302 kB/s
+40.183.95.175,25232,TRUE,IAD,North America,Ashburn,298 ms,5302 kB/s
+75.127.120.242,25212,TRUE,IAD,North America,Ashburn,267 ms,5302 kB/s
+172.121.33.169,25220,TRUE,IAD,North America,Ashburn,266 ms,5302 kB/s
+172.121.37.158,25222,TRUE,IAD,North America,Ashburn,260 ms,5302 kB/s
+172.121.37.173,25222,TRUE,IAD,North America,Ashburn,274 ms,5302 kB/s
+172.120.44.6,25224,TRUE,MIA,North America,Miami,281 ms,5302 kB/s
+216.83.47.195,25222,TRUE,MIA,North America,Miami,233 ms,5302 kB/s
+198.177.59.171,25212,TRUE,MIA,North America,Miami,233 ms,5301 kB/s
+72.9.227.108,25232,TRUE,MIA,North America,Miami,243 ms,5301 kB/s
+172.121.56.147,25212,TRUE,IAD,North America,Ashburn,240 ms,5300 kB/s
+75.127.120.251,25212,TRUE,IAD,North America,Ashburn,267 ms,5300 kB/s
+72.9.224.4,25212,TRUE,IAD,North America,Ashburn,265 ms,5299 kB/s
+172.121.33.18,25220,TRUE,IAD,North America,Ashburn,272 ms,5299 kB/s
+198.177.59.105,25222,TRUE,MIA,North America,Miami,232 ms,5299 kB/s
+172.121.37.60,25220,TRUE,IAD,North America,Ashburn,268 ms,5299 kB/s
+172.121.33.57,25220,TRUE,IAD,North America,Ashburn,270 ms,5299 kB/s
+172.120.44.39,25224,TRUE,MIA,North America,Miami,281 ms,5299 kB/s
+172.121.56.35,25212,TRUE,IAD,North America,Ashburn,259 ms,5299 kB/s
+172.121.33.171,25220,TRUE,IAD,North America,Ashburn,237 ms,5299 kB/s
+64.50.163.149,25220,TRUE,IAD,North America,Ashburn,275 ms,5299 kB/s
+40.183.95.134,25232,TRUE,IAD,North America,Ashburn,267 ms,5299 kB/s
+172.121.56.191,25212,TRUE,IAD,North America,Ashburn,265 ms,5298 kB/s
+209.51.136.152,25242,TRUE,MIA,North America,Miami,246 ms,5298 kB/s
+172.121.33.2,25212,TRUE,IAD,North America,Ashburn,234 ms,5297 kB/s
+172.121.56.177,25212,TRUE,IAD,North America,Ashburn,266 ms,5296 kB/s
+75.127.78.34,25212,TRUE,IAD,North America,Ashburn,240 ms,5295 kB/s
+209.51.136.163,25229,TRUE,MIA,North America,Miami,213 ms,5295 kB/s
+40.223.251.84,25212,TRUE,IAD,North America,Ashburn,270 ms,5295 kB/s
+209.51.136.143,25262,TRUE,MIA,North America,Miami,275 ms,5294 kB/s
+40.183.198.243,25220,TRUE,IAD,North America,Ashburn,273 ms,5294 kB/s
+40.183.198.212,25212,TRUE,IAD,North America,Ashburn,243 ms,5293 kB/s
+40.223.157.251,25212,TRUE,IAD,North America,Ashburn,278 ms,5293 kB/s
+72.9.224.254,25222,TRUE,IAD,North America,Ashburn,273 ms,5293 kB/s
+172.121.56.156,25212,TRUE,IAD,North America,Ashburn,263 ms,5292 kB/s
+198.177.59.147,25222,TRUE,MIA,North America,Miami,243 ms,5292 kB/s
+172.121.56.36,25212,TRUE,IAD,North America,Ashburn,236 ms,5292 kB/s
+72.9.224.196,25212,TRUE,IAD,North America,Ashburn,264 ms,5291 kB/s
+40.183.95.86,25232,TRUE,IAD,North America,Ashburn,242 ms,5290 kB/s
+172.121.37.240,25222,TRUE,IAD,North America,Ashburn,269 ms,5290 kB/s
+172.121.37.153,25222,TRUE,IAD,North America,Ashburn,271 ms,5290 kB/s
+40.223.157.63,25212,TRUE,IAD,North America,Ashburn,258 ms,5289 kB/s
+72.9.224.41,25212,TRUE,IAD,North America,Ashburn,268 ms,5289 kB/s
+75.127.120.175,25212,TRUE,IAD,North America,Ashburn,265 ms,5289 kB/s
+172.120.243.219,25220,TRUE,IAD,North America,Ashburn,260 ms,5287 kB/s
+72.9.224.18,25212,TRUE,IAD,North America,Ashburn,266 ms,5286 kB/s
+64.50.163.184,25212,TRUE,IAD,North America,Ashburn,239 ms,5285 kB/s
+104.145.214.162,25220,TRUE,IAD,North America,Ashburn,269 ms,5283 kB/s
+40.27.137.1,25255,TRUE,MIA,North America,Miami,232 ms,5282 kB/s
+72.9.224.208,25222,TRUE,IAD,North America,Ashburn,268 ms,5282 kB/s
+64.50.163.176,25222,TRUE,IAD,North America,Ashburn,262 ms,5282 kB/s
+75.127.120.134,25220,TRUE,IAD,North America,Ashburn,262 ms,5281 kB/s
+64.81.180.218,25232,TRUE,IAD,North America,Ashburn,279 ms,5281 kB/s
+64.50.163.188,25212,TRUE,IAD,North America,Ashburn,264 ms,5280 kB/s
+104.253.10.163,25222,TRUE,IAD,North America,Ashburn,257 ms,5280 kB/s
+40.27.137.61,25255,TRUE,MIA,North America,Miami,241 ms,5279 kB/s
+104.145.214.162,25212,TRUE,IAD,North America,Ashburn,266 ms,5279 kB/s
+40.183.198.194,25212,TRUE,IAD,North America,Ashburn,275 ms,5277 kB/s
+72.9.224.168,25222,TRUE,IAD,North America,Ashburn,246 ms,5277 kB/s
+107.151.216.126,25222,TRUE,MIA,North America,Miami,241 ms,5277 kB/s
+72.9.227.98,25232,TRUE,MIA,North America,Miami,229 ms,5276 kB/s
+107.151.196.136,25222,TRUE,IAD,North America,Ashburn,285 ms,5276 kB/s
+172.121.37.160,25222,TRUE,IAD,North America,Ashburn,241 ms,5274 kB/s
+75.127.120.31,25212,TRUE,IAD,North America,Ashburn,262 ms,5274 kB/s
+72.9.224.185,25222,TRUE,IAD,North America,Ashburn,234 ms,5273 kB/s
+172.121.37.231,25222,TRUE,IAD,North America,Ashburn,271 ms,5273 kB/s
+172.121.56.108,25212,TRUE,IAD,North America,Ashburn,292 ms,5270 kB/s
+172.120.44.4,25262,TRUE,MIA,North America,Miami,288 ms,5269 kB/s
+75.127.120.157,25212,TRUE,IAD,North America,Ashburn,242 ms,5267 kB/s
+72.9.224.30,25212,TRUE,IAD,North America,Ashburn,268 ms,5266 kB/s
+75.127.120.131,25220,TRUE,IAD,North America,Ashburn,272 ms,5265 kB/s
+209.51.136.152,25229,TRUE,MIA,North America,Miami,240 ms,5264 kB/s
+64.50.163.149,25222,TRUE,IAD,North America,Ashburn,236 ms,5263 kB/s
+64.50.163.131,25222,TRUE,IAD,North America,Ashburn,268 ms,5263 kB/s
+172.121.49.170,25242,TRUE,MIA,North America,Miami,232 ms,5263 kB/s
+104.145.214.58,25212,TRUE,IAD,North America,Ashburn,266 ms,5261 kB/s
+172.252.113.133,25228,TRUE,MIA,North America,Miami,240 ms,5260 kB/s
+5.161.149.54,2095,TRUE,IAD,North America,Ashburn,233 ms,5256 kB/s
+72.9.224.228,25222,TRUE,IAD,North America,Ashburn,266 ms,5254 kB/s
+172.121.56.95,25212,TRUE,IAD,North America,Ashburn,240 ms,5252 kB/s
+104.253.10.189,25220,TRUE,IAD,North America,Ashburn,288 ms,5250 kB/s
+172.121.56.104,25212,TRUE,IAD,North America,Ashburn,236 ms,5250 kB/s
+104.253.10.221,25220,TRUE,IAD,North America,Ashburn,260 ms,5244 kB/s
+104.253.10.155,25220,TRUE,IAD,North America,Ashburn,276 ms,5244 kB/s
+104.145.214.169,25212,TRUE,IAD,North America,Ashburn,274 ms,5244 kB/s
+104.253.186.113,25220,TRUE,IAD,North America,Ashburn,269 ms,5242 kB/s
+38.71.124.55,1443,TRUE,HKG,Asia Pacific,Hong Kong,55 ms,5241 kB/s
+72.9.227.76,25232,TRUE,MIA,North America,Miami,229 ms,5238 kB/s
+40.27.174.253,25220,TRUE,IAD,North America,Ashburn,269 ms,5236 kB/s
+64.81.180.37,25227,TRUE,IAD,North America,Ashburn,275 ms,5235 kB/s
+104.253.10.228,25220,TRUE,IAD,North America,Ashburn,265 ms,5230 kB/s
+172.252.113.6,25222,TRUE,MIA,North America,Miami,233 ms,5229 kB/s
+40.223.157.252,25212,TRUE,IAD,North America,Ashburn,269 ms,5228 kB/s
+64.50.163.162,25222,TRUE,IAD,North America,Ashburn,269 ms,5227 kB/s
+209.178.239.49,25226,TRUE,MIA,North America,Miami,237 ms,5226 kB/s
+209.51.136.160,25226,TRUE,MIA,North America,Miami,251 ms,5225 kB/s
+72.9.224.43,25212,TRUE,IAD,North America,Ashburn,265 ms,5223 kB/s
+172.121.56.138,25212,TRUE,IAD,North America,Ashburn,239 ms,5222 kB/s
+172.120.243.199,25220,TRUE,IAD,North America,Ashburn,265 ms,5222 kB/s
+172.121.56.46,25212,TRUE,IAD,North America,Ashburn,247 ms,5219 kB/s
+104.145.214.42,25212,TRUE,IAD,North America,Ashburn,273 ms,5219 kB/s
+198.177.59.1,25227,TRUE,MIA,North America,Miami,233 ms,5218 kB/s
+172.120.243.153,25220,TRUE,IAD,North America,Ashburn,264 ms,5218 kB/s
+207.210.125.37,25232,TRUE,MIA,North America,Miami,240 ms,5217 kB/s
+216.83.47.255,25242,TRUE,MIA,North America,Miami,245 ms,5216 kB/s
+172.121.37.48,25220,TRUE,IAD,North America,Ashburn,264 ms,5216 kB/s
+172.121.37.202,25212,TRUE,IAD,North America,Ashburn,243 ms,5215 kB/s
+72.9.224.185,25212,TRUE,IAD,North America,Ashburn,278 ms,5214 kB/s
+72.9.224.216,25222,TRUE,IAD,North America,Ashburn,274 ms,5213 kB/s
+40.223.157.16,25212,TRUE,IAD,North America,Ashburn,257 ms,5213 kB/s
+172.121.37.155,25222,TRUE,IAD,North America,Ashburn,264 ms,5211 kB/s
+172.121.33.134,25220,TRUE,IAD,North America,Ashburn,268 ms,5206 kB/s
+172.121.56.152,25212,TRUE,IAD,North America,Ashburn,266 ms,5206 kB/s
+209.51.136.188,25242,TRUE,MIA,North America,Miami,231 ms,5203 kB/s
+64.81.180.210,25232,TRUE,IAD,North America,Ashburn,241 ms,5200 kB/s
+40.183.198.213,25212,TRUE,IAD,North America,Ashburn,265 ms,5198 kB/s
+172.121.37.157,25222,TRUE,IAD,North America,Ashburn,268 ms,5196 kB/s
+172.252.113.35,25220,TRUE,MIA,North America,Miami,241 ms,5196 kB/s
+172.121.10.255,25212,TRUE,IAD,North America,Ashburn,272 ms,5193 kB/s
+198.177.59.64,25227,TRUE,MIA,North America,Miami,241 ms,5193 kB/s
+107.151.216.149,25292,TRUE,MIA,North America,Miami,236 ms,5192 kB/s
+172.121.37.245,25222,TRUE,IAD,North America,Ashburn,271 ms,5192 kB/s
+104.145.214.61,25212,TRUE,IAD,North America,Ashburn,236 ms,5191 kB/s
+72.9.224.46,25212,TRUE,IAD,North America,Ashburn,264 ms,5190 kB/s
+67.215.254.85,25228,TRUE,MIA,North America,Miami,246 ms,5186 kB/s
+104.253.186.11,25212,TRUE,IAD,North America,Ashburn,266 ms,5177 kB/s
+72.9.224.157,25222,TRUE,IAD,North America,Ashburn,276 ms,5176 kB/s
+172.121.10.227,25212,TRUE,IAD,North America,Ashburn,271 ms,5175 kB/s
+40.27.137.20,25292,TRUE,MIA,North America,Miami,236 ms,5174 kB/s
+172.252.113.20,25220,TRUE,MIA,North America,Miami,245 ms,5170 kB/s
+172.121.56.148,25212,TRUE,IAD,North America,Ashburn,275 ms,5170 kB/s
+216.83.47.212,25242,TRUE,MIA,North America,Miami,242 ms,5170 kB/s
+172.252.113.21,25220,TRUE,MIA,North America,Miami,236 ms,5170 kB/s
+104.253.10.153,25220,TRUE,IAD,North America,Ashburn,272 ms,5170 kB/s
+72.9.224.16,25212,TRUE,IAD,North America,Ashburn,270 ms,5169 kB/s
+40.27.174.244,25220,TRUE,IAD,North America,Ashburn,270 ms,5168 kB/s
+172.121.10.240,25212,TRUE,IAD,North America,Ashburn,262 ms,5167 kB/s
+172.121.10.109,25212,TRUE,IAD,North America,Ashburn,241 ms,5165 kB/s
+172.121.10.205,25212,TRUE,IAD,North America,Ashburn,268 ms,5163 kB/s
+172.121.37.196,25212,TRUE,IAD,North America,Ashburn,244 ms,5158 kB/s
+40.223.157.254,25222,TRUE,IAD,North America,Ashburn,265 ms,5154 kB/s
+40.183.198.250,25212,TRUE,IAD,North America,Ashburn,268 ms,5151 kB/s
+104.253.186.17,25212,TRUE,IAD,North America,Ashburn,261 ms,5149 kB/s
+207.210.125.2,25226,TRUE,MIA,North America,Miami,241 ms,5148 kB/s
+64.81.180.60,25212,TRUE,IAD,North America,Ashburn,264 ms,5148 kB/s
+64.81.180.21,25212,TRUE,IAD,North America,Ashburn,287 ms,5145 kB/s
+104.253.10.144,25220,TRUE,IAD,North America,Ashburn,268 ms,5143 kB/s
+172.120.243.147,25220,TRUE,IAD,North America,Ashburn,260 ms,5142 kB/s
+172.121.37.115,25222,TRUE,IAD,North America,Ashburn,232 ms,5142 kB/s
+198.177.59.182,25232,TRUE,MIA,North America,Miami,239 ms,5139 kB/s
+172.121.56.97,25220,TRUE,IAD,North America,Ashburn,237 ms,5139 kB/s
+75.127.120.136,25212,TRUE,IAD,North America,Ashburn,239 ms,5138 kB/s
+209.51.136.190,25226,TRUE,MIA,North America,Miami,231 ms,5134 kB/s
+72.9.224.139,25212,TRUE,IAD,North America,Ashburn,238 ms,5132 kB/s
+75.127.120.82,25212,TRUE,IAD,North America,Ashburn,264 ms,5132 kB/s
+172.121.49.245,25232,TRUE,MIA,North America,Miami,242 ms,5130 kB/s
+172.121.33.12,25220,TRUE,IAD,North America,Ashburn,265 ms,5130 kB/s
+40.223.251.81,25212,TRUE,IAD,North America,Ashburn,269 ms,5127 kB/s
+40.223.157.196,25212,TRUE,IAD,North America,Ashburn,265 ms,5126 kB/s
+64.81.180.21,25227,TRUE,IAD,North America,Ashburn,271 ms,5124 kB/s
+172.252.113.63,25220,TRUE,MIA,North America,Miami,232 ms,5119 kB/s
+40.183.198.244,25212,TRUE,IAD,North America,Ashburn,259 ms,5117 kB/s
+207.210.125.44,25228,TRUE,MIA,North America,Miami,238 ms,5116 kB/s
+209.51.136.167,25262,TRUE,MIA,North America,Miami,210 ms,5116 kB/s
+75.127.120.54,25220,TRUE,IAD,North America,Ashburn,237 ms,5113 kB/s
+216.83.47.252,25242,TRUE,MIA,North America,Miami,241 ms,5113 kB/s
+198.177.59.230,25222,TRUE,MIA,North America,Miami,241 ms,5110 kB/s
+40.223.251.107,25212,TRUE,IAD,North America,Ashburn,267 ms,5109 kB/s
+40.223.251.100,25212,TRUE,IAD,North America,Ashburn,267 ms,5103 kB/s
+104.253.10.233,25220,TRUE,IAD,North America,Ashburn,264 ms,5100 kB/s
+216.83.47.229,25242,TRUE,MIA,North America,Miami,204 ms,5098 kB/s
+209.51.136.141,25262,TRUE,MIA,North America,Miami,231 ms,5097 kB/s
+72.9.224.150,25222,TRUE,IAD,North America,Ashburn,276 ms,5095 kB/s
+72.9.224.217,25222,TRUE,IAD,North America,Ashburn,270 ms,5087 kB/s
+64.50.163.139,25222,TRUE,IAD,North America,Ashburn,262 ms,5087 kB/s
+172.252.113.145,25224,TRUE,MIA,North America,Miami,250 ms,5085 kB/s
+172.121.33.19,25212,TRUE,IAD,North America,Ashburn,259 ms,5085 kB/s
+75.127.120.160,25220,TRUE,IAD,North America,Ashburn,267 ms,5084 kB/s
+209.51.136.150,25228,TRUE,MIA,North America,Miami,241 ms,5084 kB/s
+172.120.243.201,25220,TRUE,IAD,North America,Ashburn,259 ms,5083 kB/s
+72.9.224.232,25222,TRUE,IAD,North America,Ashburn,244 ms,5081 kB/s
+172.121.56.61,25212,TRUE,IAD,North America,Ashburn,229 ms,5078 kB/s
+172.120.97.192,25222,TRUE,IAD,North America,Ashburn,268 ms,5074 kB/s
+209.51.136.181,25226,TRUE,MIA,North America,Miami,231 ms,5074 kB/s
+198.177.59.238,25212,TRUE,MIA,North America,Miami,235 ms,5074 kB/s
+75.127.120.105,25212,TRUE,IAD,North America,Ashburn,238 ms,5074 kB/s
+172.120.44.59,25224,TRUE,MIA,North America,Miami,254 ms,5074 kB/s
+172.121.56.33,25212,TRUE,IAD,North America,Ashburn,271 ms,5071 kB/s
+75.127.120.189,25212,TRUE,IAD,North America,Ashburn,239 ms,5071 kB/s
+163.5.207.31,444,TRUE,AMS,Europe,Amsterdam,284 ms,5069 kB/s
+75.127.120.130,25212,TRUE,IAD,North America,Ashburn,270 ms,5067 kB/s
+209.51.136.148,25242,TRUE,MIA,North America,Miami,225 ms,5066 kB/s
+172.120.44.7,25262,TRUE,MIA,North America,Miami,282 ms,5066 kB/s
+75.127.120.40,25212,TRUE,IAD,North America,Ashburn,266 ms,5065 kB/s
+40.223.251.141,25212,TRUE,IAD,North America,Ashburn,261 ms,5062 kB/s
+172.121.56.38,25212,TRUE,IAD,North America,Ashburn,273 ms,5062 kB/s
+75.127.120.135,25212,TRUE,IAD,North America,Ashburn,264 ms,5057 kB/s
+40.223.157.54,25212,TRUE,IAD,North America,Ashburn,273 ms,5056 kB/s
+209.51.136.134,25229,TRUE,MIA,North America,Miami,237 ms,5056 kB/s
+209.51.136.190,25262,TRUE,MIA,North America,Miami,224 ms,5055 kB/s
+75.127.120.252,25212,TRUE,IAD,North America,Ashburn,242 ms,5055 kB/s
+172.121.56.160,25212,TRUE,IAD,North America,Ashburn,264 ms,5054 kB/s
+198.177.59.227,25212,TRUE,MIA,North America,Miami,234 ms,5053 kB/s
+72.9.224.219,25222,TRUE,IAD,North America,Ashburn,267 ms,5052 kB/s
+75.127.120.90,25220,TRUE,IAD,North America,Ashburn,265 ms,5052 kB/s
+75.127.120.131,25212,TRUE,IAD,North America,Ashburn,264 ms,5052 kB/s
+172.120.243.254,25220,TRUE,IAD,North America,Ashburn,271 ms,5049 kB/s
+75.127.120.207,25212,TRUE,IAD,North America,Ashburn,266 ms,5049 kB/s
+72.9.224.140,25212,TRUE,IAD,North America,Ashburn,268 ms,5048 kB/s
+104.253.10.237,25220,TRUE,IAD,North America,Ashburn,274 ms,5046 kB/s
+75.127.120.240,25220,TRUE,IAD,North America,Ashburn,276 ms,5043 kB/s
+172.121.37.179,25222,TRUE,IAD,North America,Ashburn,268 ms,5043 kB/s
+40.223.157.195,25212,TRUE,IAD,North America,Ashburn,265 ms,5043 kB/s
+40.223.251.91,25212,TRUE,IAD,North America,Ashburn,279 ms,5043 kB/s
+172.121.37.45,25212,TRUE,IAD,North America,Ashburn,273 ms,5043 kB/s
+172.121.37.3,25220,TRUE,IAD,North America,Ashburn,242 ms,5042 kB/s
+64.81.180.166,25232,TRUE,IAD,North America,Ashburn,287 ms,5041 kB/s
+40.183.95.188,25232,TRUE,IAD,North America,Ashburn,271 ms,5041 kB/s
+172.121.33.24,25212,TRUE,IAD,North America,Ashburn,242 ms,5040 kB/s
+40.223.157.221,25222,TRUE,IAD,North America,Ashburn,275 ms,5040 kB/s
+172.121.33.19,25220,TRUE,IAD,North America,Ashburn,266 ms,5040 kB/s
+172.121.37.211,25222,TRUE,IAD,North America,Ashburn,267 ms,5039 kB/s
+67.215.254.122,25224,TRUE,MIA,North America,Miami,241 ms,5039 kB/s
+172.121.56.82,25212,TRUE,IAD,North America,Ashburn,263 ms,5039 kB/s
+172.120.44.34,25224,TRUE,MIA,North America,Miami,272 ms,5039 kB/s
+40.223.157.247,25212,TRUE,IAD,North America,Ashburn,236 ms,5039 kB/s
+172.121.37.130,25222,TRUE,IAD,North America,Ashburn,272 ms,5038 kB/s
+75.127.120.100,25220,TRUE,IAD,North America,Ashburn,263 ms,5038 kB/s
+40.223.251.105,25212,TRUE,IAD,North America,Ashburn,273 ms,5038 kB/s
+172.121.49.245,25229,TRUE,MIA,North America,Miami,241 ms,5037 kB/s
+172.120.243.166,25220,TRUE,IAD,North America,Ashburn,274 ms,5037 kB/s
+209.51.136.176,25228,TRUE,MIA,North America,Miami,241 ms,5037 kB/s
+172.121.56.121,25212,TRUE,IAD,North America,Ashburn,264 ms,5036 kB/s
+172.121.37.224,25212,TRUE,IAD,North America,Ashburn,260 ms,5036 kB/s
+40.223.251.118,25212,TRUE,IAD,North America,Ashburn,261 ms,5036 kB/s
+75.127.120.150,25212,TRUE,IAD,North America,Ashburn,269 ms,5036 kB/s
+104.253.10.135,25222,TRUE,IAD,North America,Ashburn,259 ms,5036 kB/s
+172.121.56.110,25212,TRUE,IAD,North America,Ashburn,261 ms,5036 kB/s
+72.9.224.40,25212,TRUE,IAD,North America,Ashburn,266 ms,5036 kB/s
+104.253.10.128,25220,TRUE,IAD,North America,Ashburn,235 ms,5036 kB/s
+172.120.243.187,25220,TRUE,IAD,North America,Ashburn,264 ms,5036 kB/s
+207.210.125.40,25228,TRUE,MIA,North America,Miami,235 ms,5036 kB/s
+72.9.224.59,25212,TRUE,IAD,North America,Ashburn,261 ms,5031 kB/s
+172.121.10.234,25228,TRUE,IAD,North America,Ashburn,263 ms,5031 kB/s
+64.81.180.161,25232,TRUE,IAD,North America,Ashburn,294 ms,5031 kB/s
+172.121.56.111,25220,TRUE,IAD,North America,Ashburn,262 ms,5031 kB/s
+72.14.147.80,25220,TRUE,IAD,North America,Ashburn,268 ms,5030 kB/s
+75.127.120.240,25212,TRUE,IAD,North America,Ashburn,273 ms,5030 kB/s
+64.81.180.168,25232,TRUE,IAD,North America,Ashburn,282 ms,5029 kB/s
+75.127.120.81,25212,TRUE,IAD,North America,Ashburn,275 ms,5029 kB/s
+172.121.56.182,25220,TRUE,IAD,North America,Ashburn,271 ms,5027 kB/s
+75.127.120.80,25212,TRUE,IAD,North America,Ashburn,267 ms,5027 kB/s
+172.121.56.16,25212,TRUE,IAD,North America,Ashburn,261 ms,5027 kB/s
+64.81.180.14,25227,TRUE,IAD,North America,Ashburn,238 ms,5027 kB/s
+172.121.37.221,25212,TRUE,IAD,North America,Ashburn,267 ms,5027 kB/s
+75.127.120.156,25212,TRUE,IAD,North America,Ashburn,261 ms,5027 kB/s
+104.253.10.204,25222,TRUE,IAD,North America,Ashburn,274 ms,5027 kB/s
+172.121.37.186,25222,TRUE,IAD,North America,Ashburn,234 ms,5026 kB/s
+172.121.33.62,25220,TRUE,IAD,North America,Ashburn,237 ms,5026 kB/s
+64.81.180.13,25232,TRUE,IAD,North America,Ashburn,281 ms,5026 kB/s
+172.121.37.102,25222,TRUE,IAD,North America,Ashburn,272 ms,5023 kB/s
+172.121.37.252,25212,TRUE,IAD,North America,Ashburn,263 ms,5023 kB/s
+172.120.243.247,25220,TRUE,IAD,North America,Ashburn,275 ms,5023 kB/s
+172.252.113.6,25242,TRUE,MIA,North America,Miami,228 ms,5023 kB/s
+40.223.251.121,25212,TRUE,IAD,North America,Ashburn,272 ms,5021 kB/s
+40.223.251.144,25212,TRUE,IAD,North America,Ashburn,270 ms,5021 kB/s
+64.81.180.204,25232,TRUE,IAD,North America,Ashburn,238 ms,5020 kB/s
+172.121.37.184,25212,TRUE,IAD,North America,Ashburn,268 ms,5020 kB/s
+207.210.125.13,25228,TRUE,MIA,North America,Miami,242 ms,5020 kB/s
+172.121.56.186,25212,TRUE,IAD,North America,Ashburn,265 ms,5020 kB/s
+209.51.136.154,25226,TRUE,MIA,North America,Miami,254 ms,5020 kB/s
+64.81.180.225,25232,TRUE,IAD,North America,Ashburn,268 ms,5020 kB/s
+172.121.37.151,25212,TRUE,IAD,North America,Ashburn,269 ms,5018 kB/s
+172.121.56.171,25212,TRUE,IAD,North America,Ashburn,271 ms,5017 kB/s
+172.121.37.227,25212,TRUE,IAD,North America,Ashburn,267 ms,5017 kB/s
+172.121.33.11,25212,TRUE,IAD,North America,Ashburn,259 ms,5016 kB/s
+172.121.33.140,25220,TRUE,IAD,North America,Ashburn,274 ms,5014 kB/s
+64.81.180.19,25212,TRUE,IAD,North America,Ashburn,256 ms,5014 kB/s
+172.121.37.188,25222,TRUE,IAD,North America,Ashburn,239 ms,5012 kB/s
+72.9.224.55,25212,TRUE,IAD,North America,Ashburn,236 ms,5011 kB/s
+172.120.243.220,25220,TRUE,IAD,North America,Ashburn,238 ms,5011 kB/s
+40.223.157.240,25212,TRUE,IAD,North America,Ashburn,271 ms,5011 kB/s
+40.223.157.37,25212,TRUE,IAD,North America,Ashburn,265 ms,5010 kB/s
+209.51.136.169,25226,TRUE,MIA,North America,Miami,238 ms,5010 kB/s
+172.121.56.186,25220,TRUE,IAD,North America,Ashburn,263 ms,5010 kB/s
+209.51.136.177,25262,TRUE,MIA,North America,Miami,238 ms,5008 kB/s
+172.121.33.14,25212,TRUE,IAD,North America,Ashburn,263 ms,5008 kB/s
+172.252.113.19,25229,TRUE,MIA,North America,Miami,241 ms,5008 kB/s
+172.121.56.157,25212,TRUE,IAD,North America,Ashburn,280 ms,5008 kB/s
+40.183.95.159,25227,TRUE,IAD,North America,Ashburn,275 ms,5007 kB/s
+40.183.198.253,25212,TRUE,IAD,North America,Ashburn,260 ms,5007 kB/s
+172.121.49.170,25232,TRUE,MIA,North America,Miami,225 ms,5006 kB/s
+172.120.250.99,25232,TRUE,MIA,North America,Miami,241 ms,5006 kB/s
+172.120.250.110,25232,TRUE,MIA,North America,Miami,240 ms,5005 kB/s
+75.127.120.230,25212,TRUE,IAD,North America,Ashburn,281 ms,5004 kB/s
+172.120.243.237,25220,TRUE,IAD,North America,Ashburn,268 ms,5004 kB/s
+40.223.157.250,25222,TRUE,IAD,North America,Ashburn,238 ms,5004 kB/s
+172.121.37.176,25222,TRUE,IAD,North America,Ashburn,268 ms,5004 kB/s
+209.51.136.161,25229,TRUE,MIA,North America,Miami,241 ms,5004 kB/s
+75.127.120.215,25212,TRUE,IAD,North America,Ashburn,241 ms,5002 kB/s
+172.121.37.16,25220,TRUE,IAD,North America,Ashburn,242 ms,5001 kB/s
+172.120.243.211,25222,TRUE,IAD,North America,Ashburn,265 ms,5001 kB/s
+64.81.180.163,25212,TRUE,IAD,North America,Ashburn,239 ms,5001 kB/s
+72.9.224.241,25222,TRUE,IAD,North America,Ashburn,268 ms,5001 kB/s
